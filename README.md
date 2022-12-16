@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">Fullstack mobile (Flutter) developer</h3>
+<h3 align="center">Fullstack Mobile (Flutter) Developer</h3>
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **Java Spring**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AzazelSensei?tab=repositories](https://github.com/AzazelSensei?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/AzazelSensei?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@azazellsama](https://medium.com/@azazellsama)
+- 📝 I regularly write articles on [Medium Blog](https://medium.com/@azazellsama)
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **abdullahgokmenbusiness@gmail.com**
 

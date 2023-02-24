@@ -12,6 +12,12 @@
 
 - 📫 How to reach me **abdullahgokmenbusiness@gmail.com**
 
+<h3 align="center">Google Play</h3>
+<p align="center">
+<a href="https://linkedin.com/in/abdullah-gokmen" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/vSLRP8ybm7eRckaiF9_sImG5W82u7KQ2WdfkkQ9759krvB4PGXx814aJrnWRmbeYOyY=w240-h480-rw" alt="abdullah-gokmen" height="30" width="40" /></a>
+</p>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/abdullah-gokmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-gokmen" height="30" width="40" /></a>

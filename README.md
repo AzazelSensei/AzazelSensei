@@ -14,7 +14,7 @@
 
 <h3 align="center">Google Play</h3>
 <p align="center">
-<a href="https://play.google.com/store/apps/dev?id=6236335327571324743" target="blank"><img align="center" src="https://play.google/about/howplayworks/static/assets/social/share_google_play_logo.png" alt="abdullah-gokmen" height="40" width="140" /></a>
+<a href="https://play.google.com/store/apps/dev?id=6236335327571324743" target="blank"><img align="center" src="https://play.google/about/howplayworks/static/assets/social/share_google_play_logo.png" alt="abdullah-gokmen" height="60" width="140" /></a>
 </p>
 
 

@@ -14,7 +14,11 @@
 
 <h3 align="center">Google Play</h3>
 <p align="center">
-<a href="https://play.google.com/store/apps/dev?id=6236335327571324743" target="blank"><img align="center" src="https://play.google/about/howplayworks/static/assets/social/share_google_play_logo.png" alt="abdullah-gokmen" height="60" width="140" /></a>
+<a href="Pv Solar Solution" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/I-fANXXgwuU70hH7uG8uchFe62WeBnnzNCuCPgk4Rhj7fYZMCSgWRy8sBDCsMAgIJ4A=s256" alt="abdullah-gokmen" height="40" width="40" /></a>
+<a href="TTercüme" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/WRcIbu_mRQY3s8I8sL5uc-y2ap7v6zZCtc1zvt0GmGSTeUYgfB_5EfMcAKtfTPLzvWhY=s256" alt="abdullahgkmen" height="40" width="40" /></a>
+<a href="QR Okuyucu" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/slJDvH8pA9sSxrZX53PWNQXE9Se3E8Re0aon8np37LsF8vdksD5qKhcu3P1an0IefQ=s256" alt="@azazellsama" height="40" width="40" /></a>
+<a href="Private Notes" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/vSLRP8ybm7eRckaiF9_sImG5W82u7KQ2WdfkkQ9759krvB4PGXx814aJrnWRmbeYOyY=s256" alt="@azazellsama" height="40" width="40" /></a>
+</p>
 </p>
 
 

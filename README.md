@@ -24,7 +24,6 @@
 
 <h3 align="center">Apple Store</h3>
 <p align="center">
-<a href="Pv Solar Solution" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/I-fANXXgwuU70hH7uG8uchFe62WeBnnzNCuCPgk4Rhj7fYZMCSgWRy8sBDCsMAgIJ4A=s256" alt="abdullah-gokmen" height="40" width="40" /></a>
 <a href="https://apps.apple.com/us/app/ttercüme/id6446292090" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/WRcIbu_mRQY3s8I8sL5uc-y2ap7v6zZCtc1zvt0GmGSTeUYgfB_5EfMcAKtfTPLzvWhY=s256" alt="abdullahgkmen" height="40" width="40" /></a>
 </p>
 

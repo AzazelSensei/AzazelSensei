@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Mobile (Flutter) Developer</h3>
 <h4 align="center">Backend works and some projects are not shown for security reasons and customer demands.</h4>
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/AzazelSensei?tab=repositories)
 
@@ -18,6 +18,8 @@
 <a href="https://play.google.com/store/apps/details?id=com.ethereal.ttercume.app" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/WRcIbu_mRQY3s8I8sL5uc-y2ap7v6zZCtc1zvt0GmGSTeUYgfB_5EfMcAKtfTPLzvWhY=s256" alt="abdullahgkmen" height="40" width="40" /></a>
 <a href="https://play.google.com/store/apps/details?id=io.crossp.qrscanner" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/slJDvH8pA9sSxrZX53PWNQXE9Se3E8Re0aon8np37LsF8vdksD5qKhcu3P1an0IefQ=s256" alt="@azazellsama" height="40" width="40" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.crosspsoftware.privatenotes" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/vSLRP8ybm7eRckaiF9_sImG5W82u7KQ2WdfkkQ9759krvB4PGXx814aJrnWRmbeYOyY=s256" alt="@azazellsama" height="40" width="40" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.crossp.gastroblue" target="blank"><img align="center" src="https://lh3.googleusercontent.com/f8VLarp22jG--HB9FDy6OvCoMe5vWfC2c8CIR_w5can9VT4x4mF2Bgsz2DG0OEn4vTs" alt="abdullah-gokmen" height="40" width="40" /></a>
+<a href="https://play.google.com/store/apps/details?id=io.wadaa" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/wIKNelbhi2jHKpekiLvtchxvzLKgELA0TTLZgOcftro3oeissHZMdj3IxzpSqaYHK-0=w240-h480-rw" alt="abdullah-gokmen" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Apple Store</h3>

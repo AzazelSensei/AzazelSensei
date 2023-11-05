@@ -6,11 +6,12 @@
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/AzazelSensei?tab=repositories)
 
-- 📝 I regularly write articles on [Medium Blog](https://medium.com/@azazellsama)
+- 📝 I regularly write articles on [Medium Blog]()
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **abdullahgokmenbusiness@gmail.com**
+**+905062400894**
 
 <h3 align="center">Google Play</h3>
 <p align="center">

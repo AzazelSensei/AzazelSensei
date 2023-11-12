@@ -11,7 +11,6 @@
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **abdullahgokmenbusiness@gmail.com**
-**+905062400894**
 
 <h3 align="center">Google Play</h3>
 <p align="center">

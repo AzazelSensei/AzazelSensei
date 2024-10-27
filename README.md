@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">Fullstack Mobile (Flutter) Developer</h3>
+<h3 align="center">Fullstack Developer Developer</h3>
 <h4 align="center">Backend works and some projects are not shown for security reasons and customer demands.</h4>
 
 - 🌱 I’m currently learning **Java**

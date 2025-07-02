@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/AzazelSensei?tab=repositories)
 
-- 📝 I regularly write articles on [Medium Blog]()
+- 📝 I regularly write articles on [Medium Blog](https://medium.com/@abdullahgokmenbusiness)
 
 - 💬 Ask me about **Flutter**
 

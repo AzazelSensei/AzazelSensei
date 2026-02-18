@@ -1,38 +1,99 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">Fullstack Developer Developer</h3>
-<h4 align="center">Backend works and some projects are not shown for security reasons and customer demands.</h4>
+<div align="center">
 
-- 🌱 I’m currently learning **Java**
+# Abdullah Gökmen
 
-- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/AzazelSensei?tab=repositories)
+**Software Engineer**
 
-- 📝 I regularly write articles on [Medium Blog](https://medium.com/@abdullahgokmenbusiness)
+Building scalable backend systems & cross-platform applications
 
-- 💬 Ask me about **Flutter**
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdullahgokmen.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdullahgokmen.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdullah--gokmen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-gokmen)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahgokmenbusiness@gmail.com)
 
-- 📫 How to reach me **abdullahgokmenbusiness@gmail.com**
+</div>
 
-<h3 align="center">Google Play</h3>
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.pv.solar.solution" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/I-fANXXgwuU70hH7uG8uchFe62WeBnnzNCuCPgk4Rhj7fYZMCSgWRy8sBDCsMAgIJ4A=s256" alt="abdullah-gokmen" height="40" width="40" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.ethereal.ttercume.app" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/WRcIbu_mRQY3s8I8sL5uc-y2ap7v6zZCtc1zvt0GmGSTeUYgfB_5EfMcAKtfTPLzvWhY=s256" alt="abdullahgkmen" height="40" width="40" /></a>
-<a href="https://play.google.com/store/apps/details?id=io.crossp.qrscanner" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/slJDvH8pA9sSxrZX53PWNQXE9Se3E8Re0aon8np37LsF8vdksD5qKhcu3P1an0IefQ=s256" alt="@azazellsama" height="40" width="40" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.crosspsoftware.privatenotes" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/vSLRP8ybm7eRckaiF9_sImG5W82u7KQ2WdfkkQ9759krvB4PGXx814aJrnWRmbeYOyY=s256" alt="@azazellsama" height="40" width="40" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.crossp.gastroblue" target="blank"><img align="center" src="https://lh3.googleusercontent.com/f8VLarp22jG--HB9FDy6OvCoMe5vWfC2c8CIR_w5can9VT4x4mF2Bgsz2DG0OEn4vTs" alt="abdullah-gokmen" height="40" width="40" /></a>
-<a href="https://play.google.com/store/apps/details?id=io.wadaa" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/wIKNelbhi2jHKpekiLvtchxvzLKgELA0TTLZgOcftro3oeissHZMdj3IxzpSqaYHK-0=w240-h480-rw" alt="abdullah-gokmen" height="40" width="40" /></a>
-</p>
+---
 
-<h3 align="center">Apple Store</h3>
-<p align="center">
-<a href="https://apps.apple.com/us/app/ttercüme/id6446292090" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/WRcIbu_mRQY3s8I8sL5uc-y2ap7v6zZCtc1zvt0GmGSTeUYgfB_5EfMcAKtfTPLzvWhY=s256" alt="abdullahgkmen" height="40" width="40" /></a>
-</p>
+### About Me
 
+- Currently working at the **Turkish Ministry of Health**, contributing to systems serving **85M+ users**
+- Focused on **backend architecture**, **microservices**, and **DevOps** practices
+- Experienced in building production-grade mobile & web applications
+- Backend works and some projects are not shown for security reasons and client requirements
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/abdullah-gokmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-gokmen" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullahgkmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahgkmen" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"></a> </p>
+### Tech Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**Frontend & Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Projects
+
+<div align="center">
+
+<a href="https://abdullahgokmen.com">
+<img src="https://img.shields.io/badge/🌐_abdullahgokmen.com-Portfolio-000000?style=for-the-badge" alt="Portfolio" />
+</a>
+
+<a href="https://boostly.com.tr">
+<img src="https://img.shields.io/badge/🚀_boostly.com.tr-Digital%20Marketing%20Platform-6C3FC5?style=for-the-badge" alt="Boostly" />
+</a>
+
+<a href="https://flexiplay.com.tr">
+<img src="https://img.shields.io/badge/🎬_flexiplay.com.tr-Cross--Platform%20Media%20Player-1DB954?style=for-the-badge" alt="FlexiPlay" />
+</a>
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AzazelSensei&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzazelSensei&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AzazelSensei&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AzazelSensei-181717?style=flat-square&logo=github)](https://github.com/AzazelSensei?tab=repositories)
+[![Instagram](https://img.shields.io/badge/Instagram-abdullahgkmen-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/abdullahgkmen)
+
+</div>

@@ -78,14 +78,14 @@ Building scalable backend systems & cross-platform applications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AzazelSensei&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzazelSensei&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AzazelSensei&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AzazelSensei&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AzazelSensei&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AzazelSensei&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 

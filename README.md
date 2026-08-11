@@ -85,7 +85,7 @@ Building scalable backend systems & cross-platform applications
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AzazelSensei&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.vercel.app/?user=AzazelSensei&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 

@@ -78,12 +78,15 @@ Building scalable backend systems & cross-platform applications
 
 Merged contributions I actually landed:
 
+<!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [content](https://github.com/mdn/content) | [Remove incorrect private+no-store guidance from HTTP caching guide](https://github.com/mdn/content/pull/45094) |
 | [retrofit.dart](https://github.com/trevorwang/retrofit.dart) | [detect generated `toJson` on Freezed models](https://github.com/trevorwang/retrofit.dart/pull/927) |
 | [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) | [`VideoFrame.copyTo.format_property`](https://github.com/mdn/browser-compat-data/pull/30217) |
 | [Lithos UI](https://github.com/lithosui/Lithos_UI) | [Toggle coverage for #124](https://github.com/lithosui/Lithos_UI/pull/159) |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | [stray article in Toggle Text App](https://github.com/freeCodeCamp/freeCodeCamp/pull/69486) |
+<!-- oss-merged:end -->
 
 ---
 

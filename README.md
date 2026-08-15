@@ -121,7 +121,6 @@ Open pull requests:
 | [flutter_map](https://github.com/fleaflet/flutter_map) | [don't pass a non-positive pinch scale to math.log](https://github.com/fleaflet/flutter_map/pull/2241) |
 | [flutter_map](https://github.com/fleaflet/flutter_map) | [stop MarkerLayer wrap loops on a non-finite camera](https://github.com/fleaflet/flutter_map/pull/2242) |
 | [flutter_form_builder](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder) | [add itemCrossAxisAlignment to FormBuilderRadioGroup #1401](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder/pull/1518) |
-| [flutter_form_builder](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder) | [scroll to first invalid field in visual order #1476](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder/pull/1519) |
 | [form_builder_validators](https://github.com/flutter-form-builder-ecosystem/form_builder_validators) | [clarify v11 checkNullOrEmpty default for optional fields #116](https://github.com/flutter-form-builder-ecosystem/form_builder_validators/pull/166) |
 | [get_it](https://github.com/flutter-it/get_it) | [Add optional ignoreIfNotRegistered to unregister #420](https://github.com/flutter-it/get_it/pull/424) |
 | [sentry-dart](https://github.com/getsentry/sentry-dart) | [document add-to-app and replay when native init is off](https://github.com/getsentry/sentry-dart/pull/3967) |

@@ -116,11 +116,13 @@ Open pull requests:
 | [bloc](https://github.com/felangel/bloc) | [testing initial events](https://github.com/felangel/bloc/pull/4859) |
 | [bloc](https://github.com/felangel/bloc) | [add prefer_bloc_provider](https://github.com/felangel/bloc/pull/4860) |
 | [bloc](https://github.com/felangel/bloc) | [add avoid_missing_event_handlers](https://github.com/felangel/bloc/pull/4861) |
+| [equatable](https://github.com/felangel/equatable) | [compare records with == in objectsEquals](https://github.com/felangel/equatable/pull/216) |
 | [mocktail](https://github.com/felangel/mocktail) | [hint when previous when() is missing then*](https://github.com/felangel/mocktail/pull/274) |
 | [mocktail](https://github.com/felangel/mocktail) | [name the verified mock on call-count mismatch](https://github.com/felangel/mocktail/pull/275) |
 | [flutter_map](https://github.com/fleaflet/flutter_map) | [don't pass a non-positive pinch scale to math.log](https://github.com/fleaflet/flutter_map/pull/2241) |
 | [flutter_map](https://github.com/fleaflet/flutter_map) | [stop MarkerLayer wrap loops on a non-finite camera](https://github.com/fleaflet/flutter_map/pull/2242) |
 | [flutter_form_builder](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder) | [add itemCrossAxisAlignment to FormBuilderRadioGroup #1401](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder/pull/1518) |
+| [form_builder_extra_fields](https://github.com/flutter-form-builder-ecosystem/form_builder_extra_fields) | [default searchable dropdown text style to titleMedium #99](https://github.com/flutter-form-builder-ecosystem/form_builder_extra_fields/pull/156) |
 | [form_builder_validators](https://github.com/flutter-form-builder-ecosystem/form_builder_validators) | [clarify v11 checkNullOrEmpty default for optional fields #116](https://github.com/flutter-form-builder-ecosystem/form_builder_validators/pull/166) |
 | [get_it](https://github.com/flutter-it/get_it) | [Add optional ignoreIfNotRegistered to unregister #420](https://github.com/flutter-it/get_it/pull/424) |
 | [sentry-dart](https://github.com/getsentry/sentry-dart) | [document add-to-app and replay when native init is off](https://github.com/getsentry/sentry-dart/pull/3967) |
@@ -129,15 +131,18 @@ Open pull requests:
 | [json_serializable.dart](https://github.com/google/json_serializable.dart) | [Use $enumEncode for non-nullable enum toJson lookups](https://github.com/google/json_serializable.dart/pull/1587) |
 | [json_serializable.dart](https://github.com/google/json_serializable.dart) | [Prefix json_annotation helpers when imported with a prefix](https://github.com/google/json_serializable.dart/pull/1588) |
 | [flutter_animate](https://github.com/gskinner/flutter_animate) | [Annotate Widget.animate() with @widgetFactory](https://github.com/gskinner/flutter_animate/pull/167) |
+| [melos](https://github.com/invertase/melos) | [only report success when dart pub exits 0](https://github.com/invertase/melos/pull/1061) |
 | [hive_ce_docs](https://github.com/IO-Design-Team/hive_ce_docs) | [Update contacts tutorial to GenerateAdapters](https://github.com/IO-Design-Team/hive_ce_docs/pull/4) |
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |
 | [jsoup](https://github.com/jhy/jsoup) | [Add Elements.before(Node) and after/prepend/append(Node) #953](https://github.com/jhy/jsoup/pull/2567) |
 | [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | [Join backgroundScope after cancel in runTest](https://github.com/Kotlin/kotlinx.coroutines/pull/4726) |
 | [patrol](https://github.com/leancodepl/patrol) | [report drag time on dragUntil timeouts #2103](https://github.com/leancodepl/patrol/pull/3236) |
+| [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) | [Add css.types.color.from_currentcolor for relative color origin](https://github.com/mdn/browser-compat-data/pull/30240) |
 | [css-examples](https://github.com/mdn/css-examples) | [put border-image-source last in CSS output](https://github.com/mdn/css-examples/pull/217) |
 | [micrometer](https://github.com/micrometer-metrics/micrometer) | [Document @MeterTag when placed on a method](https://github.com/micrometer-metrics/micrometer/pull/7834) |
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |
 | [Feign](https://github.com/OpenFeign/feign) | [Skip bridge methods in contract parsing and map them for dispatch](https://github.com/OpenFeign/feign/pull/3517) |
+| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
@@ -148,6 +153,7 @@ Open pull requests:
 | [spring-security](https://github.com/spring-projects/spring-security) | [Document DaoAuthenticationProvider timing-attack mitigation](https://github.com/spring-projects/spring-security/pull/19533) |
 | [tldr](https://github.com/tldr-pages/tldr) | [add page](https://github.com/tldr-pages/tldr/pull/23560) |
 | [tldr](https://github.com/tldr-pages/tldr) | [add page](https://github.com/tldr-pages/tldr/pull/23561) |
+| [retrofit.dart](https://github.com/trevorwang/retrofit.dart) | [serialize FlutterCompute @Body via toJson](https://github.com/trevorwang/retrofit.dart/pull/929) |
 | [fx](https://github.com/uber-go/fx) | [Add AsType generic wrapper over As](https://github.com/uber-go/fx/pull/1296) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [avoid CanvasKit stack overflow on animated trim paths #411](https://github.com/xvrh/lottie-flutter/pull/428) |

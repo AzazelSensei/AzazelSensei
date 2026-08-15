@@ -81,6 +81,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [melos](https://github.com/invertase/melos) | [honor PUB_CACHE when generating IDE files](https://github.com/invertase/melos/pull/1059) |
 | [content](https://github.com/mdn/content) | [Remove incorrect private+no-store guidance from HTTP caching guide](https://github.com/mdn/content/pull/45094) |
 | [retrofit.dart](https://github.com/trevorwang/retrofit.dart) | [detect generated `toJson` on Freezed models](https://github.com/trevorwang/retrofit.dart/pull/927) |
 | [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) | [`VideoFrame.copyTo.format_property`](https://github.com/mdn/browser-compat-data/pull/30217) |

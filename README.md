@@ -81,6 +81,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [PMD](https://github.com/pmd/pmd) | [[java] AbstractClassWithoutAnyMethod false positive on derived abstra...](https://github.com/pmd/pmd/pull/6972) |
 | [form_builder_extra_fields](https://github.com/flutter-form-builder-ecosystem/form_builder_extra_fields) | [add a visual example gallery for extra fields #21](https://github.com/flutter-form-builder-ecosystem/form_builder_extra_fields/pull/155) |
@@ -144,7 +145,6 @@ Open pull requests:
 | [Feign](https://github.com/OpenFeign/feign) | [Skip bridge methods in contract parsing and map them for dispatch](https://github.com/OpenFeign/feign/pull/3517) |
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |
-| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [pflag](https://github.com/spf13/pflag) | [Keep wrapping after an unbreakable usage word](https://github.com/spf13/pflag/pull/503) |
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |
 | [spring-data-commons](https://github.com/spring-projects/spring-data-commons) | [Document Vavr collection types as query method parameters](https://github.com/spring-projects/spring-data-commons/pull/3526) |

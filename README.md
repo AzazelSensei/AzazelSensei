@@ -81,9 +81,9 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
-| [PMD](https://github.com/pmd/pmd) | [[java] AbstractClassWithoutAnyMethod false positive on derived abstra...](https://github.com/pmd/pmd/pull/6972) |
+| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
+| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [form_builder_extra_fields](https://github.com/flutter-form-builder-ecosystem/form_builder_extra_fields) | [add a visual example gallery for extra fields #21](https://github.com/flutter-form-builder-ecosystem/form_builder_extra_fields/pull/155) |
 | [flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker) | [Relax file_picker_linux dbus to ^0.7.13](https://github.com/miguelpruivo/flutter_file_picker/pull/2133) |
 | [melos](https://github.com/invertase/melos) | [honor PUB_CACHE when generating IDE files](https://github.com/invertase/melos/pull/1059) |

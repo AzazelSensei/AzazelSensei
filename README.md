@@ -127,7 +127,6 @@ Open pull requests:
 | [flutter_map](https://github.com/fleaflet/flutter_map) | [stop MarkerLayer wrap loops on a non-finite camera](https://github.com/fleaflet/flutter_map/pull/2242) |
 | [form_builder_extra_fields](https://github.com/flutter-form-builder-ecosystem/form_builder_extra_fields) | [default searchable dropdown text style to titleMedium #99](https://github.com/flutter-form-builder-ecosystem/form_builder_extra_fields/pull/156) |
 | [get_it](https://github.com/flutter-it/get_it) | [Add optional ignoreIfNotRegistered to unregister #420](https://github.com/flutter-it/get_it/pull/424) |
-| [sentry-dart](https://github.com/getsentry/sentry-dart) | [document add-to-app and replay when native init is off](https://github.com/getsentry/sentry-dart/pull/3967) |
 | [dagger](https://github.com/google/dagger) | [Clarify that enableAggregatingTask is on by default #5235](https://github.com/google/dagger/pull/5253) |
 | [error-prone](https://github.com/google/error-prone) | [Skip nested java.lang types in AvoidCommonTypeNames](https://github.com/google/error-prone/pull/6023) |
 | [json_serializable.dart](https://github.com/google/json_serializable.dart) | [Use $enumEncode for non-nullable enum toJson lookups](https://github.com/google/json_serializable.dart/pull/1587) |

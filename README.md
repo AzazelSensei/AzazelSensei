@@ -81,6 +81,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [retrofit.dart](https://github.com/trevorwang/retrofit.dart) | [serialize FlutterCompute @Body via toJson](https://github.com/trevorwang/retrofit.dart/pull/929) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
@@ -151,7 +152,6 @@ Open pull requests:
 | [spring-security](https://github.com/spring-projects/spring-security) | [Document DaoAuthenticationProvider timing-attack mitigation](https://github.com/spring-projects/spring-security/pull/19533) |
 | [tldr](https://github.com/tldr-pages/tldr) | [add page](https://github.com/tldr-pages/tldr/pull/23560) |
 | [tldr](https://github.com/tldr-pages/tldr) | [add page](https://github.com/tldr-pages/tldr/pull/23561) |
-| [retrofit.dart](https://github.com/trevorwang/retrofit.dart) | [serialize FlutterCompute @Body via toJson](https://github.com/trevorwang/retrofit.dart/pull/929) |
 | [fx](https://github.com/uber-go/fx) | [Add AsType generic wrapper over As](https://github.com/uber-go/fx/pull/1296) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [avoid CanvasKit stack overflow on animated trim paths #411](https://github.com/xvrh/lottie-flutter/pull/428) |

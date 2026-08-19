@@ -126,7 +126,6 @@ Open pull requests:
 | [mocktail](https://github.com/felangel/mocktail) | [name the verified mock on call-count mismatch](https://github.com/felangel/mocktail/pull/275) |
 | [flutter_map](https://github.com/fleaflet/flutter_map) | [don't pass a non-positive pinch scale to math.log](https://github.com/fleaflet/flutter_map/pull/2241) |
 | [flutter_map](https://github.com/fleaflet/flutter_map) | [stop MarkerLayer wrap loops on a non-finite camera](https://github.com/fleaflet/flutter_map/pull/2242) |
-| [form_builder_extra_fields](https://github.com/flutter-form-builder-ecosystem/form_builder_extra_fields) | [default searchable dropdown text style to titleMedium #99](https://github.com/flutter-form-builder-ecosystem/form_builder_extra_fields/pull/156) |
 | [get_it](https://github.com/flutter-it/get_it) | [Add optional ignoreIfNotRegistered to unregister #420](https://github.com/flutter-it/get_it/pull/424) |
 | [dagger](https://github.com/google/dagger) | [Clarify that enableAggregatingTask is on by default #5235](https://github.com/google/dagger/pull/5253) |
 | [error-prone](https://github.com/google/error-prone) | [Skip nested java.lang types in AvoidCommonTypeNames](https://github.com/google/error-prone/pull/6023) |

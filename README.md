@@ -81,6 +81,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [maven-enforcer](https://github.com/apache/maven-enforcer) | [RequireFilesExist should accept a file reached through](https://github.com/apache/maven-enforcer/pull/1011) |
 | [jsoup](https://github.com/jhy/jsoup) | [Add Elements.before(Node) and after/prepend/append(Node) #953](https://github.com/jhy/jsoup/pull/2567) |
 | [Feign](https://github.com/OpenFeign/feign) | [Skip bridge methods in contract parsing and map them for dispatch](https://github.com/OpenFeign/feign/pull/3517) |
 | [retrofit.dart](https://github.com/trevorwang/retrofit.dart) | [serialize FlutterCompute @Body via toJson](https://github.com/trevorwang/retrofit.dart/pull/929) |
@@ -107,7 +108,6 @@ Open pull requests:
 | [maven-changes-plugin](https://github.com/apache/maven-changes-plugin) | [Fail announcement templates on null Velocity values #130](https://github.com/apache/maven-changes-plugin/pull/658) |
 | [maven-checkstyle-plugin](https://github.com/apache/maven-checkstyle-plugin) | [failsOnError should fail the build, not abort the report #656](https://github.com/apache/maven-checkstyle-plugin/pull/695) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
-| [maven-enforcer](https://github.com/apache/maven-enforcer) | [RequireFilesExist should accept a file reached through](https://github.com/apache/maven-enforcer/pull/1011) |
 | [maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) | [Clarify that sign-and-deploy-file uses Resolver POST](https://github.com/apache/maven-gpg-plugin/pull/338) |
 | [maven-help-plugin](https://github.com/apache/maven-help-plugin) | [Do not let effective-pom encoding fall back to null](https://github.com/apache/maven-help-plugin/pull/422) |
 | [maven-invoker-plugin](https://github.com/apache/maven-invoker-plugin) | [Document how to use a JVM debugger with invoker ITs #708](https://github.com/apache/maven-invoker-plugin/pull/750) |

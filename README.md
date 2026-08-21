@@ -81,15 +81,15 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
+| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
+| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [jackson-databind](https://github.com/FasterXML/jackson-databind) | [Document that CacheProvider must return new cache instances](https://github.com/FasterXML/jackson-databind/pull/6162) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [avoid CanvasKit stack overflow on animated trim paths #411](https://github.com/xvrh/lottie-flutter/pull/428) |
 | [maven-enforcer](https://github.com/apache/maven-enforcer) | [RequireFilesExist should accept a file reached through](https://github.com/apache/maven-enforcer/pull/1011) |
 | [jsoup](https://github.com/jhy/jsoup) | [Add Elements.before(Node) and after/prepend/append(Node) #953](https://github.com/jhy/jsoup/pull/2567) |
 | [Feign](https://github.com/OpenFeign/feign) | [Skip bridge methods in contract parsing and map them for dispatch](https://github.com/OpenFeign/feign/pull/3517) |
 | [retrofit.dart](https://github.com/trevorwang/retrofit.dart) | [serialize FlutterCompute @Body via toJson](https://github.com/trevorwang/retrofit.dart/pull/929) |
-| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
-| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
-| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) | [Add css.types.color.from_currentcolor for relative color origin](https://github.com/mdn/browser-compat-data/pull/30240) |
 | [form_builder_extra_fields](https://github.com/flutter-form-builder-ecosystem/form_builder_extra_fields) | [add a visual example gallery for extra fields #21](https://github.com/flutter-form-builder-ecosystem/form_builder_extra_fields/pull/155) |
 | [flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker) | [Relax file_picker_linux dbus to ^0.7.13](https://github.com/miguelpruivo/flutter_file_picker/pull/2133) |

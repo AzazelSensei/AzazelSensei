@@ -81,6 +81,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [avoid CanvasKit stack overflow on animated trim paths #411](https://github.com/xvrh/lottie-flutter/pull/428) |
 | [maven-enforcer](https://github.com/apache/maven-enforcer) | [RequireFilesExist should accept a file reached through](https://github.com/apache/maven-enforcer/pull/1011) |
 | [jsoup](https://github.com/jhy/jsoup) | [Add Elements.before(Node) and after/prepend/append(Node) #953](https://github.com/jhy/jsoup/pull/2567) |
 | [Feign](https://github.com/OpenFeign/feign) | [Skip bridge methods in contract parsing and map them for dispatch](https://github.com/OpenFeign/feign/pull/3517) |
@@ -153,7 +154,6 @@ Open pull requests:
 | [tldr](https://github.com/tldr-pages/tldr) | [add page](https://github.com/tldr-pages/tldr/pull/23561) |
 | [fx](https://github.com/uber-go/fx) | [Add AsType generic wrapper over As](https://github.com/uber-go/fx/pull/1296) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
-| [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [avoid CanvasKit stack overflow on animated trim paths #411](https://github.com/xvrh/lottie-flutter/pull/428) |
 <!-- oss-open:end -->
 
 ---

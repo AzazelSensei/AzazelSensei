@@ -81,6 +81,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [jackson-databind](https://github.com/FasterXML/jackson-databind) | [Document that CacheProvider must return new cache instances](https://github.com/FasterXML/jackson-databind/pull/6162) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [avoid CanvasKit stack overflow on animated trim paths #411](https://github.com/xvrh/lottie-flutter/pull/428) |
 | [maven-enforcer](https://github.com/apache/maven-enforcer) | [RequireFilesExist should accept a file reached through](https://github.com/apache/maven-enforcer/pull/1011) |
 | [jsoup](https://github.com/jhy/jsoup) | [Add Elements.before(Node) and after/prepend/append(Node) #953](https://github.com/jhy/jsoup/pull/2567) |
@@ -120,7 +121,6 @@ Open pull requests:
 | [awaitility/awaitility](https://github.com/awaitility/awaitility) | [Fix Predicate never tested when Callable returns null](https://github.com/awaitility/awaitility/pull/312) |
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
 | [infinite_scroll_pagination](https://github.com/EdsonBueno/infinite_scroll_pagination) | [drop offstage new-page progress indicator](https://github.com/EdsonBueno/infinite_scroll_pagination/pull/405) |
-| [jackson-databind](https://github.com/FasterXML/jackson-databind) | [Document that CacheProvider must return new cache instances](https://github.com/FasterXML/jackson-databind/pull/6162) |
 | [bloc](https://github.com/felangel/bloc) | [testing initial events](https://github.com/felangel/bloc/pull/4859) |
 | [bloc](https://github.com/felangel/bloc) | [add prefer_bloc_provider](https://github.com/felangel/bloc/pull/4860) |
 | [bloc](https://github.com/felangel/bloc) | [add avoid_missing_event_handlers](https://github.com/felangel/bloc/pull/4861) |

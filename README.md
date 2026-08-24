@@ -110,10 +110,12 @@ Open pull requests:
 | [maven-changes-plugin](https://github.com/apache/maven-changes-plugin) | [Fail announcement templates on null Velocity values #130](https://github.com/apache/maven-changes-plugin/pull/658) |
 | [maven-checkstyle-plugin](https://github.com/apache/maven-checkstyle-plugin) | [failsOnError should fail the build, not abort the report #656](https://github.com/apache/maven-checkstyle-plugin/pull/695) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
+| [maven-ear-plugin](https://github.com/apache/maven-ear-plugin) | [Skip unresolved modules in isArtifactRegistered #519](https://github.com/apache/maven-ear-plugin/pull/549) |
 | [maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) | [Clarify that sign-and-deploy-file uses Resolver POST](https://github.com/apache/maven-gpg-plugin/pull/338) |
 | [maven-help-plugin](https://github.com/apache/maven-help-plugin) | [Do not let effective-pom encoding fall back to null](https://github.com/apache/maven-help-plugin/pull/422) |
 | [maven-invoker-plugin](https://github.com/apache/maven-invoker-plugin) | [Document how to use a JVM debugger with invoker ITs #708](https://github.com/apache/maven-invoker-plugin/pull/750) |
 | [maven-jar-plugin](https://github.com/apache/maven-jar-plugin) | [Document that skipIfEmpty wins over forceCreation](https://github.com/apache/maven-jar-plugin/pull/585) |
+| [maven-remote-resources-plugin](https://github.com/apache/maven-remote-resources-plugin) | [Fail clearly when configureLocator has no project POM #275](https://github.com/apache/maven-remote-resources-plugin/pull/299) |
 | [maven-resources-plugin](https://github.com/apache/maven-resources-plugin) | [Restore mavenFilteringVersion for the usage page](https://github.com/apache/maven-resources-plugin/pull/511) |
 | [maven-shade-plugin](https://github.com/apache/maven-shade-plugin) | [Write an empty relativePath on dependency-reduced-pom.xml](https://github.com/apache/maven-shade-plugin/pull/843) |
 | [maven-surefire](https://github.com/apache/maven-surefire) | [Fix #3303: distinguish JUnit 6 ParameterizedClass invocations](https://github.com/apache/maven-surefire/pull/3432) |
@@ -145,6 +147,7 @@ Open pull requests:
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |
+| [drift](https://github.com/simolus3/drift) | [Document sharing one DriftIsolate via IsolateNameServer #2095](https://github.com/simolus3/drift/pull/3846) |
 | [pflag](https://github.com/spf13/pflag) | [Keep wrapping after an unbreakable usage word](https://github.com/spf13/pflag/pull/503) |
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |
 | [spring-data-commons](https://github.com/spring-projects/spring-data-commons) | [Document Vavr collection types as query method parameters](https://github.com/spring-projects/spring-data-commons/pull/3526) |

@@ -116,7 +116,6 @@ Open pull requests:
 | [maven-help-plugin](https://github.com/apache/maven-help-plugin) | [Do not let effective-pom encoding fall back to null](https://github.com/apache/maven-help-plugin/pull/422) |
 | [maven-invoker-plugin](https://github.com/apache/maven-invoker-plugin) | [Document how to use a JVM debugger with invoker ITs #708](https://github.com/apache/maven-invoker-plugin/pull/750) |
 | [maven-jar-plugin](https://github.com/apache/maven-jar-plugin) | [Document that skipIfEmpty wins over forceCreation](https://github.com/apache/maven-jar-plugin/pull/585) |
-| [maven-remote-resources-plugin](https://github.com/apache/maven-remote-resources-plugin) | [Fail clearly when configureLocator has no project POM #275](https://github.com/apache/maven-remote-resources-plugin/pull/299) |
 | [maven-resources-plugin](https://github.com/apache/maven-resources-plugin) | [Restore mavenFilteringVersion for the usage page](https://github.com/apache/maven-resources-plugin/pull/511) |
 | [maven-shade-plugin](https://github.com/apache/maven-shade-plugin) | [Write an empty relativePath on dependency-reduced-pom.xml](https://github.com/apache/maven-shade-plugin/pull/843) |
 | [maven-surefire](https://github.com/apache/maven-surefire) | [Fix #3303: distinguish JUnit 6 ParameterizedClass invocations](https://github.com/apache/maven-surefire/pull/3432) |

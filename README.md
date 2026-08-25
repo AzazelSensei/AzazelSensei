@@ -82,6 +82,7 @@ Merged contributions I actually landed:
 | Project | PR |
 |---|---|
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
+| [melos](https://github.com/invertase/melos) | [only report success when dart pub exits 0](https://github.com/invertase/melos/pull/1061) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [maven-surefire](https://github.com/apache/maven-surefire) | [Fix #3303: distinguish JUnit 6 ParameterizedClass invocations](https://github.com/apache/maven-surefire/pull/3432) |

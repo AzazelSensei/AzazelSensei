@@ -81,10 +81,10 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [maven-surefire](https://github.com/apache/maven-surefire) | [Fix #3303: distinguish JUnit 6 ParameterizedClass invocations](https://github.com/apache/maven-surefire/pull/3432) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
+| [maven-surefire](https://github.com/apache/maven-surefire) | [Fix #3303: distinguish JUnit 6 ParameterizedClass invocations](https://github.com/apache/maven-surefire/pull/3432) |
 | [maven-remote-resources-plugin](https://github.com/apache/maven-remote-resources-plugin) | [Fail clearly when configureLocator has no project POM #275](https://github.com/apache/maven-remote-resources-plugin/pull/299) |
 | [jackson-databind](https://github.com/FasterXML/jackson-databind) | [Document that CacheProvider must return new cache instances](https://github.com/FasterXML/jackson-databind/pull/6162) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [avoid CanvasKit stack overflow on animated trim paths #411](https://github.com/xvrh/lottie-flutter/pull/428) |

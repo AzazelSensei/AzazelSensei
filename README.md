@@ -138,7 +138,6 @@ Open pull requests:
 | [json_serializable.dart](https://github.com/google/json_serializable.dart) | [Use $enumEncode for non-nullable enum toJson lookups](https://github.com/google/json_serializable.dart/pull/1587) |
 | [json_serializable.dart](https://github.com/google/json_serializable.dart) | [Prefix json_annotation helpers when imported with a prefix](https://github.com/google/json_serializable.dart/pull/1588) |
 | [flutter_animate](https://github.com/gskinner/flutter_animate) | [Annotate Widget.animate() with @widgetFactory](https://github.com/gskinner/flutter_animate/pull/167) |
-| [melos](https://github.com/invertase/melos) | [only report success when dart pub exits 0](https://github.com/invertase/melos/pull/1061) |
 | [hive_ce_docs](https://github.com/IO-Design-Team/hive_ce_docs) | [Update contacts tutorial to GenerateAdapters](https://github.com/IO-Design-Team/hive_ce_docs/pull/4) |
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |
 | [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | [Join backgroundScope after cancel in runTest](https://github.com/Kotlin/kotlinx.coroutines/pull/4726) |
@@ -146,6 +145,7 @@ Open pull requests:
 | [css-examples](https://github.com/mdn/css-examples) | [put border-image-source last in CSS output](https://github.com/mdn/css-examples/pull/217) |
 | [micrometer](https://github.com/micrometer-metrics/micrometer) | [Document @MeterTag when placed on a method](https://github.com/micrometer-metrics/micrometer/pull/7834) |
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |
+| [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |
 | [drift](https://github.com/simolus3/drift) | [Document sharing one DriftIsolate via IsolateNameServer #2095](https://github.com/simolus3/drift/pull/3846) |

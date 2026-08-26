@@ -151,7 +151,6 @@ Open pull requests:
 | [drift](https://github.com/simolus3/drift) | [Document sharing one DriftIsolate via IsolateNameServer #2095](https://github.com/simolus3/drift/pull/3846) |
 | [pflag](https://github.com/spf13/pflag) | [Keep wrapping after an unbreakable usage word](https://github.com/spf13/pflag/pull/503) |
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |
-| [spring-data-commons](https://github.com/spring-projects/spring-data-commons) | [Document Vavr collection types as query method parameters](https://github.com/spring-projects/spring-data-commons/pull/3526) |
 | [spring-data-redis](https://github.com/spring-projects/spring-data-redis) | [Document setIfAbsent return value](https://github.com/spring-projects/spring-data-redis/pull/3415) |
 | [spring-security](https://github.com/spring-projects/spring-security) | [Document DaoAuthenticationProvider timing-attack mitigation](https://github.com/spring-projects/spring-security/pull/19533) |
 | [tldr](https://github.com/tldr-pages/tldr) | [add page](https://github.com/tldr-pages/tldr/pull/23560) |

@@ -118,6 +118,7 @@ Open pull requests:
 | [maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) | [Clarify that sign-and-deploy-file uses Resolver POST](https://github.com/apache/maven-gpg-plugin/pull/338) |
 | [maven-help-plugin](https://github.com/apache/maven-help-plugin) | [Do not let effective-pom encoding fall back to null](https://github.com/apache/maven-help-plugin/pull/422) |
 | [maven-invoker-plugin](https://github.com/apache/maven-invoker-plugin) | [Document how to use a JVM debugger with invoker ITs #708](https://github.com/apache/maven-invoker-plugin/pull/750) |
+| [maven-jar-plugin](https://github.com/apache/maven-jar-plugin) | [Skip empty JARs when includes match no files #510](https://github.com/apache/maven-jar-plugin/pull/591) |
 | [maven-resources-plugin](https://github.com/apache/maven-resources-plugin) | [Restore mavenFilteringVersion for the usage page](https://github.com/apache/maven-resources-plugin/pull/511) |
 | [maven-shade-plugin](https://github.com/apache/maven-shade-plugin) | [Write an empty relativePath on dependency-reduced-pom.xml](https://github.com/apache/maven-shade-plugin/pull/843) |
 | [maven-wrapper](https://github.com/apache/maven-wrapper) | [Fail when only-script mvnw has no download tool #441](https://github.com/apache/maven-wrapper/pull/443) |
@@ -157,6 +158,7 @@ Open pull requests:
 | [tldr](https://github.com/tldr-pages/tldr) | [add page](https://github.com/tldr-pages/tldr/pull/23561) |
 | [fx](https://github.com/uber-go/fx) | [Add AsType generic wrapper over As](https://github.com/uber-go/fx/pull/1296) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
+| [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [use the dotLottie 2.0 animation path in the README decoder](https://github.com/xvrh/lottie-flutter/pull/431) |
 <!-- oss-open:end -->
 
 ---

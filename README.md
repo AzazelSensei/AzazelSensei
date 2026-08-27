@@ -111,6 +111,7 @@ Open pull requests:
 | Project | PR |
 |---|---|
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
+| [maven-assembly-plugin](https://github.com/apache/maven-assembly-plugin) | [Drop the Maven 2.0 qualifier from the multimodule package-phase note...](https://github.com/apache/maven-assembly-plugin/pull/1371) |
 | [maven-changes-plugin](https://github.com/apache/maven-changes-plugin) | [Fail announcement templates on null Velocity values #130](https://github.com/apache/maven-changes-plugin/pull/658) |
 | [maven-checkstyle-plugin](https://github.com/apache/maven-checkstyle-plugin) | [failsOnError should fail the build, not abort the report #656](https://github.com/apache/maven-checkstyle-plugin/pull/695) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |

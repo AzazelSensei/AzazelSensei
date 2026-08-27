@@ -133,7 +133,6 @@ Open pull requests:
 | [equatable](https://github.com/felangel/equatable) | [compare records with == in objectsEquals](https://github.com/felangel/equatable/pull/216) |
 | [mocktail](https://github.com/felangel/mocktail) | [hint when previous when() is missing then*](https://github.com/felangel/mocktail/pull/274) |
 | [mocktail](https://github.com/felangel/mocktail) | [name the verified mock on call-count mismatch](https://github.com/felangel/mocktail/pull/275) |
-| [flutter_map](https://github.com/fleaflet/flutter_map) | [don't pass a non-positive pinch scale to math.log](https://github.com/fleaflet/flutter_map/pull/2241) |
 | [flutter_map](https://github.com/fleaflet/flutter_map) | [stop MarkerLayer wrap loops on a non-finite camera](https://github.com/fleaflet/flutter_map/pull/2242) |
 | [get_it](https://github.com/flutter-it/get_it) | [Add optional ignoreIfNotRegistered to unregister #420](https://github.com/flutter-it/get_it/pull/424) |
 | [dagger](https://github.com/google/dagger) | [Clarify that enableAggregatingTask is on by default #5235](https://github.com/google/dagger/pull/5253) |

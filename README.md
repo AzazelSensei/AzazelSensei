@@ -110,7 +110,9 @@ Open pull requests:
 <!-- oss-open:start -->
 | Project | PR |
 |---|---|
+| [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
+| [maven-acr-plugin](https://github.com/apache/maven-acr-plugin) | [Document Main-Class in the Application Client FAQ #61](https://github.com/apache/maven-acr-plugin/pull/151) |
 | [maven-assembly-plugin](https://github.com/apache/maven-assembly-plugin) | [Drop the Maven 2.0 qualifier from the multimodule package-phase note...](https://github.com/apache/maven-assembly-plugin/pull/1371) |
 | [maven-changes-plugin](https://github.com/apache/maven-changes-plugin) | [Fail announcement templates on null Velocity values #130](https://github.com/apache/maven-changes-plugin/pull/658) |
 | [maven-checkstyle-plugin](https://github.com/apache/maven-checkstyle-plugin) | [failsOnError should fail the build, not abort the report #656](https://github.com/apache/maven-checkstyle-plugin/pull/695) |
@@ -127,6 +129,7 @@ Open pull requests:
 | [awaitility/awaitility](https://github.com/awaitility/awaitility) | [Fix Predicate never tested when Callable returns null](https://github.com/awaitility/awaitility/pull/312) |
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
+| [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
 | [infinite_scroll_pagination](https://github.com/EdsonBueno/infinite_scroll_pagination) | [drop offstage new-page progress indicator](https://github.com/EdsonBueno/infinite_scroll_pagination/pull/405) |
 | [bloc](https://github.com/felangel/bloc) | [testing initial events](https://github.com/felangel/bloc/pull/4859) |
 | [bloc](https://github.com/felangel/bloc) | [add prefer_bloc_provider](https://github.com/felangel/bloc/pull/4860) |
@@ -151,6 +154,7 @@ Open pull requests:
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |
+| [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |
 | [drift](https://github.com/simolus3/drift) | [Document sharing one DriftIsolate via IsolateNameServer #2095](https://github.com/simolus3/drift/pull/3846) |
 | [pflag](https://github.com/spf13/pflag) | [Keep wrapping after an unbreakable usage word](https://github.com/spf13/pflag/pull/503) |
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |

@@ -130,6 +130,7 @@ Open pull requests:
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
+| [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |
 | [infinite_scroll_pagination](https://github.com/EdsonBueno/infinite_scroll_pagination) | [drop offstage new-page progress indicator](https://github.com/EdsonBueno/infinite_scroll_pagination/pull/405) |
 | [bloc](https://github.com/felangel/bloc) | [testing initial events](https://github.com/felangel/bloc/pull/4859) |
 | [bloc](https://github.com/felangel/bloc) | [add prefer_bloc_provider](https://github.com/felangel/bloc/pull/4860) |
@@ -143,19 +144,24 @@ Open pull requests:
 | [error-prone](https://github.com/google/error-prone) | [Skip nested java.lang types in AvoidCommonTypeNames](https://github.com/google/error-prone/pull/6023) |
 | [json_serializable.dart](https://github.com/google/json_serializable.dart) | [Use $enumEncode for non-nullable enum toJson lookups](https://github.com/google/json_serializable.dart/pull/1587) |
 | [json_serializable.dart](https://github.com/google/json_serializable.dart) | [Prefix json_annotation helpers when imported with a prefix](https://github.com/google/json_serializable.dart/pull/1588) |
+| [pyrdp](https://github.com/GoSecure/pyrdp) | [replace dropped libgl1-mesa-glx with libgl1](https://github.com/GoSecure/pyrdp/pull/514) |
 | [flutter_animate](https://github.com/gskinner/flutter_animate) | [Annotate Widget.animate() with @widgetFactory](https://github.com/gskinner/flutter_animate/pull/167) |
 | [hive_ce_docs](https://github.com/IO-Design-Team/hive_ce_docs) | [Update contacts tutorial to GenerateAdapters](https://github.com/IO-Design-Team/hive_ce_docs/pull/4) |
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |
+| [heralding](https://github.com/johnnykv/heralding) | [use configured HTTP banner as Server header](https://github.com/johnnykv/heralding/pull/164) |
 | [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | [Join backgroundScope after cancel in runTest](https://github.com/Kotlin/kotlinx.coroutines/pull/4726) |
 | [patrol](https://github.com/leancodepl/patrol) | [report drag time on dragUntil timeouts #2103](https://github.com/leancodepl/patrol/pull/3236) |
 | [css-examples](https://github.com/mdn/css-examples) | [put border-image-source last in CSS output](https://github.com/mdn/css-examples/pull/217) |
 | [micrometer](https://github.com/micrometer-metrics/micrometer) | [Document @MeterTag when placed on a method](https://github.com/micrometer-metrics/micrometer/pull/7834) |
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |
+| [conpot](https://github.com/mushorg/conpot) | [set FakeSession.maxtimeout before pyghmi _initsession](https://github.com/mushorg/conpot/pull/624) |
+| [snare](https://github.com/mushorg/snare) | [build Docker image on Python 3.8](https://github.com/mushorg/snare/pull/338) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |
 | [drift](https://github.com/simolus3/drift) | [Document sharing one DriftIsolate via IsolateNameServer #2095](https://github.com/simolus3/drift/pull/3846) |
+| [endlessh](https://github.com/skeeto/endlessh) | [optional Banner config line](https://github.com/skeeto/endlessh/pull/105) |
 | [pflag](https://github.com/spf13/pflag) | [Keep wrapping after an unbreakable usage word](https://github.com/spf13/pflag/pull/503) |
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |
 | [spring-data-redis](https://github.com/spring-projects/spring-data-redis) | [Document setIfAbsent return value](https://github.com/spring-projects/spring-data-redis/pull/3415) |

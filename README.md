@@ -132,6 +132,7 @@ Open pull requests:
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
+| [citrus](https://github.com/citrusframework/citrus) | [note that validation processors replace default validators](https://github.com/citrusframework/citrus/pull/1718) |
 | [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
 | [infinite_scroll_pagination](https://github.com/EdsonBueno/infinite_scroll_pagination) | [drop offstage new-page progress indicator](https://github.com/EdsonBueno/infinite_scroll_pagination/pull/405) |

@@ -83,10 +83,10 @@ Merged contributions I actually landed:
 |---|---|
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
-| [maven-invoker-plugin](https://github.com/apache/maven-invoker-plugin) | [Document how to use a JVM debugger with invoker ITs #708](https://github.com/apache/maven-invoker-plugin/pull/750) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
+| [maven-invoker-plugin](https://github.com/apache/maven-invoker-plugin) | [Document how to use a JVM debugger with invoker ITs #708](https://github.com/apache/maven-invoker-plugin/pull/750) |
 | [maven-jar-plugin](https://github.com/apache/maven-jar-plugin) | [Document that skipIfEmpty wins over forceCreation](https://github.com/apache/maven-jar-plugin/pull/585) |
 | [melos](https://github.com/invertase/melos) | [only report success when dart pub exits 0](https://github.com/invertase/melos/pull/1061) |
 | [maven-surefire](https://github.com/apache/maven-surefire) | [Fix #3303: distinguish JUnit 6 ParameterizedClass invocations](https://github.com/apache/maven-surefire/pull/3432) |

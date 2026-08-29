@@ -119,6 +119,7 @@ Open pull requests:
 | [maven-checkstyle-plugin](https://github.com/apache/maven-checkstyle-plugin) | [failsOnError should fail the build, not abort the report #656](https://github.com/apache/maven-checkstyle-plugin/pull/695) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
 | [maven-ear-plugin](https://github.com/apache/maven-ear-plugin) | [Skip unresolved modules in isArtifactRegistered #519](https://github.com/apache/maven-ear-plugin/pull/549) |
+| [maven-ejb-plugin](https://github.com/apache/maven-ejb-plugin) | [Fail when the EJB source directory cannot be created #195](https://github.com/apache/maven-ejb-plugin/pull/234) |
 | [maven-enforcer](https://github.com/apache/maven-enforcer) | [Add tests for requireJavaVersion five-part JDK strings #980](https://github.com/apache/maven-enforcer/pull/1019) |
 | [maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) | [Clarify that sign-and-deploy-file uses Resolver POST](https://github.com/apache/maven-gpg-plugin/pull/338) |
 | [maven-help-plugin](https://github.com/apache/maven-help-plugin) | [Do not let effective-pom encoding fall back to null](https://github.com/apache/maven-help-plugin/pull/422) |

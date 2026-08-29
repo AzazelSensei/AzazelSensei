@@ -111,6 +111,7 @@ Open pull requests:
 <!-- oss-open:start -->
 | Project | PR |
 |---|---|
+| [gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
 | [maven-acr-plugin](https://github.com/apache/maven-acr-plugin) | [Document Main-Class in the Application Client FAQ #61](https://github.com/apache/maven-acr-plugin/pull/151) |
 | [maven-assembly-plugin](https://github.com/apache/maven-assembly-plugin) | [Drop the Maven 2.0 qualifier from the multimodule package-phase note...](https://github.com/apache/maven-assembly-plugin/pull/1371) |

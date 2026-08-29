@@ -118,7 +118,7 @@ Open pull requests:
 | [maven-assembly-plugin](https://github.com/apache/maven-assembly-plugin) | [Drop the Maven 2.0 qualifier from the multimodule package-phase note...](https://github.com/apache/maven-assembly-plugin/pull/1371) |
 | [maven-changes-plugin](https://github.com/apache/maven-changes-plugin) | [Fail announcement templates on null Velocity values #130](https://github.com/apache/maven-changes-plugin/pull/658) |
 | [maven-checkstyle-plugin](https://github.com/apache/maven-checkstyle-plugin) | [failsOnError should fail the build, not abort the report #656](https://github.com/apache/maven-checkstyle-plugin/pull/695) |
-| [maven-ear-plugin](https://github.com/apache/maven-ear-plugin) | [Skip unresolved modules in isArtifactRegistered #519](https://github.com/apache/maven-ear-plugin/pull/549) |
+| [maven-ear-plugin](https://github.com/apache/maven-ear-plugin) | [Avoid NPE in isArtifactRegistered when module artifact is null #519](https://github.com/apache/maven-ear-plugin/pull/549) |
 | [maven-ejb-plugin](https://github.com/apache/maven-ejb-plugin) | [Fail when the EJB source directory cannot be created #195](https://github.com/apache/maven-ejb-plugin/pull/234) |
 | [maven-enforcer](https://github.com/apache/maven-enforcer) | [Add tests for requireJavaVersion five-part JDK strings #980](https://github.com/apache/maven-enforcer/pull/1019) |
 | [maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) | [Clarify that sign-and-deploy-file uses Resolver POST](https://github.com/apache/maven-gpg-plugin/pull/338) |
@@ -142,6 +142,7 @@ Open pull requests:
 | [mocktail](https://github.com/felangel/mocktail) | [name the verified mock on call-count mismatch](https://github.com/felangel/mocktail/pull/275) |
 | [flutter_map](https://github.com/fleaflet/flutter_map) | [stop MarkerLayer wrap loops on a non-finite camera](https://github.com/fleaflet/flutter_map/pull/2242) |
 | [get_it](https://github.com/flutter-it/get_it) | [Add optional ignoreIfNotRegistered to unregister #420](https://github.com/flutter-it/get_it/pull/424) |
+| [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Document metrics export options in AppConstants #6691](https://github.com/frankframework/frankframework/pull/11526) |
 | [dagger](https://github.com/google/dagger) | [Clarify that enableAggregatingTask is on by default #5235](https://github.com/google/dagger/pull/5253) |
 | [error-prone](https://github.com/google/error-prone) | [Skip nested java.lang types in AvoidCommonTypeNames](https://github.com/google/error-prone/pull/6023) |
 | [json_serializable.dart](https://github.com/google/json_serializable.dart) | [Use $enumEncode for non-nullable enum toJson lookups](https://github.com/google/json_serializable.dart/pull/1587) |
@@ -153,11 +154,14 @@ Open pull requests:
 | [heralding](https://github.com/johnnykv/heralding) | [use configured HTTP banner as Server header](https://github.com/johnnykv/heralding/pull/164) |
 | [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | [Join backgroundScope after cancel in runTest](https://github.com/Kotlin/kotlinx.coroutines/pull/4726) |
 | [patrol](https://github.com/leancodepl/patrol) | [report drag time on dragUntil timeouts #2103](https://github.com/leancodepl/patrol/pull/3236) |
+| [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) | [Mark api.HTMLAllCollection as deprecated](https://github.com/mdn/browser-compat-data/pull/30364) |
 | [css-examples](https://github.com/mdn/css-examples) | [put border-image-source last in CSS output](https://github.com/mdn/css-examples/pull/217) |
 | [micrometer](https://github.com/micrometer-metrics/micrometer) | [Document @MeterTag when placed on a method](https://github.com/micrometer-metrics/micrometer/pull/7834) |
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |
+| [license-maven-plugin](https://github.com/mojohaus/license-maven-plugin) | [Skip null dependency trail when excluding transitives #310](https://github.com/mojohaus/license-maven-plugin/pull/739) |
 | [conpot](https://github.com/mushorg/conpot) | [set FakeSession.maxtimeout before pyghmi _initsession](https://github.com/mushorg/conpot/pull/624) |
 | [snare](https://github.com/mushorg/snare) | [build Docker image on Python 3.8](https://github.com/mushorg/snare/pull/338) |
+| [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |

@@ -81,12 +81,12 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [citrus](https://github.com/citrusframework/citrus) | [note that validation processors replace default validators](https://github.com/citrusframework/citrus/pull/1718) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
+| [citrus](https://github.com/citrusframework/citrus) | [note that validation processors replace default validators](https://github.com/citrusframework/citrus/pull/1718) |
 | [maven-invoker-plugin](https://github.com/apache/maven-invoker-plugin) | [Document how to use a JVM debugger with invoker ITs #708](https://github.com/apache/maven-invoker-plugin/pull/750) |
 | [maven-jar-plugin](https://github.com/apache/maven-jar-plugin) | [Document that skipIfEmpty wins over forceCreation](https://github.com/apache/maven-jar-plugin/pull/585) |
 | [melos](https://github.com/invertase/melos) | [only report success when dart pub exits 0](https://github.com/invertase/melos/pull/1061) |

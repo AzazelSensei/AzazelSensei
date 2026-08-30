@@ -175,6 +175,7 @@ Open pull requests:
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
 | [ShellyElevate](https://github.com/RapierXbox/ShellyElevate) | [add a bug report template to the README #23](https://github.com/RapierXbox/ShellyElevate/pull/100) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |
+| [robolectric/robolectric](https://github.com/robolectric/robolectric) | [Include post stack traces when tests fail with unexecuted runnables #...](https://github.com/robolectric/robolectric/pull/11479) |
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource warning when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |
 | [updater](https://github.com/shorebirdtech/updater) | [refresh updater library architecture map](https://github.com/shorebirdtech/updater/pull/371) |

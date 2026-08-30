@@ -81,12 +81,12 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [mc-image-helper](https://github.com/itzg/mc-image-helper) | [say when a mod page URL is given to install-curseforge #685](https://github.com/itzg/mc-image-helper/pull/856) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
+| [mc-image-helper](https://github.com/itzg/mc-image-helper) | [say when a mod page URL is given to install-curseforge #685](https://github.com/itzg/mc-image-helper/pull/856) |
 | [maven-assembly-plugin](https://github.com/apache/maven-assembly-plugin) | [Drop the Maven 2.0 qualifier from the multimodule package-phase note...](https://github.com/apache/maven-assembly-plugin/pull/1371) |
 | [citrus](https://github.com/citrusframework/citrus) | [note that validation processors replace default validators](https://github.com/citrusframework/citrus/pull/1718) |
 | [maven-invoker-plugin](https://github.com/apache/maven-invoker-plugin) | [Document how to use a JVM debugger with invoker ITs #708](https://github.com/apache/maven-invoker-plugin/pull/750) |

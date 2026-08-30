@@ -167,9 +167,11 @@ Open pull requests:
 | [snare](https://github.com/mushorg/snare) | [build Docker image on Python 3.8](https://github.com/mushorg/snare/pull/338) |
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
+| [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) | [compare this project with official Testcontainers #1224](https://github.com/PlaytikaOSS/testcontainers-spring-boot/pull/3275) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [nessie](https://github.com/projectnessie/nessie) | [CEL filters for commit log, entries, and references #5325](https://github.com/projectnessie/nessie/pull/12946) |
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
+| [quik](https://github.com/quik-sms/quik) | [document message content filter regex format #637](https://github.com/quik-sms/quik/pull/874) |
 | [ShellyElevate](https://github.com/RapierXbox/ShellyElevate) | [add a bug report template to the README #23](https://github.com/RapierXbox/ShellyElevate/pull/100) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource warning when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |

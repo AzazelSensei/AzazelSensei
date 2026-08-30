@@ -134,6 +134,7 @@ Open pull requests:
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
+| [capacitor-plugins](https://github.com/capawesome-team/capacitor-plugins) | [keep datetime format default from rendering as a flag #157](https://github.com/capawesome-team/capacitor-plugins/pull/1016) |
 | [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |
 | [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) | [Add a README to the .NET NuGet package #312](https://github.com/cucumber/cucumber-expressions/pull/456) |
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |

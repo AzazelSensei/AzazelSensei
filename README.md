@@ -134,6 +134,7 @@ Open pull requests:
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
 | [citrus](https://github.com/citrusframework/citrus) | [note that validation processors replace default validators](https://github.com/citrusframework/citrus/pull/1718) |
 | [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |
+| [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) | [Add a README to the .NET NuGet package #312](https://github.com/cucumber/cucumber-expressions/pull/456) |
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
 | [infinite_scroll_pagination](https://github.com/EdsonBueno/infinite_scroll_pagination) | [drop offstage new-page progress indicator](https://github.com/EdsonBueno/infinite_scroll_pagination/pull/405) |
 | [bloc](https://github.com/felangel/bloc) | [testing initial events](https://github.com/felangel/bloc/pull/4859) |
@@ -161,6 +162,7 @@ Open pull requests:
 | [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) | [Mark api.HTMLAllCollection as deprecated](https://github.com/mdn/browser-compat-data/pull/30364) |
 | [css-examples](https://github.com/mdn/css-examples) | [put border-image-source last in CSS output](https://github.com/mdn/css-examples/pull/217) |
 | [micrometer](https://github.com/micrometer-metrics/micrometer) | [Document @MeterTag when placed on a method](https://github.com/micrometer-metrics/micrometer/pull/7834) |
+| [gctoolkit](https://github.com/microsoft/gctoolkit) | [Add class Javadoc for public event summary types #264](https://github.com/microsoft/gctoolkit/pull/584) |
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |
 | [license-maven-plugin](https://github.com/mojohaus/license-maven-plugin) | [Skip null dependency trail when excluding transitives #310](https://github.com/mojohaus/license-maven-plugin/pull/739) |
 | [conpot](https://github.com/mushorg/conpot) | [set FakeSession.maxtimeout before pyghmi _initsession](https://github.com/mushorg/conpot/pull/624) |
@@ -182,11 +184,13 @@ Open pull requests:
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |
 | [spring-data-redis](https://github.com/spring-projects/spring-data-redis) | [Document setIfAbsent return value](https://github.com/spring-projects/spring-data-redis/pull/3415) |
 | [spring-security](https://github.com/spring-projects/spring-security) | [Document DaoAuthenticationProvider timing-attack mitigation](https://github.com/spring-projects/spring-security/pull/19533) |
+| [nextcloud-deck](https://github.com/stefan-niedermann/nextcloud-deck) | [Show a readable error when an attachment hits the server size limit #830](https://github.com/stefan-niedermann/nextcloud-deck/pull/1913) |
 | [tldr](https://github.com/tldr-pages/tldr) | [add page](https://github.com/tldr-pages/tldr/pull/23560) |
 | [tldr](https://github.com/tldr-pages/tldr) | [add page](https://github.com/tldr-pages/tldr/pull/23561) |
 | [fx](https://github.com/uber-go/fx) | [Add AsType generic wrapper over As](https://github.com/uber-go/fx/pull/1296) |
 | [NullAway](https://github.com/uber/NullAway) | [Document MethodRef overload signatures in the sample library model #1016](https://github.com/uber/NullAway/pull/1779) |
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
+| [flow](https://github.com/vaadin/flow) | [Improve AppShellConfigurator annotation error details (vaadin/hilla#231)](https://github.com/vaadin/flow/pull/25390) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [use the dotLottie 2.0 animation path in the README decoder](https://github.com/xvrh/lottie-flutter/pull/431) |
 <!-- oss-open:end -->

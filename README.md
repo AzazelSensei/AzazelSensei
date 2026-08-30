@@ -81,6 +81,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [maven-assembly-plugin](https://github.com/apache/maven-assembly-plugin) | [Drop the Maven 2.0 qualifier from the multimodule package-phase note...](https://github.com/apache/maven-assembly-plugin/pull/1371) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
@@ -117,7 +118,6 @@ Open pull requests:
 | [gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
 | [maven-acr-plugin](https://github.com/apache/maven-acr-plugin) | [Document Main-Class in the Application Client FAQ #61](https://github.com/apache/maven-acr-plugin/pull/151) |
-| [maven-assembly-plugin](https://github.com/apache/maven-assembly-plugin) | [Drop the Maven 2.0 qualifier from the multimodule package-phase note...](https://github.com/apache/maven-assembly-plugin/pull/1371) |
 | [maven-changes-plugin](https://github.com/apache/maven-changes-plugin) | [Fail announcement templates on null Velocity values #130](https://github.com/apache/maven-changes-plugin/pull/658) |
 | [maven-checkstyle-plugin](https://github.com/apache/maven-checkstyle-plugin) | [failsOnError should fail the build, not abort the report #656](https://github.com/apache/maven-checkstyle-plugin/pull/695) |
 | [maven-ear-plugin](https://github.com/apache/maven-ear-plugin) | [Avoid NPE in isArtifactRegistered when module artifact is null #519](https://github.com/apache/maven-ear-plugin/pull/549) |
@@ -133,7 +133,6 @@ Open pull requests:
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
-| [citrus](https://github.com/citrusframework/citrus) | [note that validation processors replace default validators](https://github.com/citrusframework/citrus/pull/1718) |
 | [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |
 | [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) | [Add a README to the .NET NuGet package #312](https://github.com/cucumber/cucumber-expressions/pull/456) |
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
@@ -144,7 +143,6 @@ Open pull requests:
 | [equatable](https://github.com/felangel/equatable) | [compare records with == in objectsEquals](https://github.com/felangel/equatable/pull/216) |
 | [mocktail](https://github.com/felangel/mocktail) | [hint when previous when() is missing then*](https://github.com/felangel/mocktail/pull/274) |
 | [mocktail](https://github.com/felangel/mocktail) | [name the verified mock on call-count mismatch](https://github.com/felangel/mocktail/pull/275) |
-| [flutter_map](https://github.com/fleaflet/flutter_map) | [stop MarkerLayer wrap loops on a non-finite camera](https://github.com/fleaflet/flutter_map/pull/2242) |
 | [get_it](https://github.com/flutter-it/get_it) | [Add optional ignoreIfNotRegistered to unregister #420](https://github.com/flutter-it/get_it/pull/424) |
 | [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Document metrics export options in AppConstants #6691](https://github.com/frankframework/frankframework/pull/11526) |
 | [dagger](https://github.com/google/dagger) | [Clarify that enableAggregatingTask is on by default #5235](https://github.com/google/dagger/pull/5253) |

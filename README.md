@@ -81,7 +81,9 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [capacitor-plugins](https://github.com/capawesome-team/capacitor-plugins) | [keep datetime format default from rendering as a flag #157](https://github.com/capawesome-team/capacitor-plugins/pull/1016) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
+| [maven-ear-plugin](https://github.com/apache/maven-ear-plugin) | [Avoid NPE in isArtifactRegistered when module artifact is null #519](https://github.com/apache/maven-ear-plugin/pull/549) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |

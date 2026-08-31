@@ -154,16 +154,19 @@ Open pull requests:
 | [get_it](https://github.com/flutter-it/get_it) | [Add optional ignoreIfNotRegistered to unregister #420](https://github.com/flutter-it/get_it/pull/424) |
 | [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Document metrics export options in AppConstants #6691](https://github.com/frankframework/frankframework/pull/11526) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
+| [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [add a README link to navigator_resizable #392](https://github.com/fujidaiti/smooth_sheets/pull/604) |
 | [dagger](https://github.com/google/dagger) | [Clarify that enableAggregatingTask is on by default #5235](https://github.com/google/dagger/pull/5253) |
 | [error-prone](https://github.com/google/error-prone) | [Skip nested java.lang types in AvoidCommonTypeNames](https://github.com/google/error-prone/pull/6023) |
 | [json_serializable.dart](https://github.com/google/json_serializable.dart) | [Use $enumEncode for non-nullable enum toJson lookups](https://github.com/google/json_serializable.dart/pull/1587) |
 | [json_serializable.dart](https://github.com/google/json_serializable.dart) | [Prefix json_annotation helpers when imported with a prefix](https://github.com/google/json_serializable.dart/pull/1588) |
 | [pyrdp](https://github.com/GoSecure/pyrdp) | [replace dropped libgl1-mesa-glx with libgl1](https://github.com/GoSecure/pyrdp/pull/514) |
 | [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator) | [Add a How to contribute section to the website #220](https://github.com/gpx-animator/gpx-animator/pull/1036) |
+| [nowinandroid](https://github.com/gradle/nowinandroid) | [point the README at Declarative Gradle #78](https://github.com/gradle/nowinandroid/pull/50) |
 | [flutter_animate](https://github.com/gskinner/flutter_animate) | [Annotate Widget.animate() with @widgetFactory](https://github.com/gskinner/flutter_animate/pull/167) |
 | [spoon](https://github.com/INRIA/spoon) | [add missing Javadoc tags to ProcessingManager #3923](https://github.com/INRIA/spoon/pull/6874) |
 | [hive_ce_docs](https://github.com/IO-Design-Team/hive_ce_docs) | [Update contacts tutorial to GenerateAdapters](https://github.com/IO-Design-Team/hive_ce_docs/pull/4) |
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |
+| [jetty.project](https://github.com/jetty/jetty.project) | [Document pemWorkDirectory on QuicheServerQuicConfiguration #12795](https://github.com/jetty/jetty.project/pull/15684) |
 | [heralding](https://github.com/johnnykv/heralding) | [use configured HTTP banner as Server header](https://github.com/johnnykv/heralding/pull/164) |
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
 | [peanut.dart](https://github.com/kevmoo/peanut.dart) | [extra-args example in peanut.yaml #118](https://github.com/kevmoo/peanut.dart/pull/225) |

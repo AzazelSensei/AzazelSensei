@@ -82,12 +82,12 @@ Merged contributions I actually landed:
 | Project | PR |
 |---|---|
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
-| [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) | [Mark api.HTMLAllCollection as deprecated](https://github.com/mdn/browser-compat-data/pull/30364) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
+| [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) | [Mark api.HTMLAllCollection as deprecated](https://github.com/mdn/browser-compat-data/pull/30364) |
 | [spoon](https://github.com/INRIA/spoon) | [add missing Javadoc tags to ProcessingManager #3923](https://github.com/INRIA/spoon/pull/6874) |
 | [gctoolkit](https://github.com/microsoft/gctoolkit) | [Add class Javadoc for public event summary types #264](https://github.com/microsoft/gctoolkit/pull/584) |
 | [conpot](https://github.com/mushorg/conpot) | [set FakeSession.maxtimeout before pyghmi _initsession](https://github.com/mushorg/conpot/pull/624) |

@@ -134,7 +134,6 @@ Open pull requests:
 | [maven-changes-plugin](https://github.com/apache/maven-changes-plugin) | [Fail announcement templates on null Velocity values #130](https://github.com/apache/maven-changes-plugin/pull/658) |
 | [maven-checkstyle-plugin](https://github.com/apache/maven-checkstyle-plugin) | [failsOnError should fail the build, not abort the report #656](https://github.com/apache/maven-checkstyle-plugin/pull/695) |
 | [maven-ejb-plugin](https://github.com/apache/maven-ejb-plugin) | [Fail when the EJB source directory cannot be created #195](https://github.com/apache/maven-ejb-plugin/pull/234) |
-| [maven-enforcer](https://github.com/apache/maven-enforcer) | [Add tests for requireJavaVersion five-part JDK strings #980](https://github.com/apache/maven-enforcer/pull/1019) |
 | [maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) | [Clarify that sign-and-deploy-file uses Resolver POST](https://github.com/apache/maven-gpg-plugin/pull/338) |
 | [maven-help-plugin](https://github.com/apache/maven-help-plugin) | [Do not let effective-pom encoding fall back to null](https://github.com/apache/maven-help-plugin/pull/422) |
 | [maven-jar-plugin](https://github.com/apache/maven-jar-plugin) | [Skip empty JARs when includes match no files #510](https://github.com/apache/maven-jar-plugin/pull/591) |
@@ -146,6 +145,7 @@ Open pull requests:
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
+| [bytechef](https://github.com/bytechefhq/bytechef) | [Allow fullscreen on Gmail docs slideshows #2678](https://github.com/bytechefhq/bytechef/pull/5605) |
 | [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |
 | [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) | [Add a README to the .NET NuGet package #312](https://github.com/cucumber/cucumber-expressions/pull/456) |
 | [deephaven-core](https://github.com/deephaven/deephaven-core) | [add Raises descriptions for autocomplete #6164](https://github.com/deephaven/deephaven-core/pull/8441) |
@@ -163,7 +163,7 @@ Open pull requests:
 | [get_it](https://github.com/flutter-it/get_it) | [Add optional ignoreIfNotRegistered to unregister #420](https://github.com/flutter-it/get_it/pull/424) |
 | [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Document metrics export options in AppConstants #6691](https://github.com/frankframework/frankframework/pull/11526) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
-| [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [add a README link to navigator_resizable #392](https://github.com/fujidaiti/smooth_sheets/pull/604) |
+| [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [list real-world examples in the README #128](https://github.com/fujidaiti/smooth_sheets/pull/606) |
 | [dagger](https://github.com/google/dagger) | [Clarify that enableAggregatingTask is on by default #5235](https://github.com/google/dagger/pull/5253) |
 | [error-prone](https://github.com/google/error-prone) | [Skip nested java.lang types in AvoidCommonTypeNames](https://github.com/google/error-prone/pull/6023) |
 | [json_serializable.dart](https://github.com/google/json_serializable.dart) | [Use $enumEncode for non-nullable enum toJson lookups](https://github.com/google/json_serializable.dart/pull/1587) |
@@ -171,6 +171,7 @@ Open pull requests:
 | [pyrdp](https://github.com/GoSecure/pyrdp) | [replace dropped libgl1-mesa-glx with libgl1](https://github.com/GoSecure/pyrdp/pull/514) |
 | [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator) | [Add a How to contribute section to the website #220](https://github.com/gpx-animator/gpx-animator/pull/1036) |
 | [nowinandroid](https://github.com/gradle/nowinandroid) | [point the README at Declarative Gradle #78](https://github.com/gradle/nowinandroid/pull/50) |
+| [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) | [Use continue on when the street name stays #1287](https://github.com/graphhopper/graphhopper/pull/3396) |
 | [flutter_animate](https://github.com/gskinner/flutter_animate) | [Annotate Widget.animate() with @widgetFactory](https://github.com/gskinner/flutter_animate/pull/167) |
 | [hive_ce_docs](https://github.com/IO-Design-Team/hive_ce_docs) | [Update contacts tutorial to GenerateAdapters](https://github.com/IO-Design-Team/hive_ce_docs/pull/4) |
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |

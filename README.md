@@ -196,6 +196,7 @@ Open pull requests:
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
 | [openaev](https://github.com/OpenAEV-Platform/openaev) | [document notification triggers and asset-scoped filters](https://github.com/OpenAEV-Platform/openaev/pull/7680) |
 | [odd-platform](https://github.com/opendatadiscovery/odd-platform) | [Add failed job/test status reason to alert chunk descriptions #1227](https://github.com/opendatadiscovery/odd-platform/pull/1868) |
+| [philter](https://github.com/philterd/philter) | [Fix curl Content-Type header in filter policies docs #91](https://github.com/philterd/philter/pull/92) |
 | [plantuml/plantuml](https://github.com/plantuml/plantuml) | [Document missing Javadoc @param tags #2629](https://github.com/plantuml/plantuml/pull/2850) |
 | [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) | [compare this project with official Testcontainers #1224](https://github.com/PlaytikaOSS/testcontainers-spring-boot/pull/3275) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
@@ -210,6 +211,8 @@ Open pull requests:
 | [updater](https://github.com/shorebirdtech/updater) | [refresh updater library architecture map](https://github.com/shorebirdtech/updater/pull/371) |
 | [endlessh](https://github.com/skeeto/endlessh) | [optional Banner config line](https://github.com/skeeto/endlessh/pull/105) |
 | [pflag](https://github.com/spf13/pflag) | [Keep wrapping after an unbreakable usage word](https://github.com/spf13/pflag/pull/503) |
+| [spring-cloud-bus](https://github.com/spring-cloud/spring-cloud-bus) | [Document RabbitMQ exclusive queue locator #249](https://github.com/spring-cloud/spring-cloud-bus/pull/330) |
+| [spring-cloud-consul](https://github.com/spring-cloud/spring-cloud-consul) | [Document spring.cloud.consul.config.prefixes #746](https://github.com/spring-cloud/spring-cloud-consul/pull/1012) |
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |
 | [spring-data-redis](https://github.com/spring-projects/spring-data-redis) | [Document setIfAbsent return value](https://github.com/spring-projects/spring-data-redis/pull/3415) |
 | [spring-security](https://github.com/spring-projects/spring-security) | [Document DaoAuthenticationProvider timing-attack mitigation](https://github.com/spring-projects/spring-security/pull/19533) |

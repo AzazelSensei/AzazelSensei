@@ -152,6 +152,7 @@ Open pull requests:
 | [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) | [Add a README to the .NET NuGet package #312](https://github.com/cucumber/cucumber-expressions/pull/456) |
 | [cucumber-jvm](https://github.com/cucumber/cucumber-jvm) | [Document `Scenario.attach` for screenshots](https://github.com/cucumber/cucumber-jvm/pull/3230) |
 | [deephaven-core](https://github.com/deephaven/deephaven-core) | [add Raises descriptions for autocomplete #6164](https://github.com/deephaven/deephaven-core/pull/8441) |
+| [docs](https://github.com/DependencyTrack/docs) | [Document OIDC_LOGIN_BUTTON_TEXT on the frontend #6615](https://github.com/DependencyTrack/docs/pull/248) |
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |
 | [eclipse.platform.ui](https://github.com/eclipse-platform/eclipse.platform.ui) | [Relax LargeFileTest marker timing factor #2622](https://github.com/eclipse-platform/eclipse.platform.ui/pull/4314) |
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
@@ -195,13 +196,13 @@ Open pull requests:
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
 | [openaev](https://github.com/OpenAEV-Platform/openaev) | [document notification triggers and asset-scoped filters](https://github.com/OpenAEV-Platform/openaev/pull/7680) |
 | [odd-platform](https://github.com/opendatadiscovery/odd-platform) | [Add failed job/test status reason to alert chunk descriptions #1227](https://github.com/opendatadiscovery/odd-platform/pull/1868) |
+| [plantuml/plantuml](https://github.com/plantuml/plantuml) | [Document missing Javadoc @param tags #2629](https://github.com/plantuml/plantuml/pull/2850) |
 | [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) | [compare this project with official Testcontainers #1224](https://github.com/PlaytikaOSS/testcontainers-spring-boot/pull/3275) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [nessie](https://github.com/projectnessie/nessie) | [CEL filters for commit log, entries, and references #5325](https://github.com/projectnessie/nessie/pull/12946) |
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
 | [ShellyElevate](https://github.com/RapierXbox/ShellyElevate) | [add a bug report template to the README #23](https://github.com/RapierXbox/ShellyElevate/pull/100) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |
-| [lsp4ij](https://github.com/redhat-developer/lsp4ij) | [sample for registering a custom LSP client command #553](https://github.com/redhat-developer/lsp4ij/pull/1658) |
 | [robolectric/robolectric](https://github.com/robolectric/robolectric) | [Include post stack traces when tests fail with unexecuted runnables #...](https://github.com/robolectric/robolectric/pull/11479) |
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource warning when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |

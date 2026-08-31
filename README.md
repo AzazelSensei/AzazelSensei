@@ -81,14 +81,14 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [gctoolkit](https://github.com/microsoft/gctoolkit) | [Add class Javadoc for public event summary types #264](https://github.com/microsoft/gctoolkit/pull/584) |
-| [conpot](https://github.com/mushorg/conpot) | [set FakeSession.maxtimeout before pyghmi _initsession](https://github.com/mushorg/conpot/pull/624) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
+| [gctoolkit](https://github.com/microsoft/gctoolkit) | [Add class Javadoc for public event summary types #264](https://github.com/microsoft/gctoolkit/pull/584) |
+| [conpot](https://github.com/mushorg/conpot) | [set FakeSession.maxtimeout before pyghmi _initsession](https://github.com/mushorg/conpot/pull/624) |
 | [plantuml/plantuml](https://github.com/plantuml/plantuml) | [add how to update alphadoc #2420](https://github.com/plantuml/plantuml/pull/2841) |
 | [pinot-docs](https://github.com/pinot-contrib/pinot-docs) | [document broker FailureDetector #13502](https://github.com/pinot-contrib/pinot-docs/pull/1019) |
 | [capacitor-plugins](https://github.com/capawesome-team/capacitor-plugins) | [keep datetime format default from rendering as a flag #157](https://github.com/capawesome-team/capacitor-plugins/pull/1016) |

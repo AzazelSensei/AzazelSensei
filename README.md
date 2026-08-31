@@ -125,6 +125,7 @@ Open pull requests:
 <!-- oss-open:start -->
 | Project | PR |
 |---|---|
+| [bsl-language-server](https://github.com/1c-syntax/bsl-language-server) | [Add FAQ for PairingBrokenTransaction pairing vs early rollback #1277](https://github.com/1c-syntax/bsl-language-server/pull/4502) |
 | [gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
 | [maven-acr-plugin](https://github.com/apache/maven-acr-plugin) | [Document Main-Class in the Application Client FAQ #61](https://github.com/apache/maven-acr-plugin/pull/151) |
@@ -147,6 +148,7 @@ Open pull requests:
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
 | [infinite_scroll_pagination](https://github.com/EdsonBueno/infinite_scroll_pagination) | [drop offstage new-page progress indicator](https://github.com/EdsonBueno/infinite_scroll_pagination/pull/405) |
+| [exist](https://github.com/eXist-db/exist) | [[doc] Document recursive xmldb:create-collection() #3869](https://github.com/eXist-db/exist/pull/6666) |
 | [bloc](https://github.com/felangel/bloc) | [testing initial events](https://github.com/felangel/bloc/pull/4859) |
 | [bloc](https://github.com/felangel/bloc) | [add prefer_bloc_provider](https://github.com/felangel/bloc/pull/4860) |
 | [bloc](https://github.com/felangel/bloc) | [add avoid_missing_event_handlers](https://github.com/felangel/bloc/pull/4861) |
@@ -165,7 +167,6 @@ Open pull requests:
 | [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator) | [Add a How to contribute section to the website #220](https://github.com/gpx-animator/gpx-animator/pull/1036) |
 | [nowinandroid](https://github.com/gradle/nowinandroid) | [point the README at Declarative Gradle #78](https://github.com/gradle/nowinandroid/pull/50) |
 | [flutter_animate](https://github.com/gskinner/flutter_animate) | [Annotate Widget.animate() with @widgetFactory](https://github.com/gskinner/flutter_animate/pull/167) |
-| [spoon](https://github.com/INRIA/spoon) | [add missing Javadoc tags to ProcessingManager #3923](https://github.com/INRIA/spoon/pull/6874) |
 | [hive_ce_docs](https://github.com/IO-Design-Team/hive_ce_docs) | [Update contacts tutorial to GenerateAdapters](https://github.com/IO-Design-Team/hive_ce_docs/pull/4) |
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |
 | [jetty.project](https://github.com/jetty/jetty.project) | [Document pemWorkDirectory on QuicheServerQuicConfiguration #12795](https://github.com/jetty/jetty.project/pull/15684) |
@@ -176,7 +177,6 @@ Open pull requests:
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [use clusterDefinitions instead of targetCluster #4277](https://github.com/kroxylicious/kroxylicious/pull/4800) |
 | [patrol](https://github.com/leancodepl/patrol) | [report drag time on dragUntil timeouts #2103](https://github.com/leancodepl/patrol/pull/3236) |
 | [mage](https://github.com/magefree/mage) | [Fix NPE when creature type choice is missing #14392](https://github.com/magefree/mage/pull/16072) |
-| [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) | [Mark api.HTMLAllCollection as deprecated](https://github.com/mdn/browser-compat-data/pull/30364) |
 | [css-examples](https://github.com/mdn/css-examples) | [put border-image-source last in CSS output](https://github.com/mdn/css-examples/pull/217) |
 | [micrometer](https://github.com/micrometer-metrics/micrometer) | [Document @MeterTag when placed on a method](https://github.com/micrometer-metrics/micrometer/pull/7834) |
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |
@@ -192,9 +192,11 @@ Open pull requests:
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
 | [ShellyElevate](https://github.com/RapierXbox/ShellyElevate) | [add a bug report template to the README #23](https://github.com/RapierXbox/ShellyElevate/pull/100) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |
+| [lsp4ij](https://github.com/redhat-developer/lsp4ij) | [update rust-analyzer semantic tokens section #1302](https://github.com/redhat-developer/lsp4ij/pull/1655) |
 | [robolectric/robolectric](https://github.com/robolectric/robolectric) | [Include post stack traces when tests fail with unexecuted runnables #...](https://github.com/robolectric/robolectric/pull/11479) |
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource warning when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |
+| [serverpod_docs](https://github.com/serverpod/serverpod_docs) | [Add Google and Apple IDP admin operations pages #4597](https://github.com/serverpod/serverpod_docs/pull/770) |
 | [updater](https://github.com/shorebirdtech/updater) | [refresh updater library architecture map](https://github.com/shorebirdtech/updater/pull/371) |
 | [endlessh](https://github.com/skeeto/endlessh) | [optional Banner config line](https://github.com/skeeto/endlessh/pull/105) |
 | [pflag](https://github.com/spf13/pflag) | [Keep wrapping after an unbreakable usage word](https://github.com/spf13/pflag/pull/503) |

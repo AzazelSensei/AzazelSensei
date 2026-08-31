@@ -149,6 +149,7 @@ Open pull requests:
 | [bytechef](https://github.com/bytechefhq/bytechef) | [Allow fullscreen on Gmail docs slideshows #2678](https://github.com/bytechefhq/bytechef/pull/5605) |
 | [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |
 | [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) | [Add a README to the .NET NuGet package #312](https://github.com/cucumber/cucumber-expressions/pull/456) |
+| [cucumber-jvm](https://github.com/cucumber/cucumber-jvm) | [Document `Scenario.attach` for screenshots](https://github.com/cucumber/cucumber-jvm/pull/3230) |
 | [deephaven-core](https://github.com/deephaven/deephaven-core) | [add Raises descriptions for autocomplete #6164](https://github.com/deephaven/deephaven-core/pull/8441) |
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |
 | [eclipse.platform.ui](https://github.com/eclipse-platform/eclipse.platform.ui) | [Relax LargeFileTest marker timing factor #2622](https://github.com/eclipse-platform/eclipse.platform.ui/pull/4314) |
@@ -172,7 +173,7 @@ Open pull requests:
 | [pyrdp](https://github.com/GoSecure/pyrdp) | [replace dropped libgl1-mesa-glx with libgl1](https://github.com/GoSecure/pyrdp/pull/514) |
 | [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator) | [Add a How to contribute section to the website #220](https://github.com/gpx-animator/gpx-animator/pull/1036) |
 | [nowinandroid](https://github.com/gradle/nowinandroid) | [point the README at Declarative Gradle #78](https://github.com/gradle/nowinandroid/pull/50) |
-| [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) | [Use continue on when the street name stays #1287](https://github.com/graphhopper/graphhopper/pull/3396) |
+| [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) | [Use continue on when the street name stays](https://github.com/graphhopper/graphhopper/pull/3396) |
 | [flutter_animate](https://github.com/gskinner/flutter_animate) | [Annotate Widget.animate() with @widgetFactory](https://github.com/gskinner/flutter_animate/pull/167) |
 | [hive_ce_docs](https://github.com/IO-Design-Team/hive_ce_docs) | [Update contacts tutorial to GenerateAdapters](https://github.com/IO-Design-Team/hive_ce_docs/pull/4) |
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |
@@ -199,7 +200,7 @@ Open pull requests:
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
 | [ShellyElevate](https://github.com/RapierXbox/ShellyElevate) | [add a bug report template to the README #23](https://github.com/RapierXbox/ShellyElevate/pull/100) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |
-| [lsp4ij](https://github.com/redhat-developer/lsp4ij) | [update rust-analyzer semantic tokens section #1302](https://github.com/redhat-developer/lsp4ij/pull/1655) |
+| [lsp4ij](https://github.com/redhat-developer/lsp4ij) | [sample for registering a custom LSP client command #553](https://github.com/redhat-developer/lsp4ij/pull/1658) |
 | [robolectric/robolectric](https://github.com/robolectric/robolectric) | [Include post stack traces when tests fail with unexecuted runnables #...](https://github.com/robolectric/robolectric/pull/11479) |
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource warning when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |

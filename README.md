@@ -81,14 +81,14 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) | [support automatic_index and cache_spill pragmas](https://github.com/xerial/sqlite-jdbc/pull/1460) |
-| [philter](https://github.com/philterd/philter) | [Fix curl Content-Type header in filter policies docs #91](https://github.com/philterd/philter/pull/92) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
+| [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) | [support automatic_index and cache_spill pragmas](https://github.com/xerial/sqlite-jdbc/pull/1460) |
+| [philter](https://github.com/philterd/philter) | [Fix curl Content-Type header in filter policies docs #91](https://github.com/philterd/philter/pull/92) |
 | [lsp4ij](https://github.com/redhat-developer/lsp4ij) | [sample for registering a custom LSP client command #553](https://github.com/redhat-developer/lsp4ij/pull/1658) |
 | [lsp4ij](https://github.com/redhat-developer/lsp4ij) | [update rust-analyzer semantic tokens section #1302](https://github.com/redhat-developer/lsp4ij/pull/1655) |
 | [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [add a README link to navigator_resizable](https://github.com/fujidaiti/smooth_sheets/pull/604) |

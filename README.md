@@ -81,6 +81,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [a2a-java](https://github.com/a2aproject/a2a-java) | [link Javadoc from the README #287](https://github.com/a2aproject/a2a-java/pull/1118) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
@@ -136,7 +137,6 @@ Open pull requests:
 | Project | PR |
 |---|---|
 | [bsl-language-server](https://github.com/1c-syntax/bsl-language-server) | [Add FAQ for PairingBrokenTransaction pairing vs early rollback #1277](https://github.com/1c-syntax/bsl-language-server/pull/4502) |
-| [a2a-java](https://github.com/a2aproject/a2a-java) | [link Javadoc from the README #287](https://github.com/a2aproject/a2a-java/pull/1118) |
 | [camel-quarkus](https://github.com/apache/camel-quarkus) | [Document Twitter native locale requirements #2564](https://github.com/apache/camel-quarkus/pull/9081) |
 | [gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
@@ -157,6 +157,7 @@ Open pull requests:
 | [TornadoVM](https://github.com/beehive-lab/TornadoVM) | [add class-level Javadoc to examples #35](https://github.com/beehive-lab/TornadoVM/pull/1060) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
 | [BetonQuest/BetonQuest](https://github.com/BetonQuest/BetonQuest) | [consistent notify keyword on counting objectives #3967](https://github.com/BetonQuest/BetonQuest/pull/4281) |
+| [bytechef](https://github.com/bytechefhq/bytechef) | [explain JSON File Write source property #2249](https://github.com/bytechefhq/bytechef/pull/5626) |
 | [mobile-app](https://github.com/CircuitVerse/mobile-app) | [show error widget when content fails to load #84](https://github.com/CircuitVerse/mobile-app/pull/651) |
 | [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |
 | [aibolit](https://github.com/cqfn/aibolit) | [#696: replace huge Java fixtures with inline examples](https://github.com/cqfn/aibolit/pull/1372) |
@@ -192,6 +193,8 @@ Open pull requests:
 | [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) | [Use continue on when the street name stays](https://github.com/graphhopper/graphhopper/pull/3396) |
 | [grimmory-docs](https://github.com/grimmory-tools/grimmory-docs) | [Clarify Bookdrop NFS/SMB watch limits (grimmory#485)](https://github.com/grimmory-tools/grimmory-docs/pull/54) |
 | [flutter_animate](https://github.com/gskinner/flutter_animate) | [Annotate Widget.animate() with @widgetFactory](https://github.com/gskinner/flutter_animate/pull/167) |
+| [hapi-fhir](https://github.com/hapifhir/hapi-fhir) | [add 2026 changelog section #5034](https://github.com/hapifhir/hapi-fhir/pull/8341) |
+| [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
 | [hive_ce_docs](https://github.com/IO-Design-Team/hive_ce_docs) | [Update contacts tutorial to GenerateAdapters](https://github.com/IO-Design-Team/hive_ce_docs/pull/4) |
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |
 | [jetty.project](https://github.com/jetty/jetty.project) | [Document pemWorkDirectory on QuicheServerQuicConfiguration #12795](https://github.com/jetty/jetty.project/pull/15684) |
@@ -212,6 +215,7 @@ Open pull requests:
 | [eo](https://github.com/objectionary/eo) | [#7988: name the missing map key in the error](https://github.com/objectionary/eo/pull/8012) |
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
 | [openaev](https://github.com/OpenAEV-Platform/openaev) | [document notification triggers and asset-scoped filters](https://github.com/OpenAEV-Platform/openaev/pull/7680) |
+| [opencast/opencast](https://github.com/opencast/opencast) | [Handle null properties in service registry updated() #1174](https://github.com/opencast/opencast/pull/7973) |
 | [odd-platform](https://github.com/opendatadiscovery/odd-platform) | [Add failed job/test status reason to alert chunk descriptions #1227](https://github.com/opendatadiscovery/odd-platform/pull/1868) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
 | [security](https://github.com/opensearch-project/security) | [Document demo installer password checks vs REST API settings #4081](https://github.com/opensearch-project/security/pull/6449) |

@@ -81,13 +81,13 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [Linthra](https://github.com/TheZupZup/Linthra) | [add AppStream metainfo for software centres #435](https://github.com/TheZupZup/Linthra/pull/541) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
+| [Linthra](https://github.com/TheZupZup/Linthra) | [add AppStream metainfo for software centres #435](https://github.com/TheZupZup/Linthra/pull/541) |
 | [a2a-java](https://github.com/a2aproject/a2a-java) | [link Javadoc from the README #287](https://github.com/a2aproject/a2a-java/pull/1118) |
 | [openrouteservice](https://github.com/GIScience/openrouteservice) | [document csv extra info #1974](https://github.com/GIScience/openrouteservice/pull/2394) |
 | [serverpod_docs](https://github.com/serverpod/serverpod_docs) | [Add Google and Apple IDP admin operations pages](https://github.com/serverpod/serverpod_docs/pull/770) |

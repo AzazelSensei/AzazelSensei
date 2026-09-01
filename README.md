@@ -81,6 +81,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) | [support automatic_index and cache_spill pragmas](https://github.com/xerial/sqlite-jdbc/pull/1460) |
 | [philter](https://github.com/philterd/philter) | [Fix curl Content-Type header in filter policies docs #91](https://github.com/philterd/philter/pull/92) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
@@ -189,6 +190,7 @@ Open pull requests:
 | [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | [Join backgroundScope after cancel in runTest](https://github.com/Kotlin/kotlinx.coroutines/pull/4726) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [use clusterDefinitions instead of targetCluster #4277](https://github.com/kroxylicious/kroxylicious/pull/4800) |
 | [patrol](https://github.com/leancodepl/patrol) | [report drag time on dragUntil timeouts #2103](https://github.com/leancodepl/patrol/pull/3236) |
+| [armeria](https://github.com/line/armeria) | [Document the OAuth 2.0 client #5636](https://github.com/line/armeria/pull/6935) |
 | [mage](https://github.com/magefree/mage) | [Fix NPE when creature type choice is missing #14392](https://github.com/magefree/mage/pull/16072) |
 | [css-examples](https://github.com/mdn/css-examples) | [put border-image-source last in CSS output](https://github.com/mdn/css-examples/pull/217) |
 | [micrometer](https://github.com/micrometer-metrics/micrometer) | [Document @MeterTag when placed on a method](https://github.com/micrometer-metrics/micrometer/pull/7834) |

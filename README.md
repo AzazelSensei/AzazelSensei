@@ -136,6 +136,7 @@ Open pull requests:
 |---|---|
 | [bsl-language-server](https://github.com/1c-syntax/bsl-language-server) | [Add FAQ for PairingBrokenTransaction pairing vs early rollback #1277](https://github.com/1c-syntax/bsl-language-server/pull/4502) |
 | [a2a-java](https://github.com/a2aproject/a2a-java) | [link Javadoc from the README #287](https://github.com/a2aproject/a2a-java/pull/1118) |
+| [camel-quarkus](https://github.com/apache/camel-quarkus) | [Document Twitter native locale and timezone requirements #2564](https://github.com/apache/camel-quarkus/pull/9081) |
 | [gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
 | [maven-acr-plugin](https://github.com/apache/maven-acr-plugin) | [Document Main-Class in the Application Client FAQ #61](https://github.com/apache/maven-acr-plugin/pull/151) |
@@ -173,10 +174,12 @@ Open pull requests:
 | [mocktail](https://github.com/felangel/mocktail) | [hint when previous when() is missing then*](https://github.com/felangel/mocktail/pull/274) |
 | [mocktail](https://github.com/felangel/mocktail) | [name the verified mock on call-count mismatch](https://github.com/felangel/mocktail/pull/275) |
 | [get_it](https://github.com/flutter-it/get_it) | [Add optional ignoreIfNotRegistered to unregister #420](https://github.com/flutter-it/get_it/pull/424) |
-| [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Document metrics export options in AppConstants](https://github.com/frankframework/frankframework/pull/11526) |
+| [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Clarify getInputFromSessionKey missing-key exception #11377](https://github.com/frankframework/frankframework/pull/11543) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [list real-world examples in the README #128](https://github.com/fujidaiti/smooth_sheets/pull/606) |
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
+| [openrouteservice](https://github.com/GIScience/openrouteservice) | [document csv extra info #1974](https://github.com/GIScience/openrouteservice/pull/2394) |
+| [gleec-wallet](https://github.com/GLEECBTC/gleec-wallet) | [Document custom KDF commit builds #3290](https://github.com/GLEECBTC/gleec-wallet/pull/3522) |
 | [dagger](https://github.com/google/dagger) | [Clarify that enableAggregatingTask is on by default #5235](https://github.com/google/dagger/pull/5253) |
 | [error-prone](https://github.com/google/error-prone) | [Skip nested java.lang types in AvoidCommonTypeNames](https://github.com/google/error-prone/pull/6023) |
 | [json_serializable.dart](https://github.com/google/json_serializable.dart) | [Use $enumEncode for non-nullable enum toJson lookups](https://github.com/google/json_serializable.dart/pull/1587) |
@@ -215,12 +218,10 @@ Open pull requests:
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [nessie](https://github.com/projectnessie/nessie) | [CEL filters for commit log, entries, and references #5325](https://github.com/projectnessie/nessie/pull/12946) |
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
-| [ShellyElevate](https://github.com/RapierXbox/ShellyElevate) | [add a bug report template to the README #23](https://github.com/RapierXbox/ShellyElevate/pull/100) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [Document that reactor-core-micrometer meters stay registered](https://github.com/reactor/reactor-core/pull/4356) |
 | [robolectric/robolectric](https://github.com/robolectric/robolectric) | [Include post stack traces when tests fail with unexecuted runnables #...](https://github.com/robolectric/robolectric/pull/11479) |
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource warning when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |
-| [serverpod_docs](https://github.com/serverpod/serverpod_docs) | [Add Google and Apple IDP admin operations pages](https://github.com/serverpod/serverpod_docs/pull/770) |
 | [updater](https://github.com/shorebirdtech/updater) | [refresh updater library architecture map](https://github.com/shorebirdtech/updater/pull/371) |
 | [endlessh](https://github.com/skeeto/endlessh) | [optional Banner config line](https://github.com/skeeto/endlessh/pull/105) |
 | [pflag](https://github.com/spf13/pflag) | [Keep wrapping after an unbreakable usage word](https://github.com/spf13/pflag/pull/503) |

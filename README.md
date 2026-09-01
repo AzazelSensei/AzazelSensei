@@ -196,6 +196,7 @@ Open pull requests:
 | [grimmory-docs](https://github.com/grimmory-tools/grimmory-docs) | [Clarify Bookdrop NFS/SMB watch limits (grimmory#485)](https://github.com/grimmory-tools/grimmory-docs/pull/54) |
 | [flutter_animate](https://github.com/gskinner/flutter_animate) | [Annotate Widget.animate() with @widgetFactory](https://github.com/gskinner/flutter_animate/pull/167) |
 | [hapi-fhir](https://github.com/hapifhir/hapi-fhir) | [add 2026 changelog section #5034](https://github.com/hapifhir/hapi-fhir/pull/8341) |
+| [fl_chart](https://github.com/imaNNeo/fl_chart) | [Remove leftover axisTitleData from chart docs #1201](https://github.com/imaNNeo/fl_chart/pull/2118) |
 | [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
 | [hive_ce_docs](https://github.com/IO-Design-Team/hive_ce_docs) | [Update contacts tutorial to GenerateAdapters](https://github.com/IO-Design-Team/hive_ce_docs/pull/4) |
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |
@@ -231,6 +232,7 @@ Open pull requests:
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource warning when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |
 | [updater](https://github.com/shorebirdtech/updater) | [refresh updater library architecture map](https://github.com/shorebirdtech/updater/pull/371) |
+| [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | [name every contact in What leaves your device #989](https://github.com/simonoppowa/OpenNutriTracker/pull/1010) |
 | [endlessh](https://github.com/skeeto/endlessh) | [optional Banner config line](https://github.com/skeeto/endlessh/pull/105) |
 | [pflag](https://github.com/spf13/pflag) | [Keep wrapping after an unbreakable usage word](https://github.com/spf13/pflag/pull/503) |
 | [spring-cloud-bus](https://github.com/spring-cloud/spring-cloud-bus) | [Document RabbitMQ exclusive queue locator #249](https://github.com/spring-cloud/spring-cloud-bus/pull/330) |

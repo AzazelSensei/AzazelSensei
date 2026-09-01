@@ -132,6 +132,7 @@ Open pull requests:
 | Project | PR |
 |---|---|
 | [bsl-language-server](https://github.com/1c-syntax/bsl-language-server) | [Add FAQ for PairingBrokenTransaction pairing vs early rollback #1277](https://github.com/1c-syntax/bsl-language-server/pull/4502) |
+| [a2a-java](https://github.com/a2aproject/a2a-java) | [link Javadoc from the README #287](https://github.com/a2aproject/a2a-java/pull/1118) |
 | [gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
 | [maven-acr-plugin](https://github.com/apache/maven-acr-plugin) | [Document Main-Class in the Application Client FAQ #61](https://github.com/apache/maven-acr-plugin/pull/151) |
@@ -169,7 +170,7 @@ Open pull requests:
 | [mocktail](https://github.com/felangel/mocktail) | [hint when previous when() is missing then*](https://github.com/felangel/mocktail/pull/274) |
 | [mocktail](https://github.com/felangel/mocktail) | [name the verified mock on call-count mismatch](https://github.com/felangel/mocktail/pull/275) |
 | [get_it](https://github.com/flutter-it/get_it) | [Add optional ignoreIfNotRegistered to unregister #420](https://github.com/flutter-it/get_it/pull/424) |
-| [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Document metrics export options in AppConstants #6691](https://github.com/frankframework/frankframework/pull/11526) |
+| [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Document metrics export options in AppConstants](https://github.com/frankframework/frankframework/pull/11526) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [list real-world examples in the README #128](https://github.com/fujidaiti/smooth_sheets/pull/606) |
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
@@ -187,6 +188,7 @@ Open pull requests:
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |
 | [jetty.project](https://github.com/jetty/jetty.project) | [Document pemWorkDirectory on QuicheServerQuicConfiguration #12795](https://github.com/jetty/jetty.project/pull/15684) |
 | [heralding](https://github.com/johnnykv/heralding) | [use configured HTTP banner as Server header](https://github.com/johnnykv/heralding/pull/164) |
+| [nexus](https://github.com/kalayciburak/nexus) | [empty window is not a selector miss](https://github.com/kalayciburak/nexus/pull/4) |
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
 | [peanut.dart](https://github.com/kevmoo/peanut.dart) | [extra-args example in peanut.yaml #118](https://github.com/kevmoo/peanut.dart/pull/225) |
 | [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | [Join backgroundScope after cancel in runTest](https://github.com/Kotlin/kotlinx.coroutines/pull/4726) |
@@ -203,6 +205,7 @@ Open pull requests:
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
 | [openaev](https://github.com/OpenAEV-Platform/openaev) | [document notification triggers and asset-scoped filters](https://github.com/OpenAEV-Platform/openaev/pull/7680) |
 | [odd-platform](https://github.com/opendatadiscovery/odd-platform) | [Add failed job/test status reason to alert chunk descriptions #1227](https://github.com/opendatadiscovery/odd-platform/pull/1868) |
+| [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
 | [security](https://github.com/opensearch-project/security) | [Document demo installer password checks vs REST API settings #4081](https://github.com/opensearch-project/security/pull/6449) |
 | [plantuml/plantuml](https://github.com/plantuml/plantuml) | [Document missing Javadoc @param tags #2629](https://github.com/plantuml/plantuml/pull/2850) |
 | [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) | [compare this project with official Testcontainers #1224](https://github.com/PlaytikaOSS/testcontainers-spring-boot/pull/3275) |
@@ -214,7 +217,7 @@ Open pull requests:
 | [robolectric/robolectric](https://github.com/robolectric/robolectric) | [Include post stack traces when tests fail with unexecuted runnables #...](https://github.com/robolectric/robolectric/pull/11479) |
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource warning when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |
-| [serverpod_docs](https://github.com/serverpod/serverpod_docs) | [Add Google and Apple IDP admin operations pages #4597](https://github.com/serverpod/serverpod_docs/pull/770) |
+| [serverpod_docs](https://github.com/serverpod/serverpod_docs) | [Add Google and Apple IDP admin operations pages](https://github.com/serverpod/serverpod_docs/pull/770) |
 | [updater](https://github.com/shorebirdtech/updater) | [refresh updater library architecture map](https://github.com/shorebirdtech/updater/pull/371) |
 | [endlessh](https://github.com/skeeto/endlessh) | [optional Banner config line](https://github.com/skeeto/endlessh/pull/105) |
 | [pflag](https://github.com/spf13/pflag) | [Keep wrapping after an unbreakable usage word](https://github.com/spf13/pflag/pull/503) |

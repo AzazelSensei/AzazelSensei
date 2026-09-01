@@ -152,6 +152,7 @@ Open pull requests:
 | [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |
 | [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) | [Add a README to the .NET NuGet package #312](https://github.com/cucumber/cucumber-expressions/pull/456) |
 | [cucumber-jvm](https://github.com/cucumber/cucumber-jvm) | [Document `Scenario.attach` for screenshots](https://github.com/cucumber/cucumber-jvm/pull/3230) |
+| [native](https://github.com/dart-lang/native) | [[jnigen] Expose editable documentation on the visitor API #3496](https://github.com/dart-lang/native/pull/3602) |
 | [deephaven-core](https://github.com/deephaven/deephaven-core) | [add Raises descriptions for autocomplete #6164](https://github.com/deephaven/deephaven-core/pull/8441) |
 | [docs](https://github.com/DependencyTrack/docs) | [Document OIDC_LOGIN_BUTTON_TEXT on the frontend #6615](https://github.com/DependencyTrack/docs/pull/248) |
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |
@@ -177,6 +178,7 @@ Open pull requests:
 | [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator) | [Add a How to contribute section to the website #220](https://github.com/gpx-animator/gpx-animator/pull/1036) |
 | [nowinandroid](https://github.com/gradle/nowinandroid) | [point the README at Declarative Gradle #78](https://github.com/gradle/nowinandroid/pull/50) |
 | [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) | [Use continue on when the street name stays](https://github.com/graphhopper/graphhopper/pull/3396) |
+| [grimmory-docs](https://github.com/grimmory-tools/grimmory-docs) | [Clarify Bookdrop NFS/SMB watch limits (grimmory#485)](https://github.com/grimmory-tools/grimmory-docs/pull/54) |
 | [flutter_animate](https://github.com/gskinner/flutter_animate) | [Annotate Widget.animate() with @widgetFactory](https://github.com/gskinner/flutter_animate/pull/167) |
 | [hive_ce_docs](https://github.com/IO-Design-Team/hive_ce_docs) | [Update contacts tutorial to GenerateAdapters](https://github.com/IO-Design-Team/hive_ce_docs/pull/4) |
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |
@@ -198,7 +200,6 @@ Open pull requests:
 | [openaev](https://github.com/OpenAEV-Platform/openaev) | [document notification triggers and asset-scoped filters](https://github.com/OpenAEV-Platform/openaev/pull/7680) |
 | [odd-platform](https://github.com/opendatadiscovery/odd-platform) | [Add failed job/test status reason to alert chunk descriptions #1227](https://github.com/opendatadiscovery/odd-platform/pull/1868) |
 | [security](https://github.com/opensearch-project/security) | [Document demo installer password checks vs REST API settings #4081](https://github.com/opensearch-project/security/pull/6449) |
-| [philter](https://github.com/philterd/philter) | [Fix curl Content-Type header in filter policies docs #91](https://github.com/philterd/philter/pull/92) |
 | [plantuml/plantuml](https://github.com/plantuml/plantuml) | [Document missing Javadoc @param tags #2629](https://github.com/plantuml/plantuml/pull/2850) |
 | [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) | [compare this project with official Testcontainers #1224](https://github.com/PlaytikaOSS/testcontainers-spring-boot/pull/3275) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
@@ -226,6 +227,7 @@ Open pull requests:
 | [NullAway](https://github.com/uber/NullAway) | [Document MethodRef overload signatures in the sample library model #1016](https://github.com/uber/NullAway/pull/1779) |
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
 | [flow](https://github.com/vaadin/flow) | [Improve AppShellConfigurator annotation error details (vaadin/hilla#231)](https://github.com/vaadin/flow/pull/25390) |
+| [valkey-glide](https://github.com/valkey-io/valkey-glide) | [move protobuf encode/decode tests to internals #3947](https://github.com/valkey-io/valkey-glide/pull/6970) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [use the dotLottie 2.0 animation path in the README decoder](https://github.com/xvrh/lottie-flutter/pull/431) |

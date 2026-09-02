@@ -16,18 +16,20 @@ Building scalable backend systems & cross-platform applications
 
 <!-- oss-icons:start -->
 <div align="center">
-<a href="https://github.com/freeCodeCamp/freeCodeCamp" title="freeCodeCamp"><img src="https://github.com/freeCodeCamp.png?size=96" width="42" height="42" hspace="6" alt="freeCodeCamp" /></a>
-<a href="https://github.com/plantuml/plantuml" title="PlantUML"><img src="https://github.com/plantuml.png?size=96" width="42" height="42" hspace="6" alt="PlantUML" /></a>
-<a href="https://github.com/jhy/jsoup" title="jsoup"><img src="https://github.com/jhy.png?size=96" width="42" height="42" hspace="6" alt="jsoup" /></a>
-<a href="https://github.com/mdn/content" title="MDN"><img src="https://github.com/mdn.png?size=96" width="42" height="42" hspace="6" alt="MDN" /></a>
-<a href="https://github.com/OpenFeign/feign" title="Feign"><img src="https://github.com/OpenFeign.png?size=96" width="42" height="42" hspace="6" alt="Feign" /></a>
-<a href="https://github.com/pmd/pmd" title="PMD"><img src="https://github.com/pmd.png?size=96" width="42" height="42" hspace="6" alt="PMD" /></a>
-<a href="https://github.com/remkop/picocli" title="picocli"><img src="https://github.com/remkop.png?size=96" width="42" height="42" hspace="6" alt="picocli" /></a>
+<a href="https://github.com/apache/maven-surefire" title="maven-surefire"><img src="https://github.com/apache.png?size=96" width="42" height="42" hspace="6" alt="maven-surefire" /></a>
 <a href="https://github.com/uber/NullAway" title="NullAway"><img src="https://github.com/uber.png?size=96" width="42" height="42" hspace="6" alt="NullAway" /></a>
 <a href="https://github.com/FasterXML/jackson-databind" title="Jackson"><img src="https://github.com/FasterXML.png?size=96" width="42" height="42" hspace="6" alt="Jackson" /></a>
+<a href="https://github.com/jhy/jsoup" title="jsoup"><img src="https://github.com/jhy.png?size=96" width="42" height="42" hspace="6" alt="jsoup" /></a>
+<a href="https://github.com/pmd/pmd" title="PMD"><img src="https://github.com/pmd.png?size=96" width="42" height="42" hspace="6" alt="PMD" /></a>
+<a href="https://github.com/OpenFeign/feign" title="Feign"><img src="https://github.com/OpenFeign.png?size=96" width="42" height="42" hspace="6" alt="Feign" /></a>
+<a href="https://github.com/remkop/picocli" title="picocli"><img src="https://github.com/remkop.png?size=96" width="42" height="42" hspace="6" alt="picocli" /></a>
 <a href="https://github.com/xerial/sqlite-jdbc" title="sqlite-jdbc"><img src="https://github.com/xerial.png?size=96" width="42" height="42" hspace="6" alt="sqlite-jdbc" /></a>
-<a href="https://github.com/apache/gravitino" title="Apache Gravitino"><img src="https://github.com/apache.png?size=96" width="42" height="42" hspace="6" alt="Apache Gravitino" /></a>
+<a href="https://github.com/plantuml/plantuml" title="PlantUML"><img src="https://github.com/plantuml.png?size=96" width="42" height="42" hspace="6" alt="PlantUML" /></a>
 <a href="https://github.com/openhab/openhab-addons" title="openHAB"><img src="https://github.com/openhab.png?size=96" width="42" height="42" hspace="6" alt="openHAB" /></a>
+<a href="https://github.com/INRIA/spoon" title="spoon"><img src="https://github.com/INRIA.png?size=96" width="42" height="42" hspace="6" alt="spoon" /></a>
+<a href="https://github.com/microsoft/gctoolkit" title="gctoolkit"><img src="https://github.com/microsoft.png?size=96" width="42" height="42" hspace="6" alt="gctoolkit" /></a>
+<a href="https://github.com/citrusframework/citrus" title="citrus"><img src="https://github.com/citrusframework.png?size=96" width="42" height="42" hspace="6" alt="citrus" /></a>
+<a href="https://github.com/cucumber/cucumber-expressions" title="cucumber-expressions"><img src="https://github.com/cucumber.png?size=96" width="42" height="42" hspace="6" alt="cucumber-expressions" /></a>
 </div>
 <!-- oss-icons:end -->
 
@@ -164,7 +166,7 @@ Open pull requests:
 | Project | PR |
 |---|---|
 | [bsl-language-server](https://github.com/1c-syntax/bsl-language-server) | [Add FAQ for PairingBrokenTransaction pairing vs early rollback #1277](https://github.com/1c-syntax/bsl-language-server/pull/4502) |
-| [gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
+| [Apache Gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
 | [maven-acr-plugin](https://github.com/apache/maven-acr-plugin) | [Document Main-Class in the Application Client FAQ #61](https://github.com/apache/maven-acr-plugin/pull/151) |
 | [maven-changes-plugin](https://github.com/apache/maven-changes-plugin) | [Fail announcement templates on null Velocity values #130](https://github.com/apache/maven-changes-plugin/pull/658) |
@@ -251,7 +253,7 @@ Open pull requests:
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
 | [security](https://github.com/opensearch-project/security) | [Document demo installer password checks vs REST API settings #4081](https://github.com/opensearch-project/security/pull/6449) |
 | [PhotonVision/photonvision](https://github.com/PhotonVision/photonvision) | [add Python photonlib snippets and fix code tabs #1914](https://github.com/PhotonVision/photonvision/pull/2599) |
-| [plantuml/plantuml](https://github.com/plantuml/plantuml) | [Document missing Javadoc @param tags #2629](https://github.com/plantuml/plantuml/pull/2850) |
+| [PlantUML](https://github.com/plantuml/plantuml) | [Document missing Javadoc @param tags #2629](https://github.com/plantuml/plantuml/pull/2850) |
 | [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) | [compare this project with official Testcontainers #1224](https://github.com/PlaytikaOSS/testcontainers-spring-boot/pull/3275) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [powsybl-core](https://github.com/powsybl/powsybl-core) | [Reject null DataSource in Importers.importData](https://github.com/powsybl/powsybl-core/pull/4083) |
@@ -278,7 +280,6 @@ Open pull requests:
 | [fx](https://github.com/uber-go/fx) | [Add AsType generic wrapper over As](https://github.com/uber-go/fx/pull/1296) |
 | [NullAway](https://github.com/uber/NullAway) | [Write the full encoded byte array when serializing TSV/XML rows #1788](https://github.com/uber/NullAway/pull/1798) |
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
-| [flow](https://github.com/vaadin/flow) | [Improve AppShellConfigurator annotation error details (vaadin/hilla#231)](https://github.com/vaadin/flow/pull/25390) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [use the dotLottie 2.0 animation path in the README decoder](https://github.com/xvrh/lottie-flutter/pull/431) |

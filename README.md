@@ -81,7 +81,6 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [valkey-glide](https://github.com/valkey-io/valkey-glide) | [move protobuf encode/decode tests to internals #3947](https://github.com/valkey-io/valkey-glide/pull/6970) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
@@ -89,6 +88,7 @@ Merged contributions I actually landed:
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
+| [valkey-glide](https://github.com/valkey-io/valkey-glide) | [move protobuf encode/decode tests to internals #3947](https://github.com/valkey-io/valkey-glide/pull/6970) |
 | [NullAway](https://github.com/uber/NullAway) | [Document MethodRef overload signatures in the sample library model #1016](https://github.com/uber/NullAway/pull/1779) |
 | [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) | [Add a README to the .NET NuGet package #312](https://github.com/cucumber/cucumber-expressions/pull/456) |
 | [Linthra](https://github.com/TheZupZup/Linthra) | [add AppStream metainfo for software centres #435](https://github.com/TheZupZup/Linthra/pull/541) |

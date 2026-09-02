@@ -81,6 +81,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [NullAway](https://github.com/uber/NullAway) | [Document MethodRef overload signatures in the sample library model #1016](https://github.com/uber/NullAway/pull/1779) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
@@ -158,6 +159,7 @@ Open pull requests:
 | [awaitility/awaitility](https://github.com/awaitility/awaitility) | [Fix Predicate never tested when Callable returns null](https://github.com/awaitility/awaitility/pull/312) |
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
+| [rules_android](https://github.com/bazelbuild/rules_android) | [refresh getting started for rules_android 0.7.3 #351](https://github.com/bazelbuild/rules_android/pull/559) |
 | [TornadoVM](https://github.com/beehive-lab/TornadoVM) | [add class-level Javadoc to examples #35](https://github.com/beehive-lab/TornadoVM/pull/1060) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
 | [BetonQuest/BetonQuest](https://github.com/BetonQuest/BetonQuest) | [consistent notify keyword on counting objectives #3967](https://github.com/BetonQuest/BetonQuest/pull/4281) |
@@ -223,6 +225,7 @@ Open pull requests:
 | [odd-platform](https://github.com/opendatadiscovery/odd-platform) | [Add failed job/test status reason to alert chunk descriptions #1227](https://github.com/opendatadiscovery/odd-platform/pull/1868) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
 | [security](https://github.com/opensearch-project/security) | [Document demo installer password checks vs REST API settings #4081](https://github.com/opensearch-project/security/pull/6449) |
+| [PhotonVision/photonvision](https://github.com/PhotonVision/photonvision) | [add Python photonlib snippets and fix code tabs #1914](https://github.com/PhotonVision/photonvision/pull/2599) |
 | [plantuml/plantuml](https://github.com/plantuml/plantuml) | [Document missing Javadoc @param tags #2629](https://github.com/plantuml/plantuml/pull/2850) |
 | [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) | [compare this project with official Testcontainers #1224](https://github.com/PlaytikaOSS/testcontainers-spring-boot/pull/3275) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
@@ -247,7 +250,6 @@ Open pull requests:
 | [tldr](https://github.com/tldr-pages/tldr) | [add page](https://github.com/tldr-pages/tldr/pull/23561) |
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll #864](https://github.com/trinodb/trino-gateway/pull/1248) |
 | [fx](https://github.com/uber-go/fx) | [Add AsType generic wrapper over As](https://github.com/uber-go/fx/pull/1296) |
-| [NullAway](https://github.com/uber/NullAway) | [Document MethodRef overload signatures in the sample library model #1016](https://github.com/uber/NullAway/pull/1779) |
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
 | [flow](https://github.com/vaadin/flow) | [Improve AppShellConfigurator annotation error details (vaadin/hilla#231)](https://github.com/vaadin/flow/pull/25390) |
 | [valkey-glide](https://github.com/valkey-io/valkey-glide) | [move protobuf encode/decode tests to internals #3947](https://github.com/valkey-io/valkey-glide/pull/6970) |

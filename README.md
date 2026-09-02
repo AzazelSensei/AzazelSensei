@@ -14,6 +14,25 @@ Building scalable backend systems & cross-platform applications
 
 ---
 
+<!-- oss-icons:start -->
+<div align="center">
+<a href="https://github.com/freeCodeCamp/freeCodeCamp" title="freeCodeCamp"><img src="https://github.com/freeCodeCamp.png?size=96" width="42" height="42" hspace="6" alt="freeCodeCamp" /></a>
+<a href="https://github.com/plantuml/plantuml" title="PlantUML"><img src="https://github.com/plantuml.png?size=96" width="42" height="42" hspace="6" alt="PlantUML" /></a>
+<a href="https://github.com/jhy/jsoup" title="jsoup"><img src="https://github.com/jhy.png?size=96" width="42" height="42" hspace="6" alt="jsoup" /></a>
+<a href="https://github.com/mdn/content" title="MDN"><img src="https://github.com/mdn.png?size=96" width="42" height="42" hspace="6" alt="MDN" /></a>
+<a href="https://github.com/OpenFeign/feign" title="Feign"><img src="https://github.com/OpenFeign.png?size=96" width="42" height="42" hspace="6" alt="Feign" /></a>
+<a href="https://github.com/pmd/pmd" title="PMD"><img src="https://github.com/pmd.png?size=96" width="42" height="42" hspace="6" alt="PMD" /></a>
+<a href="https://github.com/remkop/picocli" title="picocli"><img src="https://github.com/remkop.png?size=96" width="42" height="42" hspace="6" alt="picocli" /></a>
+<a href="https://github.com/uber/NullAway" title="NullAway"><img src="https://github.com/uber.png?size=96" width="42" height="42" hspace="6" alt="NullAway" /></a>
+<a href="https://github.com/FasterXML/jackson-databind" title="Jackson"><img src="https://github.com/FasterXML.png?size=96" width="42" height="42" hspace="6" alt="Jackson" /></a>
+<a href="https://github.com/xerial/sqlite-jdbc" title="sqlite-jdbc"><img src="https://github.com/xerial.png?size=96" width="42" height="42" hspace="6" alt="sqlite-jdbc" /></a>
+<a href="https://github.com/apache/gravitino" title="Apache Gravitino"><img src="https://github.com/apache.png?size=96" width="42" height="42" hspace="6" alt="Apache Gravitino" /></a>
+<a href="https://github.com/openhab/openhab-addons" title="openHAB"><img src="https://github.com/openhab.png?size=96" width="42" height="42" hspace="6" alt="openHAB" /></a>
+</div>
+<!-- oss-icons:end -->
+
+---
+
 ### About Me
 
 - Currently working at the **Turkish Ministry of Health**, contributing to systems serving **85M+ users**

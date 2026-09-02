@@ -102,8 +102,8 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
+| [flow](https://github.com/vaadin/flow) | [Clarify Menu javadoc so Hilla is a secondary note #21242](https://github.com/vaadin/flow/pull/25442) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |

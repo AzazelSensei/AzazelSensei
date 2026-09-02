@@ -102,7 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [subversion-plugin](https://github.com/jenkinsci/subversion-plugin) | [Document that included/excluded region regexes match the full path #1431](https://github.com/jenkinsci/subversion-plugin/pull/1597) |
+| [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
@@ -110,6 +110,7 @@ Merged contributions I actually landed:
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
+| [subversion-plugin](https://github.com/jenkinsci/subversion-plugin) | [Document that included/excluded region regexes match the full path #1431](https://github.com/jenkinsci/subversion-plugin/pull/1597) |
 | [nexus](https://github.com/kalayciburak/nexus) | [empty window is not a selector miss](https://github.com/kalayciburak/nexus/pull/4) |
 | [flow](https://github.com/vaadin/flow) | [Improve AppShellConfigurator annotation error details (vaadin/hilla#231)](https://github.com/vaadin/flow/pull/25390) |
 | [TornadoVM](https://github.com/beehive-lab/TornadoVM) | [add class-level Javadoc to examples #35](https://github.com/beehive-lab/TornadoVM/pull/1060) |

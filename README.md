@@ -171,6 +171,7 @@ Open pull requests:
 | [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) | [Document Python usage in the package README #311](https://github.com/cucumber/cucumber-expressions/pull/457) |
 | [cucumber-jvm](https://github.com/cucumber/cucumber-jvm) | [Document `Scenario.attach` for screenshots](https://github.com/cucumber/cucumber-jvm/pull/3230) |
 | [native](https://github.com/dart-lang/native) | [[jnigen] Expose editable documentation on the visitor API #3496](https://github.com/dart-lang/native/pull/3602) |
+| [databuff](https://github.com/databufflabs/databuff) | [add Python OTLP integration quick-start guide #27](https://github.com/databufflabs/databuff/pull/75) |
 | [deephaven-core](https://github.com/deephaven/deephaven-core) | [add Raises descriptions for autocomplete #6164](https://github.com/deephaven/deephaven-core/pull/8441) |
 | [docs](https://github.com/DependencyTrack/docs) | [Document OIDC_LOGIN_BUTTON_TEXT on the frontend #6615](https://github.com/DependencyTrack/docs/pull/248) |
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |

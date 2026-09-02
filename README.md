@@ -233,7 +233,6 @@ Open pull requests:
 | [subversion-plugin](https://github.com/jenkinsci/subversion-plugin) | [Document that included/excluded region regexes match the full path #1431](https://github.com/jenkinsci/subversion-plugin/pull/1597) |
 | [jetty.project](https://github.com/jetty/jetty.project) | [Document pemWorkDirectory on QuicheServerQuicConfiguration #12795](https://github.com/jetty/jetty.project/pull/15684) |
 | [heralding](https://github.com/johnnykv/heralding) | [use configured HTTP banner as Server header](https://github.com/johnnykv/heralding/pull/164) |
-| [nexus](https://github.com/kalayciburak/nexus) | [empty window is not a selector miss](https://github.com/kalayciburak/nexus/pull/4) |
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
 | [peanut.dart](https://github.com/kevmoo/peanut.dart) | [extra-args example in peanut.yaml #118](https://github.com/kevmoo/peanut.dart/pull/225) |
 | [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | [Join backgroundScope after cancel in runTest](https://github.com/Kotlin/kotlinx.coroutines/pull/4726) |
@@ -241,6 +240,7 @@ Open pull requests:
 | [patrol](https://github.com/leancodepl/patrol) | [report drag time on dragUntil timeouts #2103](https://github.com/leancodepl/patrol/pull/3236) |
 | [armeria](https://github.com/line/armeria) | [Document the OAuth 2.0 client #5636](https://github.com/line/armeria/pull/6935) |
 | [mage](https://github.com/magefree/mage) | [Fix NPE when creature type choice is missing #14392](https://github.com/magefree/mage/pull/16072) |
+| [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) | [explain local sprites and glyphs via file:// #338](https://github.com/maplibre/flutter-maplibre-gl/pull/1011) |
 | [css-examples](https://github.com/mdn/css-examples) | [put border-image-source last in CSS output](https://github.com/mdn/css-examples/pull/217) |
 | [micrometer](https://github.com/micrometer-metrics/micrometer) | [Document @MeterTag when placed on a method](https://github.com/micrometer-metrics/micrometer/pull/7834) |
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |

@@ -228,6 +228,7 @@ Open pull requests:
 | [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
 | [hive_ce_docs](https://github.com/IO-Design-Team/hive_ce_docs) | [Update contacts tutorial to GenerateAdapters](https://github.com/IO-Design-Team/hive_ce_docs/pull/4) |
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |
+| [javaparser/javaparser](https://github.com/javaparser/javaparser) | [Document parse and resolve APIs #2597](https://github.com/javaparser/javaparser/pull/5118) |
 | [subversion-plugin](https://github.com/jenkinsci/subversion-plugin) | [Document that included/excluded region regexes match the full path #1431](https://github.com/jenkinsci/subversion-plugin/pull/1597) |
 | [jetty.project](https://github.com/jetty/jetty.project) | [Document pemWorkDirectory on QuicheServerQuicConfiguration #12795](https://github.com/jetty/jetty.project/pull/15684) |
 | [heralding](https://github.com/johnnykv/heralding) | [use configured HTTP banner as Server header](https://github.com/johnnykv/heralding/pull/164) |
@@ -253,6 +254,7 @@ Open pull requests:
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
 | [security](https://github.com/opensearch-project/security) | [Document demo installer password checks vs REST API settings #4081](https://github.com/opensearch-project/security/pull/6449) |
 | [PhotonVision/photonvision](https://github.com/PhotonVision/photonvision) | [add Python photonlib snippets and fix code tabs #1914](https://github.com/PhotonVision/photonvision/pull/2599) |
+| [java-cfenv](https://github.com/pivotal-cf/java-cfenv) | [Document IBM Cloud RabbitMQ bindings #69](https://github.com/pivotal-cf/java-cfenv/pull/472) |
 | [PlantUML](https://github.com/plantuml/plantuml) | [Document missing Javadoc @param tags #2629](https://github.com/plantuml/plantuml/pull/2850) |
 | [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) | [compare this project with official Testcontainers #1224](https://github.com/PlaytikaOSS/testcontainers-spring-boot/pull/3275) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |

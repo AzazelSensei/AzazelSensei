@@ -195,9 +195,7 @@ Open pull requests:
 | [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |
 | [aibolit](https://github.com/cqfn/aibolit) | [#696: replace huge Java fixtures with inline examples](https://github.com/cqfn/aibolit/pull/1372) |
 | [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) | [Document Python usage in the package README #311](https://github.com/cucumber/cucumber-expressions/pull/457) |
-| [cucumber-jvm](https://github.com/cucumber/cucumber-jvm) | [Document `Scenario.attach` for screenshots](https://github.com/cucumber/cucumber-jvm/pull/3230) |
 | [native](https://github.com/dart-lang/native) | [[jnigen] Expose editable documentation on the visitor API #3496](https://github.com/dart-lang/native/pull/3602) |
-| [databuff](https://github.com/databufflabs/databuff) | [add Python OTLP integration quick-start guide #27](https://github.com/databufflabs/databuff/pull/75) |
 | [deephaven-core](https://github.com/deephaven/deephaven-core) | [add Raises descriptions for autocomplete #6164](https://github.com/deephaven/deephaven-core/pull/8441) |
 | [docs](https://github.com/DependencyTrack/docs) | [Document OIDC_LOGIN_BUTTON_TEXT on the frontend #6615](https://github.com/DependencyTrack/docs/pull/248) |
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |
@@ -213,6 +211,7 @@ Open pull requests:
 | [mocktail](https://github.com/felangel/mocktail) | [hint when previous when() is missing then*](https://github.com/felangel/mocktail/pull/274) |
 | [mocktail](https://github.com/felangel/mocktail) | [name the verified mock on call-count mismatch](https://github.com/felangel/mocktail/pull/275) |
 | [get_it](https://github.com/flutter-it/get_it) | [Add optional ignoreIfNotRegistered to unregister #420](https://github.com/flutter-it/get_it/pull/424) |
+| [fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) | [Fixes #3505: Document SQL support in the FAQ](https://github.com/FoundationDB/fdb-record-layer/pull/4546) |
 | [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Clarify getInputFromSessionKey missing-key exception #11377](https://github.com/frankframework/frankframework/pull/11543) |
 | [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [list real-world examples in the README #128](https://github.com/fujidaiti/smooth_sheets/pull/606) |
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
@@ -233,7 +232,6 @@ Open pull requests:
 | [hive_ce_docs](https://github.com/IO-Design-Team/hive_ce_docs) | [Update contacts tutorial to GenerateAdapters](https://github.com/IO-Design-Team/hive_ce_docs/pull/4) |
 | [hive_ce_samples](https://github.com/IO-Design-Team/hive_ce_samples) | [Use GenerateAdapters for the contacts sample](https://github.com/IO-Design-Team/hive_ce_samples/pull/1) |
 | [javaparser/javaparser](https://github.com/javaparser/javaparser) | [Document parse and resolve APIs #2597](https://github.com/javaparser/javaparser/pull/5118) |
-| [subversion-plugin](https://github.com/jenkinsci/subversion-plugin) | [Document that included/excluded region regexes match the full path #1431](https://github.com/jenkinsci/subversion-plugin/pull/1597) |
 | [jetty.project](https://github.com/jetty/jetty.project) | [Document pemWorkDirectory on QuicheServerQuicConfiguration #12795](https://github.com/jetty/jetty.project/pull/15684) |
 | [heralding](https://github.com/johnnykv/heralding) | [use configured HTTP banner as Server header](https://github.com/johnnykv/heralding/pull/164) |
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
@@ -286,6 +284,7 @@ Open pull requests:
 | [fx](https://github.com/uber-go/fx) | [Add AsType generic wrapper over As](https://github.com/uber-go/fx/pull/1296) |
 | [NullAway](https://github.com/uber/NullAway) | [Write the full encoded byte array when serializing TSV/XML rows #1788](https://github.com/uber/NullAway/pull/1798) |
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
+| [flow](https://github.com/vaadin/flow) | [Clarify Menu javadoc so Hilla is a secondary note #21242](https://github.com/vaadin/flow/pull/25442) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [use the dotLottie 2.0 animation path in the README decoder](https://github.com/xvrh/lottie-flutter/pull/431) |

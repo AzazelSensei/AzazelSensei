@@ -102,15 +102,15 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [pf4j/pf4j](https://github.com/pf4j/pf4j) | [Document PluginManager.getExtensions instantiation #293](https://github.com/pf4j/pf4j/pull/681) |
-| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
+| [NullAway](https://github.com/uber/NullAway) | [Write the full encoded byte array when serializing TSV/XML rows #1788](https://github.com/uber/NullAway/pull/1798) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
 | [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
+| [pf4j/pf4j](https://github.com/pf4j/pf4j) | [Document PluginManager.getExtensions instantiation #293](https://github.com/pf4j/pf4j/pull/681) |
 | [flow](https://github.com/vaadin/flow) | [Clarify Menu javadoc so Hilla is a secondary note #21242](https://github.com/vaadin/flow/pull/25442) |
 | [fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) | [Document SQL support in the FAQ](https://github.com/FoundationDB/fdb-record-layer/pull/4546) |
 | [snowstorm](https://github.com/IHTSDO/snowstorm) | [add UK Edition loading tips #651](https://github.com/IHTSDO/snowstorm/pull/724) |

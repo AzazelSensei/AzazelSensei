@@ -102,6 +102,9 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
+| [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
+| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[unifi] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21576) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
@@ -214,7 +217,6 @@ Open pull requests:
 | [pyrdp](https://github.com/GoSecure/pyrdp) | [replace dropped libgl1-mesa-glx with libgl1](https://github.com/GoSecure/pyrdp/pull/514) |
 | [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator) | [Add a How to contribute section to the website #220](https://github.com/gpx-animator/gpx-animator/pull/1036) |
 | [nowinandroid](https://github.com/gradle/nowinandroid) | [point the README at Declarative Gradle #78](https://github.com/gradle/nowinandroid/pull/50) |
-| [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) | [Use continue on when the street name stays](https://github.com/graphhopper/graphhopper/pull/3396) |
 | [grimmory-docs](https://github.com/grimmory-tools/grimmory-docs) | [Clarify Bookdrop NFS/SMB watch limits (grimmory#485)](https://github.com/grimmory-tools/grimmory-docs/pull/54) |
 | [hapi-fhir](https://github.com/hapifhir/hapi-fhir) | [add 2026 changelog section #5034](https://github.com/hapifhir/hapi-fhir/pull/8341) |
 | [fl_chart](https://github.com/imaNNeo/fl_chart) | [Remove leftover axisTitleData from chart docs #1201](https://github.com/imaNNeo/fl_chart/pull/2118) |
@@ -238,7 +240,7 @@ Open pull requests:
 | [openaev](https://github.com/OpenAEV-Platform/openaev) | [document notification triggers and asset-scoped filters](https://github.com/OpenAEV-Platform/openaev/pull/7680) |
 | [opencast/opencast](https://github.com/opencast/opencast) | [Handle null properties in service registry updated() #1174](https://github.com/opencast/opencast/pull/7973) |
 | [odd-platform](https://github.com/opendatadiscovery/odd-platform) | [Add failed job/test status reason to alert chunk descriptions #1227](https://github.com/opendatadiscovery/odd-platform/pull/1868) |
-| [openHAB](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
 | [security](https://github.com/opensearch-project/security) | [Document demo installer password checks vs REST API settings #4081](https://github.com/opensearch-project/security/pull/6449) |
 | [pf4j/pf4j](https://github.com/pf4j/pf4j) | [Document when PluginManager.unloadPlugin returns false #291](https://github.com/pf4j/pf4j/pull/686) |
@@ -265,6 +267,7 @@ Open pull requests:
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
+| [webforj/webforj](https://github.com/webforj/webforj) | [align DateTimeField and TimeField with minute-based format #1497](https://github.com/webforj/webforj/pull/1499) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [use the dotLottie 2.0 animation path in the README decoder](https://github.com/xvrh/lottie-flutter/pull/431) |
 <!-- oss-open:end -->
 

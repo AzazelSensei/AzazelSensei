@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
 | [NullAway](https://github.com/uber/NullAway) | [Write the full encoded byte array when serializing TSV/XML rows #1788](https://github.com/uber/NullAway/pull/1798) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
@@ -196,6 +197,7 @@ Open pull requests:
 | [bytechef](https://github.com/bytechefhq/bytechef) | [explain JSON File Write source property #2249](https://github.com/bytechefhq/bytechef/pull/5626) |
 | [mobile-app](https://github.com/CircuitVerse/mobile-app) | [show error widget when content fails to load #84](https://github.com/CircuitVerse/mobile-app/pull/651) |
 | [clickhouse-kafka-connect](https://github.com/ClickHouse/clickhouse-kafka-connect) | [convert DESIGN.md diagrams to text #712](https://github.com/ClickHouse/clickhouse-kafka-connect/pull/826) |
+| [schema-registry](https://github.com/confluentinc/schema-registry) | [pretty-print schema JSON with jq](https://github.com/confluentinc/schema-registry/pull/4553) |
 | [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |
 | [aibolit](https://github.com/cqfn/aibolit) | [#696: replace huge Java fixtures with inline examples](https://github.com/cqfn/aibolit/pull/1372) |
 | [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) | [Document Python usage in the package README #311](https://github.com/cucumber/cucumber-expressions/pull/457) |
@@ -287,7 +289,6 @@ Open pull requests:
 | [tldr](https://github.com/tldr-pages/tldr) | [add page](https://github.com/tldr-pages/tldr/pull/23561) |
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll #864](https://github.com/trinodb/trino-gateway/pull/1248) |
 | [fx](https://github.com/uber-go/fx) | [Add AsType generic wrapper over As](https://github.com/uber-go/fx/pull/1296) |
-| [NullAway](https://github.com/uber/NullAway) | [Write the full encoded byte array when serializing TSV/XML rows #1788](https://github.com/uber/NullAway/pull/1798) |
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
 | [flow](https://github.com/vaadin/flow) | [document ComponentEvent.getSource as the listener component #19850](https://github.com/vaadin/flow/pull/25449) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |

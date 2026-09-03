@@ -102,6 +102,9 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
+| [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
+| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
@@ -204,11 +207,13 @@ Open pull requests:
 | [deephaven-core](https://github.com/deephaven/deephaven-core) | [add Raises descriptions for autocomplete #6164](https://github.com/deephaven/deephaven-core/pull/8441) |
 | [docs](https://github.com/DependencyTrack/docs) | [Document OIDC_LOGIN_BUTTON_TEXT on the frontend #6615](https://github.com/DependencyTrack/docs/pull/248) |
 | [DSpace/DSpace](https://github.com/DSpace/DSpace) | [Fix haveNA to honor additional handle prefixes #11449](https://github.com/DSpace/DSpace/pull/13065) |
+| [ditto](https://github.com/eclipse-ditto/ditto) | [Document PUT create for connections #1746](https://github.com/eclipse-ditto/ditto/pull/2542) |
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |
 | [openvsx](https://github.com/eclipse-openvsx/openvsx) | [Document how to configure mirror mode](https://github.com/eclipse-openvsx/openvsx/pull/2126) |
 | [eclipse.platform.ui](https://github.com/eclipse-platform/eclipse.platform.ui) | [Relax LargeFileTest marker timing factor #2622](https://github.com/eclipse-platform/eclipse.platform.ui/pull/4314) |
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
 | [exist](https://github.com/eXist-db/exist) | [[doc] Document recursive xmldb:create-collection() #3869](https://github.com/eXist-db/exist/pull/6666) |
+| [devtools](https://github.com/flutter/devtools) | [Clarify Diff Snapshots Freed column is per class #8837](https://github.com/flutter/devtools/pull/10002) |
 | [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Clarify getInputFromSessionKey missing-key exception #11377](https://github.com/frankframework/frankframework/pull/11543) |
 | [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [list real-world examples in the README #128](https://github.com/fujidaiti/smooth_sheets/pull/606) |
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
@@ -235,10 +240,8 @@ Open pull requests:
 | [Gym](https://github.com/NVIDIA-NeMo/Gym) | [document gym env prefetch CLI #2937](https://github.com/NVIDIA-NeMo/Gym/pull/2954) |
 | [eo](https://github.com/objectionary/eo) | [#7988: name the missing map key in the error](https://github.com/objectionary/eo/pull/8012) |
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
-| [openaev](https://github.com/OpenAEV-Platform/openaev) | [document notification triggers and asset-scoped filters](https://github.com/OpenAEV-Platform/openaev/pull/7680) |
 | [opencast/opencast](https://github.com/opencast/opencast) | [Handle null properties in service registry updated() #1174](https://github.com/opencast/opencast/pull/7973) |
 | [odd-platform](https://github.com/opendatadiscovery/odd-platform) | [Add failed job/test status reason to alert chunk descriptions #1227](https://github.com/opendatadiscovery/odd-platform/pull/1868) |
-| [openHAB](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
 | [security](https://github.com/opensearch-project/security) | [Document demo installer password checks vs REST API settings #4081](https://github.com/opensearch-project/security/pull/6449) |
 | [pf4j/pf4j](https://github.com/pf4j/pf4j) | [Document when PluginManager.unloadPlugin returns false #291](https://github.com/pf4j/pf4j/pull/686) |
@@ -263,6 +266,7 @@ Open pull requests:
 | [nextcloud-deck](https://github.com/stefan-niedermann/nextcloud-deck) | [Show a readable error when an attachment hits the server size limit #830](https://github.com/stefan-niedermann/nextcloud-deck/pull/1913) |
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll #864](https://github.com/trinodb/trino-gateway/pull/1248) |
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
+| [flow](https://github.com/vaadin/flow) | [Clarify Binder bind(String) does not add BeanValidator #19423](https://github.com/vaadin/flow/pull/25471) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [align DateTimeField and TimeField with minute-based format #1497](https://github.com/webforj/webforj/pull/1499) |

@@ -102,6 +102,8 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [webforj/webforj](https://github.com/webforj/webforj) | [extract nested Page mock in DesktopNotificationTest #1573](https://github.com/webforj/webforj/pull/1585) |
+| [flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) | [clarify which Info.plist key to delete #1013](https://github.com/Baseflow/flutter-permission-handler/pull/1560) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |

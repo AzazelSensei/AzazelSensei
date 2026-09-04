@@ -102,6 +102,9 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [FROST-Server](https://github.com/FraunhoferIOSB/FROST-Server) | [Install uuid-ossp in docker-compose for STRING/UUID ids #308](https://github.com/FraunhoferIOSB/FROST-Server/pull/2418) |
+| [flow](https://github.com/vaadin/flow) | [Clarify Binder bind(String) does not add BeanValidator #19423](https://github.com/vaadin/flow/pull/25471) |
+| [webforj/webforj](https://github.com/webforj/webforj) | [align DateTimeField and TimeField with minute-based format #1497](https://github.com/webforj/webforj/pull/1499) |
 | [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
 | [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
 | [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
@@ -218,7 +221,6 @@ Open pull requests:
 | [exist](https://github.com/eXist-db/exist) | [[doc] Document recursive xmldb:create-collection() #3869](https://github.com/eXist-db/exist/pull/6666) |
 | [devtools](https://github.com/flutter/devtools) | [Clarify Diff Snapshots Freed column is per class #8837](https://github.com/flutter/devtools/pull/10002) |
 | [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Clarify getInputFromSessionKey missing-key exception #11377](https://github.com/frankframework/frankframework/pull/11543) |
-| [FROST-Server](https://github.com/FraunhoferIOSB/FROST-Server) | [Install uuid-ossp in docker-compose for STRING/UUID ids #308](https://github.com/FraunhoferIOSB/FROST-Server/pull/2418) |
 | [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [list real-world examples in the README #128](https://github.com/fujidaiti/smooth_sheets/pull/606) |
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
 | [gleec-wallet](https://github.com/GLEECBTC/gleec-wallet) | [Document custom KDF commit builds #3290](https://github.com/GLEECBTC/gleec-wallet/pull/3522) |
@@ -257,6 +259,7 @@ Open pull requests:
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [powsybl-core](https://github.com/powsybl/powsybl-core) | [Reject null DataSource in Importers.importData](https://github.com/powsybl/powsybl-core/pull/4083) |
 | [nessie](https://github.com/projectnessie/nessie) | [CEL filters for commit log, entries, and references #5325](https://github.com/projectnessie/nessie/pull/12946) |
+| [quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) | [clarify Ollama enabled, integration, and logging](https://github.com/quarkiverse/quarkus-langchain4j/pull/2808) |
 | [robolectric/robolectric](https://github.com/robolectric/robolectric) | [Include post stack traces when tests fail with unexecuted runnables #...](https://github.com/robolectric/robolectric/pull/11479) |
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource error when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |
@@ -272,10 +275,8 @@ Open pull requests:
 | [nextcloud-deck](https://github.com/stefan-niedermann/nextcloud-deck) | [Show a readable error when an attachment hits the server size limit #830](https://github.com/stefan-niedermann/nextcloud-deck/pull/1913) |
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll #864](https://github.com/trinodb/trino-gateway/pull/1248) |
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
-| [flow](https://github.com/vaadin/flow) | [Clarify Binder bind(String) does not add BeanValidator #19423](https://github.com/vaadin/flow/pull/25471) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
-| [webforj/webforj](https://github.com/webforj/webforj) | [align DateTimeField and TimeField with minute-based format #1497](https://github.com/webforj/webforj/pull/1499) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [use the dotLottie 2.0 animation path in the README decoder](https://github.com/xvrh/lottie-flutter/pull/431) |
 | [meshcore-open](https://github.com/zjs81/meshcore-open) | [add web client and self-host notes to README #325](https://github.com/zjs81/meshcore-open/pull/540) |
 <!-- oss-open:end -->

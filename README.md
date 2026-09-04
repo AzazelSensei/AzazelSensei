@@ -102,14 +102,15 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [webforj/webforj](https://github.com/webforj/webforj) | [static-import Mockito.mock #1571](https://github.com/webforj/webforj/pull/1587) |
+| [openhab-addons](https://github.com/openhab/openhab-addons) | [[smartthings] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21590) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[unifi] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21576) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
-| [plantuml/plantuml](https://github.com/plantuml/plantuml) | [Document missing Javadoc @param tags #2629](https://github.com/plantuml/plantuml/pull/2850) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
+| [webforj/webforj](https://github.com/webforj/webforj) | [static-import Mockito.mock #1571](https://github.com/webforj/webforj/pull/1587) |
+| [plantuml/plantuml](https://github.com/plantuml/plantuml) | [Document missing Javadoc @param tags #2629](https://github.com/plantuml/plantuml/pull/2850) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [static-import Mockito.mock #1572](https://github.com/webforj/webforj/pull/1586) |
 | [fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) | [document online index building](https://github.com/FoundationDB/fdb-record-layer/pull/4562) |
 | [git-machete-intellij-plugin](https://github.com/VirtusLab/git-machete-intellij-plugin) | [Rename *TestSuite test classes to *Test #1546](https://github.com/VirtusLab/git-machete-intellij-plugin/pull/2355) |

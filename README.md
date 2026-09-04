@@ -102,21 +102,15 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [webforj/webforj](https://github.com/webforj/webforj) | [static-import Mockito.mock #1572](https://github.com/webforj/webforj/pull/1586) |
-| [fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) | [document online index building](https://github.com/FoundationDB/fdb-record-layer/pull/4562) |
-| [git-machete-intellij-plugin](https://github.com/VirtusLab/git-machete-intellij-plugin) | [Rename *TestSuite test classes to *Test #1546](https://github.com/VirtusLab/git-machete-intellij-plugin/pull/2355) |
-| [openHAB](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
-| [Apache Gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
-| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
-| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
-| [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
-| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[unifi] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21576) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
+| [webforj/webforj](https://github.com/webforj/webforj) | [static-import Mockito.mock #1572](https://github.com/webforj/webforj/pull/1586) |
+| [fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) | [document online index building](https://github.com/FoundationDB/fdb-record-layer/pull/4562) |
+| [git-machete-intellij-plugin](https://github.com/VirtusLab/git-machete-intellij-plugin) | [Rename *TestSuite test classes to *Test #1546](https://github.com/VirtusLab/git-machete-intellij-plugin/pull/2355) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [extract nested Page mock in DesktopNotificationTest #1573](https://github.com/webforj/webforj/pull/1585) |
 | [flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) | [clarify which Info.plist key to delete #1013](https://github.com/Baseflow/flutter-permission-handler/pull/1560) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [extract nested mocks in webforj-devtools #1574](https://github.com/webforj/webforj/pull/1584) |

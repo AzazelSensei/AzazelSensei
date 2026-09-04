@@ -102,13 +102,6 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [FROST-Server](https://github.com/FraunhoferIOSB/FROST-Server) | [Install uuid-ossp in docker-compose for STRING/UUID ids #308](https://github.com/FraunhoferIOSB/FROST-Server/pull/2418) |
-| [flow](https://github.com/vaadin/flow) | [Clarify Binder bind(String) does not add BeanValidator #19423](https://github.com/vaadin/flow/pull/25471) |
-| [webforj/webforj](https://github.com/webforj/webforj) | [align DateTimeField and TimeField with minute-based format #1497](https://github.com/webforj/webforj/pull/1499) |
-| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
-| [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
-| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
-| [spoon](https://github.com/INRIA/spoon) | [document SpoonObjectTableModel#scanFields #1876](https://github.com/INRIA/spoon/pull/6881) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
@@ -117,7 +110,10 @@ Merged contributions I actually landed:
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
-| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
+| [FROST-Server](https://github.com/FraunhoferIOSB/FROST-Server) | [Install uuid-ossp in docker-compose for STRING/UUID ids #308](https://github.com/FraunhoferIOSB/FROST-Server/pull/2418) |
+| [flow](https://github.com/vaadin/flow) | [Clarify Binder bind(String) does not add BeanValidator #19423](https://github.com/vaadin/flow/pull/25471) |
+| [webforj/webforj](https://github.com/webforj/webforj) | [align DateTimeField and TimeField with minute-based format #1497](https://github.com/webforj/webforj/pull/1499) |
+| [spoon](https://github.com/INRIA/spoon) | [document SpoonObjectTableModel#scanFields #1876](https://github.com/INRIA/spoon/pull/6881) |
 | [license-maven-plugin](https://github.com/mojohaus/license-maven-plugin) | [Skip null dependency trail when excluding transitives #310](https://github.com/mojohaus/license-maven-plugin/pull/739) |
 | [slf4j](https://github.com/qos-ch/slf4j) | [Pin fluent API caller method name in CallerInfoTest](https://github.com/qos-ch/slf4j/pull/488) |
 | [flow](https://github.com/vaadin/flow) | [document ComponentEvent.getSource as the listener component #19850](https://github.com/vaadin/flow/pull/25449) |

@@ -102,7 +102,8 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [webforj/webforj](https://github.com/webforj/webforj) | [extract nested SessionCookieConfig mock #1576](https://github.com/webforj/webforj/pull/1582) |
+| [fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) | [Warn that setThreadsPerClientVersion needs an external client](https://github.com/FoundationDB/fdb-record-layer/pull/4560) |
+| [hiero-sdk-java](https://github.com/hiero-ledger/hiero-sdk-java) | [fix gossipped typo in TopicMessageSubmitTransaction](https://github.com/hiero-ledger/hiero-sdk-java/pull/2930) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
@@ -110,6 +111,7 @@ Merged contributions I actually landed:
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
+| [webforj/webforj](https://github.com/webforj/webforj) | [extract nested SessionCookieConfig mock #1576](https://github.com/webforj/webforj/pull/1582) |
 | [solrwayback](https://github.com/netarchivesuite/solrwayback) | [Extend Solr docs for separate installs, allowPaths, and collection-id...](https://github.com/netarchivesuite/solrwayback/pull/509) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [extract nested WatchSession mocks #1577](https://github.com/webforj/webforj/pull/1580) |
 | [quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) | [clarify Ollama enabled, integration, and logging](https://github.com/quarkiverse/quarkus-langchain4j/pull/2808) |

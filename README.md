@@ -262,6 +262,7 @@ Open pull requests:
 | [endlessh](https://github.com/skeeto/endlessh) | [optional Banner config line](https://github.com/skeeto/endlessh/pull/105) |
 | [spring-cloud-bus](https://github.com/spring-cloud/spring-cloud-bus) | [Document RabbitMQ exclusive queue locator #249](https://github.com/spring-cloud/spring-cloud-bus/pull/330) |
 | [spring-cloud-consul](https://github.com/spring-cloud/spring-cloud-consul) | [Document spring.cloud.consul.config.prefixes #746](https://github.com/spring-cloud/spring-cloud-consul/pull/1012) |
+| [spring-cloud-zookeeper](https://github.com/spring-cloud/spring-cloud-zookeeper) | [Fix ACL authentication docs #239](https://github.com/spring-cloud/spring-cloud-zookeeper/pull/460) |
 | [tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) | [Add a mocked JWT test for the resource server #23](https://github.com/spring-guides/tut-spring-security-and-angular-js/pull/590) |
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |
 | [StarRocks/starrocks](https://github.com/StarRocks/starrocks) | [[Doc] Skip write-triggered auto-refresh for MVs that will not self-he...](https://github.com/StarRocks/starrocks/pull/78615) |

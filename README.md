@@ -102,6 +102,13 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [nexus](https://github.com/kalayciburak/nexus) | [X oturumu, konuşma bağlamı ve hesap analizi geliştirildi](https://github.com/kalayciburak/nexus/pull/42) |
+| [git-machete-intellij-plugin](https://github.com/VirtusLab/git-machete-intellij-plugin) | [reuse frontend SVG icons in features.md #865](https://github.com/VirtusLab/git-machete-intellij-plugin/pull/2354) |
+| [Apache Gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
+| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
+| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
+| [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
+| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) | [Warn that setThreadsPerClientVersion needs an external client](https://github.com/FoundationDB/fdb-record-layer/pull/4560) |
 | [hiero-sdk-java](https://github.com/hiero-ledger/hiero-sdk-java) | [fix gossipped typo in TopicMessageSubmitTransaction](https://github.com/hiero-ledger/hiero-sdk-java/pull/2930) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
@@ -199,6 +206,7 @@ Open pull requests:
 | [polaris](https://github.com/apache/polaris) | [expand GCS production configuration for sysadmins](https://github.com/apache/polaris/pull/5432) |
 | [apicurio-registry](https://github.com/Apicurio/apicurio-registry) | [Remove unchecked generic varargs warning in unionOf #8905](https://github.com/Apicurio/apicurio-registry/pull/9947) |
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
+| [flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) | [clarify which Info.plist key to delete #1013](https://github.com/Baseflow/flutter-permission-handler/pull/1560) |
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
 | [BetonQuest/BetonQuest](https://github.com/BetonQuest/BetonQuest) | [consistent notify keyword on counting objectives #3967](https://github.com/BetonQuest/BetonQuest/pull/4281) |
@@ -217,7 +225,6 @@ Open pull requests:
 | [ditto](https://github.com/eclipse-ditto/ditto) | [Document PUT create for connections #1746](https://github.com/eclipse-ditto/ditto/pull/2542) |
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |
 | [openvsx](https://github.com/eclipse-openvsx/openvsx) | [Document how to configure mirror mode](https://github.com/eclipse-openvsx/openvsx/pull/2126) |
-| [eclipse.platform.ui](https://github.com/eclipse-platform/eclipse.platform.ui) | [Relax LargeFileTest marker timing factor #2622](https://github.com/eclipse-platform/eclipse.platform.ui/pull/4314) |
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
 | [exist](https://github.com/eXist-db/exist) | [[doc] Document recursive xmldb:create-collection() #3869](https://github.com/eXist-db/exist/pull/6666) |
 | [devtools](https://github.com/flutter/devtools) | [Clarify Diff Snapshots Freed column is per class #8837](https://github.com/flutter/devtools/pull/10002) |
@@ -231,7 +238,6 @@ Open pull requests:
 | [nowinandroid](https://github.com/gradle/nowinandroid) | [point the README at Declarative Gradle #78](https://github.com/gradle/nowinandroid/pull/50) |
 | [grimmory-docs](https://github.com/grimmory-tools/grimmory-docs) | [Clarify Bookdrop NFS/SMB watch limits (grimmory#485)](https://github.com/grimmory-tools/grimmory-docs/pull/54) |
 | [hapi-fhir](https://github.com/hapifhir/hapi-fhir) | [add 2026 changelog section #5034](https://github.com/hapifhir/hapi-fhir/pull/8341) |
-| [hiero-sdk-java](https://github.com/hiero-ledger/hiero-sdk-java) | [fix gossipped typo in TopicMessageSubmitTransaction](https://github.com/hiero-ledger/hiero-sdk-java/pull/2930) |
 | [fl_chart](https://github.com/imaNNeo/fl_chart) | [Remove leftover axisTitleData from chart docs #1201](https://github.com/imaNNeo/fl_chart/pull/2118) |
 | [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
 | [jcabi-github](https://github.com/jcabi/jcabi-github) | [Add created_at and updated_at to MkCommit #1147](https://github.com/jcabi/jcabi-github/pull/1968) |
@@ -246,7 +252,6 @@ Open pull requests:
 | [tracing](https://github.com/micrometer-metrics/tracing) | [Remove Brave Zipkin dependency warning from reporters docs #509](https://github.com/micrometer-metrics/tracing/pull/1547) |
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |
 | [snare](https://github.com/mushorg/snare) | [build Docker image on Python 3.8](https://github.com/mushorg/snare/pull/338) |
-| [solrwayback](https://github.com/netarchivesuite/solrwayback) | [Extend Solr docs for separate installs, allowPaths, and collection-id...](https://github.com/netarchivesuite/solrwayback/pull/509) |
 | [Gym](https://github.com/NVIDIA-NeMo/Gym) | [document gym env prefetch CLI #2937](https://github.com/NVIDIA-NeMo/Gym/pull/2954) |
 | [eo](https://github.com/objectionary/eo) | [#7988: name the missing map key in the error](https://github.com/objectionary/eo/pull/8012) |
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
@@ -279,6 +284,7 @@ Open pull requests:
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
+| [webforj/webforj](https://github.com/webforj/webforj) | [extract nested mocks in foundation tests #1575](https://github.com/webforj/webforj/pull/1583) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [use the dotLottie 2.0 animation path in the README decoder](https://github.com/xvrh/lottie-flutter/pull/431) |
 | [meshcore-open](https://github.com/zjs81/meshcore-open) | [add web client and self-host notes to README #325](https://github.com/zjs81/meshcore-open/pull/540) |
 <!-- oss-open:end -->

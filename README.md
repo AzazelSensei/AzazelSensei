@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) | [clarify Ollama enabled, integration, and logging](https://github.com/quarkiverse/quarkus-langchain4j/pull/2808) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |

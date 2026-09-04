@@ -227,6 +227,7 @@ Open pull requests:
 | [grimmory-docs](https://github.com/grimmory-tools/grimmory-docs) | [Clarify Bookdrop NFS/SMB watch limits (grimmory#485)](https://github.com/grimmory-tools/grimmory-docs/pull/54) |
 | [hapi-fhir](https://github.com/hapifhir/hapi-fhir) | [add 2026 changelog section #5034](https://github.com/hapifhir/hapi-fhir/pull/8341) |
 | [fl_chart](https://github.com/imaNNeo/fl_chart) | [Remove leftover axisTitleData from chart docs #1201](https://github.com/imaNNeo/fl_chart/pull/2118) |
+| [spoon](https://github.com/INRIA/spoon) | [document SpoonObjectTableModel#scanFields #1876](https://github.com/INRIA/spoon/pull/6881) |
 | [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
 | [jcabi-github](https://github.com/jcabi/jcabi-github) | [Add created_at and updated_at to MkCommit #1147](https://github.com/jcabi/jcabi-github/pull/1968) |
 | [jetty.project](https://github.com/jetty/jetty.project) | [Document pemWorkDirectory on QuicheServerQuicConfiguration #12795](https://github.com/jetty/jetty.project/pull/15684) |

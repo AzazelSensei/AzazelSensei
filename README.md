@@ -108,6 +108,7 @@ Merged contributions I actually landed:
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[unifi] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21576) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
+| [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | [name every contact in What leaves your device #989](https://github.com/simonoppowa/OpenNutriTracker/pull/1010) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [static-import Mockito.mock #1571](https://github.com/webforj/webforj/pull/1587) |
 | [plantuml/plantuml](https://github.com/plantuml/plantuml) | [Document missing Javadoc @param tags #2629](https://github.com/plantuml/plantuml/pull/2850) |

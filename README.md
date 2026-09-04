@@ -102,6 +102,15 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [webforj/webforj](https://github.com/webforj/webforj) | [static-import Mockito.mock #1572](https://github.com/webforj/webforj/pull/1586) |
+| [fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) | [document online index building](https://github.com/FoundationDB/fdb-record-layer/pull/4562) |
+| [git-machete-intellij-plugin](https://github.com/VirtusLab/git-machete-intellij-plugin) | [Rename *TestSuite test classes to *Test #1546](https://github.com/VirtusLab/git-machete-intellij-plugin/pull/2355) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
+| [Apache Gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
+| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
+| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
+| [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
+| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
@@ -204,7 +213,6 @@ Open pull requests:
 | [polaris](https://github.com/apache/polaris) | [expand GCS production configuration for sysadmins](https://github.com/apache/polaris/pull/5432) |
 | [apicurio-registry](https://github.com/Apicurio/apicurio-registry) | [Remove unchecked generic varargs warning in unionOf #8905](https://github.com/Apicurio/apicurio-registry/pull/9947) |
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
-| [flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) | [clarify which Info.plist key to delete #1013](https://github.com/Baseflow/flutter-permission-handler/pull/1560) |
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
 | [BetonQuest/BetonQuest](https://github.com/BetonQuest/BetonQuest) | [consistent notify keyword on counting objectives #3967](https://github.com/BetonQuest/BetonQuest/pull/4281) |
@@ -226,7 +234,6 @@ Open pull requests:
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
 | [exist](https://github.com/eXist-db/exist) | [[doc] Document recursive xmldb:create-collection() #3869](https://github.com/eXist-db/exist/pull/6666) |
 | [devtools](https://github.com/flutter/devtools) | [Clarify Diff Snapshots Freed column is per class #8837](https://github.com/flutter/devtools/pull/10002) |
-| [fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) | [document online index building #1045](https://github.com/FoundationDB/fdb-record-layer/pull/4562) |
 | [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Clarify getInputFromSessionKey missing-key exception #11377](https://github.com/frankframework/frankframework/pull/11543) |
 | [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [list real-world examples in the README #128](https://github.com/fujidaiti/smooth_sheets/pull/606) |
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
@@ -250,10 +257,12 @@ Open pull requests:
 | [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) | [explain local sprites and glyphs via file:// #338](https://github.com/maplibre/flutter-maplibre-gl/pull/1011) |
 | [tracing](https://github.com/micrometer-metrics/tracing) | [Remove Brave Zipkin dependency warning from reporters docs #509](https://github.com/micrometer-metrics/tracing/pull/1547) |
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |
+| [gtfs-validator](https://github.com/MobilityData/gtfs-validator) | [clarify feed and agency language codes use BCP 47 #1987](https://github.com/MobilityData/gtfs-validator/pull/2193) |
 | [snare](https://github.com/mushorg/snare) | [build Docker image on Python 3.8](https://github.com/mushorg/snare/pull/338) |
 | [Gym](https://github.com/NVIDIA-NeMo/Gym) | [document gym env prefetch CLI #2937](https://github.com/NVIDIA-NeMo/Gym/pull/2954) |
 | [eo](https://github.com/objectionary/eo) | [#7988: name the missing map key in the error](https://github.com/objectionary/eo/pull/8012) |
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
+| [openaev](https://github.com/OpenAEV-Platform/openaev) | [document openaev.agent-url](https://github.com/OpenAEV-Platform/openaev/pull/7811) |
 | [opencast/opencast](https://github.com/opencast/opencast) | [Handle null properties in service registry updated() #1174](https://github.com/opencast/opencast/pull/7973) |
 | [odd-platform](https://github.com/opendatadiscovery/odd-platform) | [Add failed job/test status reason to alert chunk descriptions #1227](https://github.com/opendatadiscovery/odd-platform/pull/1868) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
@@ -281,8 +290,8 @@ Open pull requests:
 | [nextcloud-deck](https://github.com/stefan-niedermann/nextcloud-deck) | [Show a readable error when an attachment hits the server size limit #830](https://github.com/stefan-niedermann/nextcloud-deck/pull/1913) |
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll #864](https://github.com/trinodb/trino-gateway/pull/1248) |
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
+| [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
-| [git-machete-intellij-plugin](https://github.com/VirtusLab/git-machete-intellij-plugin) | [Rename *TestSuite test classes to *Test #1546](https://github.com/VirtusLab/git-machete-intellij-plugin/pull/2355) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [use the dotLottie 2.0 animation path in the README decoder](https://github.com/xvrh/lottie-flutter/pull/431) |
 | [meshcore-open](https://github.com/zjs81/meshcore-open) | [add web client and self-host notes to README #325](https://github.com/zjs81/meshcore-open/pull/540) |

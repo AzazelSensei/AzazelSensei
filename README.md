@@ -102,7 +102,6 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [Essential-Commands](https://github.com/John-Paul-R/Essential-Commands) | [document nickname text styling #287](https://github.com/John-Paul-R/Essential-Commands/pull/401) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[dmx] Document Color and Tunable White things #21085](https://github.com/openhab/openhab-addons/pull/21603) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[tesla] Link README to official Fleet API docs #15759](https://github.com/openhab/openhab-addons/pull/21594) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[smartthings] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21590) |
@@ -111,6 +110,7 @@ Merged contributions I actually landed:
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[unifi] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21576) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
+| [Essential-Commands](https://github.com/John-Paul-R/Essential-Commands) | [document nickname text styling #287](https://github.com/John-Paul-R/Essential-Commands/pull/401) |
 | [PhotonVision/photonvision](https://github.com/PhotonVision/photonvision) | [add Python photonlib snippets and fix code tabs #1914](https://github.com/PhotonVision/photonvision/pull/2599) |
 | [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | [name every contact in What leaves your device #989](https://github.com/simonoppowa/OpenNutriTracker/pull/1010) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [static-import Mockito.mock #1571](https://github.com/webforj/webforj/pull/1587) |

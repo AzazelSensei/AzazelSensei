@@ -102,6 +102,13 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
+| [Apache Gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
+| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
+| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
+| [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
+| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[dmx] Document Color and Tunable White things #21085](https://github.com/openhab/openhab-addons/pull/21603) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[tesla] Link README to official Fleet API docs #15759](https://github.com/openhab/openhab-addons/pull/21594) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[smartthings] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21590) |
@@ -273,11 +280,13 @@ Open pull requests:
 | [opencast/opencast](https://github.com/opencast/opencast) | [Handle null properties in service registry updated() #1174](https://github.com/opencast/opencast/pull/7973) |
 | [odd-platform](https://github.com/opendatadiscovery/odd-platform) | [Add failed job/test status reason to alert chunk descriptions #1227](https://github.com/opendatadiscovery/odd-platform/pull/1868) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
+| [openrocket/openrocket](https://github.com/openrocket/openrocket) | [[#2813] Clarify git workflow, atomic commits, and GPG in CONTRIBUTING](https://github.com/openrocket/openrocket/pull/3310) |
 | [k-NN](https://github.com/opensearch-project/k-NN) | [Fix flaky testBuildFromModelTemplate CheckIndex mock #2257](https://github.com/opensearch-project/k-NN/pull/3553) |
 | [security](https://github.com/opensearch-project/security) | [Document demo installer password checks vs REST API settings #4081](https://github.com/opensearch-project/security/pull/6449) |
 | [sql](https://github.com/opensearch-project/sql) | [add Calcite settings examples #4806](https://github.com/opensearch-project/sql/pull/5749) |
 | [kt.dart](https://github.com/passsy/kt.dart) | [document dartx for dart:core extensions #187](https://github.com/passsy/kt.dart/pull/200) |
 | [pf4j/pf4j](https://github.com/pf4j/pf4j) | [Document when PluginManager.unloadPlugin returns false #291](https://github.com/pf4j/pf4j/pull/686) |
+| [sidekick](https://github.com/phntmxyz/sidekick) | [Show a warning when sidekick init would downgrade the CLI #163](https://github.com/phntmxyz/sidekick/pull/286) |
 | [PhotonVision/photonvision](https://github.com/PhotonVision/photonvision) | [add Python photonlib snippets and fix code tabs #1914](https://github.com/PhotonVision/photonvision/pull/2599) |
 | [java-cfenv](https://github.com/pivotal-cf/java-cfenv) | [Document IBM Cloud RabbitMQ bindings #69](https://github.com/pivotal-cf/java-cfenv/pull/472) |
 | [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) | [compare this project with official Testcontainers #1224](https://github.com/PlaytikaOSS/testcontainers-spring-boot/pull/3275) |
@@ -302,6 +311,7 @@ Open pull requests:
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
 | [flow](https://github.com/vaadin/flow) | [Add usage notes and MDN links to HTML components #21749](https://github.com/vaadin/flow/pull/25490) |
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
+| [kv4p-ht](https://github.com/VanceVagell/kv4p-ht) | [Add developer clone-and-build outline to the root README #445](https://github.com/VanceVagell/kv4p-ht/pull/460) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [use assertDoesNotThrow in component tests #1570](https://github.com/webforj/webforj/pull/1588) |

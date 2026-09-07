@@ -102,7 +102,6 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [EDDI](https://github.com/labsai/EDDI) | [add Javadoc to config store interfaces #545](https://github.com/labsai/EDDI/pull/740) |
 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | [[#2813] Clarify git workflow, atomic commits, and GPG in CONTRIBUTING](https://github.com/openrocket/openrocket/pull/3310) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[dmx] Document Color and Tunable White things #21085](https://github.com/openhab/openhab-addons/pull/21603) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[tesla] Link README to official Fleet API docs #15759](https://github.com/openhab/openhab-addons/pull/21594) |
@@ -112,6 +111,7 @@ Merged contributions I actually landed:
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[unifi] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21576) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
+| [EDDI](https://github.com/labsai/EDDI) | [add Javadoc to config store interfaces #545](https://github.com/labsai/EDDI/pull/740) |
 | [plantuml/plantuml](https://github.com/plantuml/plantuml) | [add native image build steps to BUILDING.md](https://github.com/plantuml/plantuml/pull/2877) |
 | [flow](https://github.com/vaadin/flow) | [Add usage notes and MDN links to HTML components #21749](https://github.com/vaadin/flow/pull/25490) |
 | [FROST-Server](https://github.com/FraunhoferIOSB/FROST-Server) | [how to protect DatabaseStatus #93](https://github.com/FraunhoferIOSB/FROST-Server/pull/2419) |

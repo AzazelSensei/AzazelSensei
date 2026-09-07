@@ -102,6 +102,13 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
+| [Apache Gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
+| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
+| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
+| [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
+| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [plantuml/plantuml](https://github.com/plantuml/plantuml) | [add native image build steps to BUILDING.md](https://github.com/plantuml/plantuml/pull/2877) |
 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | [[#2813] Clarify git workflow, atomic commits, and GPG in CONTRIBUTING](https://github.com/openrocket/openrocket/pull/3310) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[dmx] Document Color and Tunable White things #21085](https://github.com/openhab/openhab-addons/pull/21603) |
@@ -250,6 +257,7 @@ Open pull requests:
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |
 | [openvsx](https://github.com/eclipse-openvsx/openvsx) | [Document how to configure mirror mode](https://github.com/eclipse-openvsx/openvsx/pull/2126) |
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
+| [esapi-java-legacy](https://github.com/ESAPI/esapi-java-legacy) | [Clean up obsolete ESAPI 1.4 comments in config files #474](https://github.com/ESAPI/esapi-java-legacy/pull/918) |
 | [exist](https://github.com/eXist-db/exist) | [[doc] Document recursive xmldb:create-collection() #3869](https://github.com/eXist-db/exist/pull/6666) |
 | [devtools](https://github.com/flutter/devtools) | [Clarify Diff Snapshots Freed column is per class #8837](https://github.com/flutter/devtools/pull/10002) |
 | [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Clarify getInputFromSessionKey missing-key exception #11377](https://github.com/frankframework/frankframework/pull/11543) |
@@ -295,7 +303,6 @@ Open pull requests:
 | [pf4j/pf4j](https://github.com/pf4j/pf4j) | [Document when PluginManager.unloadPlugin returns false #291](https://github.com/pf4j/pf4j/pull/686) |
 | [sidekick](https://github.com/phntmxyz/sidekick) | [Show a warning when sidekick init would downgrade the CLI #163](https://github.com/phntmxyz/sidekick/pull/286) |
 | [java-cfenv](https://github.com/pivotal-cf/java-cfenv) | [Document IBM Cloud RabbitMQ bindings #69](https://github.com/pivotal-cf/java-cfenv/pull/472) |
-| [PlantUML](https://github.com/plantuml/plantuml) | [add native image build steps to BUILDING.md](https://github.com/plantuml/plantuml/pull/2877) |
 | [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) | [compare this project with official Testcontainers #1224](https://github.com/PlaytikaOSS/testcontainers-spring-boot/pull/3275) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [powsybl-core](https://github.com/powsybl/powsybl-core) | [Reject null DataSource in Importers.importData](https://github.com/powsybl/powsybl-core/pull/4083) |
@@ -305,6 +312,7 @@ Open pull requests:
 | [robolectric/robolectric](https://github.com/robolectric/robolectric) | [Include post stack traces when tests fail with unexecuted runnables #...](https://github.com/robolectric/robolectric/pull/11479) |
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource error when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |
+| [dart_mappable](https://github.com/schultek/dart_mappable) | [document implements and mixins for polymorphism #251](https://github.com/schultek/dart_mappable/pull/353) |
 | [updater](https://github.com/shorebirdtech/updater) | [refresh updater library architecture map](https://github.com/shorebirdtech/updater/pull/371) |
 | [endlessh](https://github.com/skeeto/endlessh) | [optional Banner config line](https://github.com/skeeto/endlessh/pull/105) |
 | [logger](https://github.com/SourceHorizon/logger) | [add FileOutput date-based example #56](https://github.com/SourceHorizon/logger/pull/118) |

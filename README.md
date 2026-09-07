@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [kv4p-ht](https://github.com/VanceVagell/kv4p-ht) | [Add developer clone-and-build outline to the root README #445](https://github.com/VanceVagell/kv4p-ht/pull/460) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [openHAB](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [Apache Gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
@@ -237,6 +238,7 @@ Open pull requests:
 | [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) | [Document Python usage in the package README #311](https://github.com/cucumber/cucumber-expressions/pull/457) |
 | [native](https://github.com/dart-lang/native) | [[jnigen] Expose editable documentation on the visitor API #3496](https://github.com/dart-lang/native/pull/3602) |
 | [tools](https://github.com/dart-lang/tools) | [[pubspec_parse] Add README usage examples #1807](https://github.com/dart-lang/tools/pull/2582) |
+| [databuff](https://github.com/databufflabs/databuff) | [add alert rule configuration example #11](https://github.com/databufflabs/databuff/pull/78) |
 | [tzatziki](https://github.com/Decathlon/tzatziki) | [Handle Kafka tombstone records in topic assertions #564](https://github.com/Decathlon/tzatziki/pull/901) |
 | [deephaven-core](https://github.com/deephaven/deephaven-core) | [add Raises descriptions for autocomplete #6164](https://github.com/deephaven/deephaven-core/pull/8441) |
 | [docs](https://github.com/DependencyTrack/docs) | [Document OIDC_LOGIN_BUTTON_TEXT on the frontend #6615](https://github.com/DependencyTrack/docs/pull/248) |
@@ -264,6 +266,7 @@ Open pull requests:
 | [fl_chart](https://github.com/imaNNeo/fl_chart) | [Remove leftover axisTitleData from chart docs #1201](https://github.com/imaNNeo/fl_chart/pull/2118) |
 | [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
 | [jcabi-github](https://github.com/jcabi/jcabi-github) | [Add created_at and updated_at to MkCommit #1147](https://github.com/jcabi/jcabi-github/pull/1968) |
+| [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) | [Document which commit a GitHub check is published against #333](https://github.com/jenkinsci/github-checks-plugin/pull/539) |
 | [jetty.project](https://github.com/jetty/jetty.project) | [Document pemWorkDirectory on QuicheServerQuicConfiguration #12795](https://github.com/jetty/jetty.project/pull/15684) |
 | [Essential-Commands](https://github.com/John-Paul-R/Essential-Commands) | [clarify nickname style perms apply to the target #44](https://github.com/John-Paul-R/Essential-Commands/pull/402) |
 | [heralding](https://github.com/johnnykv/heralding) | [use configured HTTP banner as Server header](https://github.com/johnnykv/heralding/pull/164) |
@@ -316,7 +319,6 @@ Open pull requests:
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
 | [flow](https://github.com/vaadin/flow) | [Add usage notes and MDN links to HTML components #21749](https://github.com/vaadin/flow/pull/25490) |
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
-| [kv4p-ht](https://github.com/VanceVagell/kv4p-ht) | [Add developer clone-and-build outline to the root README #445](https://github.com/VanceVagell/kv4p-ht/pull/460) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [use assertDoesNotThrow in component tests #1570](https://github.com/webforj/webforj/pull/1588) |

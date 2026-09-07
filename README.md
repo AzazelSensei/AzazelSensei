@@ -102,6 +102,8 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [droidVNC-NG](https://github.com/bk138/droidVNC-NG) | [show default Max. reconnect tries #275](https://github.com/bk138/droidVNC-NG/pull/391) |
+| [docs](https://github.com/DependencyTrack/docs) | [Document OIDC_LOGIN_BUTTON_TEXT on the frontend](https://github.com/DependencyTrack/docs/pull/248) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [openHAB](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |
@@ -216,6 +218,7 @@ Open pull requests:
 | Project | PR |
 |---|---|
 | [bsl-language-server](https://github.com/1c-syntax/bsl-language-server) | [Document PairingBrokenTransaction early rollback on the diagnostic pa...](https://github.com/1c-syntax/bsl-language-server/pull/4502) |
+| [arrow-java](https://github.com/apache/arrow-java) | [[Java] Add TimeStamp*TZ support to ComplexCopier](https://github.com/apache/arrow-java/pull/1289) |
 | [camel-quarkus](https://github.com/apache/camel-quarkus) | [Document Camel Quarkus build items #2900](https://github.com/apache/camel-quarkus/pull/9101) |
 | [Apache Gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
@@ -232,7 +235,6 @@ Open pull requests:
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
 | [BetonQuest/BetonQuest](https://github.com/BetonQuest/BetonQuest) | [consistent notify keyword on counting objectives #3967](https://github.com/BetonQuest/BetonQuest/pull/4281) |
-| [droidVNC-NG](https://github.com/bk138/droidVNC-NG) | [show default Max. reconnect tries #275](https://github.com/bk138/droidVNC-NG/pull/391) |
 | [mobile-app](https://github.com/CircuitVerse/mobile-app) | [show error widget when content fails to load #84](https://github.com/CircuitVerse/mobile-app/pull/651) |
 | [clickhouse-kafka-connect](https://github.com/ClickHouse/clickhouse-kafka-connect) | [convert DESIGN.md diagrams to text #712](https://github.com/ClickHouse/clickhouse-kafka-connect/pull/826) |
 | [schema-registry](https://github.com/confluentinc/schema-registry) | [pretty-print schema JSON with jq](https://github.com/confluentinc/schema-registry/pull/4553) |
@@ -243,7 +245,6 @@ Open pull requests:
 | [databuff](https://github.com/databufflabs/databuff) | [add alert rule configuration example #11](https://github.com/databufflabs/databuff/pull/78) |
 | [tzatziki](https://github.com/Decathlon/tzatziki) | [Handle Kafka tombstone records in topic assertions #564](https://github.com/Decathlon/tzatziki/pull/901) |
 | [deephaven-core](https://github.com/deephaven/deephaven-core) | [add Raises descriptions for autocomplete #6164](https://github.com/deephaven/deephaven-core/pull/8441) |
-| [docs](https://github.com/DependencyTrack/docs) | [Document OIDC_LOGIN_BUTTON_TEXT on the frontend #6615](https://github.com/DependencyTrack/docs/pull/248) |
 | [DSpace/DSpace](https://github.com/DSpace/DSpace) | [Fix haveNA to honor additional handle prefixes #11449](https://github.com/DSpace/DSpace/pull/13065) |
 | [ditto](https://github.com/eclipse-ditto/ditto) | [Document PUT create for connections #1746](https://github.com/eclipse-ditto/ditto/pull/2542) |
 | [glassfish](https://github.com/eclipse-ee4j/glassfish) | [update obsolete HK2 APIs in add-on guide #25008](https://github.com/eclipse-ee4j/glassfish/pull/26198) |
@@ -276,6 +277,7 @@ Open pull requests:
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
 | [peanut.dart](https://github.com/kevmoo/peanut.dart) | [extra-args example in peanut.yaml #118](https://github.com/kevmoo/peanut.dart/pull/225) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [use clusterDefinitions instead of targetCluster #4277](https://github.com/kroxylicious/kroxylicious/pull/4800) |
+| [EDDI](https://github.com/labsai/EDDI) | [add Javadoc to config store interfaces #545](https://github.com/labsai/EDDI/pull/740) |
 | [armeria](https://github.com/line/armeria) | [Document the OAuth 2.0 client #5636](https://github.com/line/armeria/pull/6935) |
 | [mage](https://github.com/magefree/mage) | [Fix NPE when creature type choice is missing #14392](https://github.com/magefree/mage/pull/16072) |
 | [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) | [explain local sprites and glyphs via file:// #338](https://github.com/maplibre/flutter-maplibre-gl/pull/1011) |

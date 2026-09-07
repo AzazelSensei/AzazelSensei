@@ -103,8 +103,8 @@ Merged contributions I actually landed:
 | Project | PR |
 |---|---|
 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | [[#2813] Clarify git workflow, atomic commits, and GPG in CONTRIBUTING](https://github.com/openrocket/openrocket/pull/3310) |
+| [FROST-Server](https://github.com/FraunhoferIOSB/FROST-Server) | [how to protect DatabaseStatus #93](https://github.com/FraunhoferIOSB/FROST-Server/pull/2419) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[dmx] Document Color and Tunable White things #21085](https://github.com/openhab/openhab-addons/pull/21603) |
-| [kt.dart](https://github.com/passsy/kt.dart) | [document dartx for dart:core extensions #187](https://github.com/passsy/kt.dart/pull/200) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[tesla] Link README to official Fleet API docs #15759](https://github.com/openhab/openhab-addons/pull/21594) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[smartthings] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21590) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
@@ -112,6 +112,7 @@ Merged contributions I actually landed:
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[unifi] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21576) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
+| [kt.dart](https://github.com/passsy/kt.dart) | [document dartx for dart:core extensions #187](https://github.com/passsy/kt.dart/pull/200) |
 | [droidVNC-NG](https://github.com/bk138/droidVNC-NG) | [show default Max. reconnect tries #275](https://github.com/bk138/droidVNC-NG/pull/391) |
 | [docs](https://github.com/DependencyTrack/docs) | [Document OIDC_LOGIN_BUTTON_TEXT on the frontend](https://github.com/DependencyTrack/docs/pull/248) |
 | [cowrie/cowrie](https://github.com/cowrie/cowrie) | [accept grep -m max-count](https://github.com/cowrie/cowrie/pull/40594) |

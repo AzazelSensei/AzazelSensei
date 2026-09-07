@@ -109,9 +109,9 @@ Merged contributions I actually landed:
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
-| [tracing](https://github.com/micrometer-metrics/tracing) | [Remove Brave Zipkin dependency warning from reporters docs #509](https://github.com/micrometer-metrics/tracing/pull/1547) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[unifi] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21576) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
+| [tracing](https://github.com/micrometer-metrics/tracing) | [Remove Brave Zipkin dependency warning from reporters docs #509](https://github.com/micrometer-metrics/tracing/pull/1547) |
 | [VulnerableApp](https://github.com/SasanLabs/VulnerableApp) | [add Portuguese-BR README under Locale](https://github.com/SasanLabs/VulnerableApp/pull/787) |
 | [kv4p-ht](https://github.com/VanceVagell/kv4p-ht) | [Add developer clone-and-build outline to the root README #445](https://github.com/VanceVagell/kv4p-ht/pull/460) |
 | [pflag](https://github.com/spf13/pflag) | [Keep wrapping after an unbreakable usage word](https://github.com/spf13/pflag/pull/503) |

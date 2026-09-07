@@ -102,15 +102,6 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [VulnerableApp](https://github.com/SasanLabs/VulnerableApp) | [add Portuguese-BR README under Locale](https://github.com/SasanLabs/VulnerableApp/pull/787) |
-| [kv4p-ht](https://github.com/VanceVagell/kv4p-ht) | [Add developer clone-and-build outline to the root README #445](https://github.com/VanceVagell/kv4p-ht/pull/460) |
-| [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
-| [openHAB](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
-| [Apache Gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
-| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
-| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
-| [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
-| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | [[#2813] Clarify git workflow, atomic commits, and GPG in CONTRIBUTING](https://github.com/openrocket/openrocket/pull/3310) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[dmx] Document Color and Tunable White things #21085](https://github.com/openhab/openhab-addons/pull/21603) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[tesla] Link README to official Fleet API docs #15759](https://github.com/openhab/openhab-addons/pull/21594) |
@@ -118,8 +109,11 @@ Merged contributions I actually landed:
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
+| [tracing](https://github.com/micrometer-metrics/tracing) | [Remove Brave Zipkin dependency warning from reporters docs #509](https://github.com/micrometer-metrics/tracing/pull/1547) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[unifi] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21576) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
+| [VulnerableApp](https://github.com/SasanLabs/VulnerableApp) | [add Portuguese-BR README under Locale](https://github.com/SasanLabs/VulnerableApp/pull/787) |
+| [kv4p-ht](https://github.com/VanceVagell/kv4p-ht) | [Add developer clone-and-build outline to the root README #445](https://github.com/VanceVagell/kv4p-ht/pull/460) |
 | [pflag](https://github.com/spf13/pflag) | [Keep wrapping after an unbreakable usage word](https://github.com/spf13/pflag/pull/503) |
 | [spoon](https://github.com/INRIA/spoon) | [cover CtPackage.setShadow #1818](https://github.com/INRIA/spoon/pull/6888) |
 | [Essential-Commands](https://github.com/John-Paul-R/Essential-Commands) | [document nickname text styling #287](https://github.com/John-Paul-R/Essential-Commands/pull/401) |

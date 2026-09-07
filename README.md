@@ -321,6 +321,7 @@ Open pull requests:
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [use assertDoesNotThrow in component tests #1570](https://github.com/webforj/webforj/pull/1588) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [use the dotLottie 2.0 animation path in the README decoder](https://github.com/xvrh/lottie-flutter/pull/431) |
+| [yacy_search_server](https://github.com/yacy/yacy_search_server) | [Show git commit on Console Status and in the release README #466](https://github.com/yacy/yacy_search_server/pull/822) |
 | [aiworkdeck](https://github.com/zeweihan/aiworkdeck) | [restructure docs/ for contributors #15](https://github.com/zeweihan/aiworkdeck/pull/730) |
 | [meshcore-open](https://github.com/zjs81/meshcore-open) | [add web client and self-host notes to README #325](https://github.com/zjs81/meshcore-open/pull/540) |
 <!-- oss-open:end -->

@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [VulnerableApp](https://github.com/SasanLabs/VulnerableApp) | [add Portuguese-BR README under Locale](https://github.com/SasanLabs/VulnerableApp/pull/787) |
 | [kv4p-ht](https://github.com/VanceVagell/kv4p-ht) | [Add developer clone-and-build outline to the root README #445](https://github.com/VanceVagell/kv4p-ht/pull/460) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [openHAB](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
@@ -245,6 +246,7 @@ Open pull requests:
 | [DSpace/DSpace](https://github.com/DSpace/DSpace) | [Fix haveNA to honor additional handle prefixes #11449](https://github.com/DSpace/DSpace/pull/13065) |
 | [ditto](https://github.com/eclipse-ditto/ditto) | [Document PUT create for connections #1746](https://github.com/eclipse-ditto/ditto/pull/2542) |
 | [glassfish](https://github.com/eclipse-ee4j/glassfish) | [update obsolete HK2 APIs in add-on guide #25008](https://github.com/eclipse-ee4j/glassfish/pull/26198) |
+| [hawkbit](https://github.com/eclipse-hawkbit/hawkbit) | [document DDI controller attribute length limits #1083](https://github.com/eclipse-hawkbit/hawkbit/pull/3341) |
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |
 | [openvsx](https://github.com/eclipse-openvsx/openvsx) | [Document how to configure mirror mode](https://github.com/eclipse-openvsx/openvsx/pull/2126) |
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
@@ -304,7 +306,6 @@ Open pull requests:
 | [robolectric/robolectric](https://github.com/robolectric/robolectric) | [Include post stack traces when tests fail with unexecuted runnables #...](https://github.com/robolectric/robolectric/pull/11479) |
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource error when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |
-| [VulnerableApp](https://github.com/SasanLabs/VulnerableApp) | [add Portuguese-BR README under Locale](https://github.com/SasanLabs/VulnerableApp/pull/787) |
 | [updater](https://github.com/shorebirdtech/updater) | [refresh updater library architecture map](https://github.com/shorebirdtech/updater/pull/371) |
 | [endlessh](https://github.com/skeeto/endlessh) | [optional Banner config line](https://github.com/skeeto/endlessh/pull/105) |
 | [logger](https://github.com/SourceHorizon/logger) | [add FileOutput date-based example #56](https://github.com/SourceHorizon/logger/pull/118) |

@@ -102,6 +102,21 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [flow](https://github.com/vaadin/flow) | [Mention ThemableMixin requirement on CssImport themeFor #19067](https://github.com/vaadin/flow/pull/25548) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[dmx] Document Color and Tunable White things #21085](https://github.com/openhab/openhab-addons/pull/21603) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[tesla] Link README to official Fleet API docs #15759](https://github.com/openhab/openhab-addons/pull/21594) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[smartthings] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21590) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[unifi] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21576) |
+| [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
+| [Apache Gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
+| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
+| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
+| [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
+| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | [[#2813] Clarify git workflow, atomic commits, and GPG in CONTRIBUTING](https://github.com/openrocket/openrocket/pull/3310) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
 | [spring-cloud-zookeeper](https://github.com/spring-cloud/spring-cloud-zookeeper) | [Fix ACL authentication docs #239](https://github.com/spring-cloud/spring-cloud-zookeeper/pull/460) |
@@ -312,7 +327,6 @@ Open pull requests:
 | [logger](https://github.com/SourceHorizon/logger) | [add FileOutput date-based example #56](https://github.com/SourceHorizon/logger/pull/118) |
 | [spring-cloud-bus](https://github.com/spring-cloud/spring-cloud-bus) | [Document RabbitMQ exclusive queue locator #249](https://github.com/spring-cloud/spring-cloud-bus/pull/330) |
 | [spring-cloud-consul](https://github.com/spring-cloud/spring-cloud-consul) | [Document spring.cloud.consul.config.prefixes #746](https://github.com/spring-cloud/spring-cloud-consul/pull/1012) |
-| [spring-cloud-zookeeper](https://github.com/spring-cloud/spring-cloud-zookeeper) | [Fix ACL authentication docs #239](https://github.com/spring-cloud/spring-cloud-zookeeper/pull/460) |
 | [tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) | [Add a mocked JWT test for the resource server #23](https://github.com/spring-guides/tut-spring-security-and-angular-js/pull/590) |
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |
 | [StarRocks/starrocks](https://github.com/StarRocks/starrocks) | [[Doc] Skip write-triggered auto-refresh for MVs that will not self-he...](https://github.com/StarRocks/starrocks/pull/78615) |

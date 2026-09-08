@@ -102,6 +102,13 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
+| [Apache Gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
+| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
+| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
+| [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
+| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | [[#2813] Clarify git workflow, atomic commits, and GPG in CONTRIBUTING](https://github.com/openrocket/openrocket/pull/3310) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[dmx] Document Color and Tunable White things #21085](https://github.com/openhab/openhab-addons/pull/21603) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[tesla] Link README to official Fleet API docs #15759](https://github.com/openhab/openhab-addons/pull/21594) |
@@ -307,6 +314,7 @@ Open pull requests:
 | [pypowsybl](https://github.com/powsybl/pypowsybl) | [Add a user-guide page for the PowSyBl configuration file #284](https://github.com/powsybl/pypowsybl/pull/1285) |
 | [nessie](https://github.com/projectnessie/nessie) | [CEL filters for commit log, entries, and references #5325](https://github.com/projectnessie/nessie/pull/12946) |
 | [quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) | [distinguish document store from embedding store #1372](https://github.com/quarkiverse/quarkus-langchain4j/pull/2811) |
+| [reactor-core](https://github.com/reactor/reactor-core) | [[doc] Align scan marble diagrams with initial value #4042](https://github.com/reactor/reactor-core/pull/4386) |
 | [robolectric/robolectric](https://github.com/robolectric/robolectric) | [Include post stack traces when tests fail with unexecuted runnables #...](https://github.com/robolectric/robolectric/pull/11479) |
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource error when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |

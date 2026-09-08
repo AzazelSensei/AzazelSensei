@@ -103,15 +103,8 @@ Merged contributions I actually landed:
 | Project | PR |
 |---|---|
 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | [[#2813] Clarify git workflow, atomic commits, and GPG in CONTRIBUTING](https://github.com/openrocket/openrocket/pull/3310) |
-| [openhab-addons](https://github.com/openhab/openhab-addons) | [[dmx] Document Color and Tunable White things #21085](https://github.com/openhab/openhab-addons/pull/21603) |
-| [openhab-addons](https://github.com/openhab/openhab-addons) | [[tesla] Link README to official Fleet API docs #15759](https://github.com/openhab/openhab-addons/pull/21594) |
-| [openhab-addons](https://github.com/openhab/openhab-addons) | [[smartthings] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21590) |
-| [spring-cloud-zookeeper](https://github.com/spring-cloud/spring-cloud-zookeeper) | [Fix ACL authentication docs #239](https://github.com/spring-cloud/spring-cloud-zookeeper/pull/460) |
-| [openhab-addons](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
-| [openhab-addons](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
-| [openhab-addons](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
-| [openhab-addons](https://github.com/openhab/openhab-addons) | [[unifi] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21576) |
 | [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
+| [spring-cloud-zookeeper](https://github.com/spring-cloud/spring-cloud-zookeeper) | [Fix ACL authentication docs #239](https://github.com/spring-cloud/spring-cloud-zookeeper/pull/460) |
 | [very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | [resolve dart coverage package_config in pub workspaces](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1689) |
 | [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) | [document default compiled SQLite extensions](https://github.com/xerial/sqlite-jdbc/pull/1465) |
 | [databuff](https://github.com/databufflabs/databuff) | [add alert rule configuration example #11](https://github.com/databufflabs/databuff/pull/78) |

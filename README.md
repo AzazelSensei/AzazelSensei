@@ -297,6 +297,7 @@ Open pull requests:
 | [jetty.project](https://github.com/jetty/jetty.project) | [Document pemWorkDirectory on QuicheServerQuicConfiguration #12795](https://github.com/jetty/jetty.project/pull/15684) |
 | [Essential-Commands](https://github.com/John-Paul-R/Essential-Commands) | [clarify nickname style perms apply to the target #44](https://github.com/John-Paul-R/Essential-Commands/pull/402) |
 | [heralding](https://github.com/johnnykv/heralding) | [use configured HTTP banner as Server header](https://github.com/johnnykv/heralding/pull/164) |
+| [dinosaur-exploder](https://github.com/jvondermarck/dinosaur-exploder) | [return defaults after repairing malformed settings](https://github.com/jvondermarck/dinosaur-exploder/pull/487) |
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
 | [peanut.dart](https://github.com/kevmoo/peanut.dart) | [extra-args example in peanut.yaml #118](https://github.com/kevmoo/peanut.dart/pull/225) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [use clusterDefinitions instead of targetCluster #4277](https://github.com/kroxylicious/kroxylicious/pull/4800) |

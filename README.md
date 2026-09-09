@@ -342,6 +342,7 @@ Open pull requests:
 | [testcontainers-java](https://github.com/testcontainers/testcontainers-java) | [document JNA tmpdir when /tmp is noexec](https://github.com/testcontainers/testcontainers-java/pull/12068) |
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll #864](https://github.com/trinodb/trino-gateway/pull/1248) |
 | [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
+| [flow](https://github.com/vaadin/flow) | [note refreshAll after TreeData mutations #19327](https://github.com/vaadin/flow/pull/25606) |
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [use assertDoesNotThrow in component tests #1570](https://github.com/webforj/webforj/pull/1588) |

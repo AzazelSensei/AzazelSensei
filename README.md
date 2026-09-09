@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [clickhouse-kafka-connect](https://github.com/ClickHouse/clickhouse-kafka-connect) | [convert DESIGN.md diagrams to text #712](https://github.com/ClickHouse/clickhouse-kafka-connect/pull/826) |
 | [openaev](https://github.com/OpenAEV-Platform/openaev) | [document openaev.agent-url](https://github.com/OpenAEV-Platform/openaev/pull/7811) |
 | [security](https://github.com/opensearch-project/security) | [Document demo installer password checks vs REST API settings #4081](https://github.com/opensearch-project/security/pull/6449) |
 | [docs](https://github.com/shorebirdtech/docs) | [guide for single-arch Android APKs (shorebirdtech/shorebird#3402)](https://github.com/shorebirdtech/docs/pull/653) |
@@ -253,7 +254,6 @@ Open pull requests:
 | [BetonQuest/BetonQuest](https://github.com/BetonQuest/BetonQuest) | [consistent notify keyword on counting objectives #3967](https://github.com/BetonQuest/BetonQuest/pull/4281) |
 | [eclipse-cs](https://github.com/checkstyle/eclipse-cs) | [Issue #101: map LeftCurly LAMBDA to brace_position_for_lambda_body](https://github.com/checkstyle/eclipse-cs/pull/1059) |
 | [mobile-app](https://github.com/CircuitVerse/mobile-app) | [show error widget when content fails to load #84](https://github.com/CircuitVerse/mobile-app/pull/651) |
-| [clickhouse-kafka-connect](https://github.com/ClickHouse/clickhouse-kafka-connect) | [convert DESIGN.md diagrams to text #712](https://github.com/ClickHouse/clickhouse-kafka-connect/pull/826) |
 | [recaf-site](https://github.com/Col-E/recaf-site) | [add scripting examples for common reverse-engineering tasks (Col-E/Re...](https://github.com/Col-E/recaf-site/pull/2) |
 | [schema-registry](https://github.com/confluentinc/schema-registry) | [pretty-print schema JSON with jq](https://github.com/confluentinc/schema-registry/pull/4553) |
 | [aibolit](https://github.com/cqfn/aibolit) | [#696: replace huge Java fixtures with inline examples](https://github.com/cqfn/aibolit/pull/1372) |
@@ -304,6 +304,7 @@ Open pull requests:
 | [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) | [explain local sprites and glyphs via file:// #338](https://github.com/maplibre/flutter-maplibre-gl/pull/1011) |
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |
 | [gtfs-validator](https://github.com/MobilityData/gtfs-validator) | [clarify feed and agency language codes use BCP 47 #1987](https://github.com/MobilityData/gtfs-validator/pull/2193) |
+| [mobx.dart](https://github.com/mobxjs/mobx.dart) | [document when and asyncWhen options #249](https://github.com/mobxjs/mobx.dart/pull/1085) |
 | [snare](https://github.com/mushorg/snare) | [build Docker image on Python 3.8](https://github.com/mushorg/snare/pull/338) |
 | [Gym](https://github.com/NVIDIA-NeMo/Gym) | [document gym env prefetch CLI #2937](https://github.com/NVIDIA-NeMo/Gym/pull/2954) |
 | [eo](https://github.com/objectionary/eo) | [#7988: name the missing map key in the error](https://github.com/objectionary/eo/pull/8012) |

@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [docs](https://github.com/shorebirdtech/docs) | [guide for single-arch Android APKs (shorebirdtech/shorebird#3402)](https://github.com/shorebirdtech/docs/pull/653) |
 | [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
 | [openHAB](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
 | [Apache Gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
@@ -274,6 +275,7 @@ Open pull requests:
 | [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Clarify getInputFromSessionKey missing-key exception #11377](https://github.com/frankframework/frankframework/pull/11543) |
 | [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [list real-world examples in the README #128](https://github.com/fujidaiti/smooth_sheets/pull/606) |
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
+| [openrouteservice](https://github.com/GIScience/openrouteservice) | [document fastisochrones preparation options](https://github.com/GIScience/openrouteservice/pull/2410) |
 | [gleec-wallet](https://github.com/GLEECBTC/gleec-wallet) | [Document custom KDF commit builds #3290](https://github.com/GLEECBTC/gleec-wallet/pull/3522) |
 | [pyrdp](https://github.com/GoSecure/pyrdp) | [replace dropped libgl1-mesa-glx with libgl1](https://github.com/GoSecure/pyrdp/pull/514) |
 | [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator) | [Add a How to contribute section to the website #220](https://github.com/gpx-animator/gpx-animator/pull/1036) |
@@ -327,7 +329,6 @@ Open pull requests:
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource error when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |
 | [dart_mappable](https://github.com/schultek/dart_mappable) | [document implements and mixins for polymorphism #251](https://github.com/schultek/dart_mappable/pull/353) |
-| [docs](https://github.com/shorebirdtech/docs) | [guide for single-arch Android APKs (shorebirdtech/shorebird#3402)](https://github.com/shorebirdtech/docs/pull/653) |
 | [updater](https://github.com/shorebirdtech/updater) | [refresh updater library architecture map](https://github.com/shorebirdtech/updater/pull/371) |
 | [endlessh](https://github.com/skeeto/endlessh) | [optional Banner config line](https://github.com/skeeto/endlessh/pull/105) |
 | [logger](https://github.com/SourceHorizon/logger) | [add FileOutput date-based example #56](https://github.com/SourceHorizon/logger/pull/118) |

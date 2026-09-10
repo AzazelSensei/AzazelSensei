@@ -253,6 +253,7 @@ Open pull requests:
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
 | [BetonQuest/BetonQuest](https://github.com/BetonQuest/BetonQuest) | [consistent notify keyword on counting objectives #3967](https://github.com/BetonQuest/BetonQuest/pull/4281) |
+| [buildfarm/buildfarm](https://github.com/buildfarm/buildfarm) | [Document server cache max-entries sizing](https://github.com/buildfarm/buildfarm/pull/2618) |
 | [eclipse-cs](https://github.com/checkstyle/eclipse-cs) | [Issue #101: map LeftCurly LAMBDA to brace_position_for_lambda_body](https://github.com/checkstyle/eclipse-cs/pull/1059) |
 | [mobile-app](https://github.com/CircuitVerse/mobile-app) | [show error widget when content fails to load #84](https://github.com/CircuitVerse/mobile-app/pull/651) |
 | [recaf-site](https://github.com/Col-E/recaf-site) | [add scripting examples for common reverse-engineering tasks (Col-E/Re...](https://github.com/Col-E/recaf-site/pull/2) |

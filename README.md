@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) | [Document which commit a GitHub check is published against #333](https://github.com/jenkinsci/github-checks-plugin/pull/539) |
 | [pinot](https://github.com/apache/pinot) | [add RELEASE_POLICY.md #11642](https://github.com/apache/pinot/pull/19451) |
 | [flow](https://github.com/vaadin/flow) | [note refreshAll after TreeData mutations #19327](https://github.com/vaadin/flow/pull/25606) |
 | [Apache Gravitino](https://github.com/apache/gravitino) | [[#13041] fix(server): Add @ResponseMetered to JobOperations#cancelJob](https://github.com/apache/gravitino/pull/13046) |
@@ -288,7 +289,6 @@ Open pull requests:
 | [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
 | [rohd-hcl](https://github.com/intel/rohd-hcl) | [add DataPortInterface usage example #192](https://github.com/intel/rohd-hcl/pull/301) |
 | [jcabi-github](https://github.com/jcabi/jcabi-github) | [Add created_at and updated_at to MkCommit #1147](https://github.com/jcabi/jcabi-github/pull/1968) |
-| [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) | [Document which commit a GitHub check is published against #333](https://github.com/jenkinsci/github-checks-plugin/pull/539) |
 | [lockable-resources-plugin](https://github.com/jenkinsci/lockable-resources-plugin) | [Document early unlock via LockableResourcesManager #164](https://github.com/jenkinsci/lockable-resources-plugin/pull/1087) |
 | [Essential-Commands](https://github.com/John-Paul-R/Essential-Commands) | [clarify nickname style perms apply to the target #44](https://github.com/John-Paul-R/Essential-Commands/pull/402) |
 | [dinosaur-exploder](https://github.com/jvondermarck/dinosaur-exploder) | [return defaults after repairing malformed settings](https://github.com/jvondermarck/dinosaur-exploder/pull/487) |

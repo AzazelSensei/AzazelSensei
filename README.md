@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [flow](https://github.com/vaadin/flow) | [note refreshAll after TreeData mutations #19327](https://github.com/vaadin/flow/pull/25606) |
 | [Apache Gravitino](https://github.com/apache/gravitino) | [[#13041] fix(server): Add @ResponseMetered to JobOperations#cancelJob](https://github.com/apache/gravitino/pull/13046) |
 | [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) | [explain local sprites and glyphs via file:// #338](https://github.com/maplibre/flutter-maplibre-gl/pull/1011) |
 | [clickhouse-kafka-connect](https://github.com/ClickHouse/clickhouse-kafka-connect) | [convert DESIGN.md diagrams to text #712](https://github.com/ClickHouse/clickhouse-kafka-connect/pull/826) |
@@ -330,7 +331,6 @@ Open pull requests:
 | [StarRocks/starrocks](https://github.com/StarRocks/starrocks) | [[Doc] Skip write-triggered auto-refresh for MVs that will not self-he...](https://github.com/StarRocks/starrocks/pull/78615) |
 | [testcontainers-java](https://github.com/testcontainers/testcontainers-java) | [document JNA tmpdir when /tmp is noexec](https://github.com/testcontainers/testcontainers-java/pull/12068) |
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll #864](https://github.com/trinodb/trino-gateway/pull/1248) |
-| [flow](https://github.com/vaadin/flow) | [note refreshAll after TreeData mutations #19327](https://github.com/vaadin/flow/pull/25606) |
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [use assertDoesNotThrow in component tests #1570](https://github.com/webforj/webforj/pull/1588) |

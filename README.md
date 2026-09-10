@@ -242,7 +242,6 @@ Open pull requests:
 | [maven-acr-plugin](https://github.com/apache/maven-acr-plugin) | [Document Main-Class in the Application Client FAQ #61](https://github.com/apache/maven-acr-plugin/pull/151) |
 | [maven-ejb-plugin](https://github.com/apache/maven-ejb-plugin) | [Fail when the EJB source directory cannot be created #195](https://github.com/apache/maven-ejb-plugin/pull/234) |
 | [maven-help-plugin](https://github.com/apache/maven-help-plugin) | [Do not let effective-pom encoding fall back to null](https://github.com/apache/maven-help-plugin/pull/422) |
-| [maven-jar-plugin](https://github.com/apache/maven-jar-plugin) | [Skip empty JARs when includes match no files #510](https://github.com/apache/maven-jar-plugin/pull/591) |
 | [maven-shade-plugin](https://github.com/apache/maven-shade-plugin) | [Write an empty relativePath on dependency-reduced-pom.xml](https://github.com/apache/maven-shade-plugin/pull/843) |
 | [pinot](https://github.com/apache/pinot) | [add RELEASE_POLICY.md #11642](https://github.com/apache/pinot/pull/19451) |
 | [polaris](https://github.com/apache/polaris) | [expand GCS production configuration for sysadmins](https://github.com/apache/polaris/pull/5432) |
@@ -251,7 +250,6 @@ Open pull requests:
 | [java-client](https://github.com/appium/java-client) | [clarify fingerPrint id is enrolled emulator id](https://github.com/appium/java-client/pull/2442) |
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
-| [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/656) |
 | [BetonQuest/BetonQuest](https://github.com/BetonQuest/BetonQuest) | [consistent notify keyword on counting objectives #3967](https://github.com/BetonQuest/BetonQuest/pull/4281) |
 | [buildfarm/buildfarm](https://github.com/buildfarm/buildfarm) | [Document server cache max-entries sizing](https://github.com/buildfarm/buildfarm/pull/2618) |
 | [eclipse-cs](https://github.com/checkstyle/eclipse-cs) | [Issue #101: map LeftCurly LAMBDA to brace_position_for_lambda_body](https://github.com/checkstyle/eclipse-cs/pull/1059) |
@@ -277,13 +275,9 @@ Open pull requests:
 | [bloc](https://github.com/felangel/bloc) | [document testing initial events #4229](https://github.com/felangel/bloc/pull/4873) |
 | [devtools](https://github.com/flutter/devtools) | [Clarify Diff Snapshots Freed column is per class #8837](https://github.com/flutter/devtools/pull/10002) |
 | [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Clarify getInputFromSessionKey missing-key exception #11377](https://github.com/frankframework/frankframework/pull/11543) |
-| [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [list real-world examples in the README #128](https://github.com/fujidaiti/smooth_sheets/pull/606) |
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
 | [openrouteservice](https://github.com/GIScience/openrouteservice) | [document fastisochrones preparation options](https://github.com/GIScience/openrouteservice/pull/2410) |
 | [gleec-wallet](https://github.com/GLEECBTC/gleec-wallet) | [Document custom KDF commit builds #3290](https://github.com/GLEECBTC/gleec-wallet/pull/3522) |
-| [pyrdp](https://github.com/GoSecure/pyrdp) | [replace dropped libgl1-mesa-glx with libgl1](https://github.com/GoSecure/pyrdp/pull/514) |
-| [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator) | [Add a How to contribute section to the website #220](https://github.com/gpx-animator/gpx-animator/pull/1036) |
-| [nowinandroid](https://github.com/gradle/nowinandroid) | [point the README at Declarative Gradle #78](https://github.com/gradle/nowinandroid/pull/50) |
 | [grimmory-docs](https://github.com/grimmory-tools/grimmory-docs) | [Clarify Bookdrop NFS/SMB watch limits (grimmory#485)](https://github.com/grimmory-tools/grimmory-docs/pull/54) |
 | [hapi-fhir](https://github.com/hapifhir/hapi-fhir) | [add 2026 changelog section #5034](https://github.com/hapifhir/hapi-fhir/pull/8341) |
 | [tuxguitar](https://github.com/helge17/tuxguitar) | [Export beat text in MusicXML](https://github.com/helge17/tuxguitar/pull/1187) |
@@ -295,25 +289,21 @@ Open pull requests:
 | [jcabi-github](https://github.com/jcabi/jcabi-github) | [Add created_at and updated_at to MkCommit #1147](https://github.com/jcabi/jcabi-github/pull/1968) |
 | [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) | [Document which commit a GitHub check is published against #333](https://github.com/jenkinsci/github-checks-plugin/pull/539) |
 | [lockable-resources-plugin](https://github.com/jenkinsci/lockable-resources-plugin) | [Document early unlock via LockableResourcesManager #164](https://github.com/jenkinsci/lockable-resources-plugin/pull/1087) |
-| [jetty.project](https://github.com/jetty/jetty.project) | [Document pemWorkDirectory on QuicheServerQuicConfiguration #12795](https://github.com/jetty/jetty.project/pull/15684) |
 | [Essential-Commands](https://github.com/John-Paul-R/Essential-Commands) | [clarify nickname style perms apply to the target #44](https://github.com/John-Paul-R/Essential-Commands/pull/402) |
-| [heralding](https://github.com/johnnykv/heralding) | [use configured HTTP banner as Server header](https://github.com/johnnykv/heralding/pull/164) |
 | [dinosaur-exploder](https://github.com/jvondermarck/dinosaur-exploder) | [return defaults after repairing malformed settings](https://github.com/jvondermarck/dinosaur-exploder/pull/487) |
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
-| [peanut.dart](https://github.com/kevmoo/peanut.dart) | [extra-args example in peanut.yaml #118](https://github.com/kevmoo/peanut.dart/pull/225) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [use clusterDefinitions instead of targetCluster #4277](https://github.com/kroxylicious/kroxylicious/pull/4800) |
 | [fvm](https://github.com/leoafarias/fvm) | [use POSIX wrappers when rerouting flutter and dart #782](https://github.com/leoafarias/fvm/pull/1075) |
 | [armeria](https://github.com/line/armeria) | [Document the OAuth 2.0 client #5636](https://github.com/line/armeria/pull/6935) |
 | [mage](https://github.com/magefree/mage) | [Fix NPE when creature type choice is missing #14392](https://github.com/magefree/mage/pull/16072) |
+| [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) | [explain how to load a local mbtiles file #318](https://github.com/maplibre/flutter-maplibre-gl/pull/1031) |
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |
 | [gtfs-validator](https://github.com/MobilityData/gtfs-validator) | [clarify feed and agency language codes use BCP 47 #1987](https://github.com/MobilityData/gtfs-validator/pull/2193) |
 | [mobx.dart](https://github.com/mobxjs/mobx.dart) | [document when and asyncWhen options #249](https://github.com/mobxjs/mobx.dart/pull/1085) |
-| [snare](https://github.com/mushorg/snare) | [build Docker image on Python 3.8](https://github.com/mushorg/snare/pull/338) |
 | [Gym](https://github.com/NVIDIA-NeMo/Gym) | [document gym env prefetch CLI #2937](https://github.com/NVIDIA-NeMo/Gym/pull/2954) |
 | [eo](https://github.com/objectionary/eo) | [#7988: name the missing map key in the error](https://github.com/objectionary/eo/pull/8012) |
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
 | [opencast/opencast](https://github.com/opencast/opencast) | [Handle null properties in service registry updated() #1174](https://github.com/opencast/opencast/pull/7973) |
-| [odd-platform](https://github.com/opendatadiscovery/odd-platform) | [Add failed job/test status reason to alert chunk descriptions #1227](https://github.com/opendatadiscovery/odd-platform/pull/1868) |
 | [openHAB](https://github.com/openhab/openhab-addons) | [[velbus] Show Thing properties in the full example #15896](https://github.com/openhab/openhab-addons/pull/21611) |
 | [engine](https://github.com/OpenIntegrationEngine/engine) | [Point Administrator Help and homepage links at the docs site #181](https://github.com/OpenIntegrationEngine/engine/pull/433) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
@@ -326,32 +316,25 @@ Open pull requests:
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [powsybl-core](https://github.com/powsybl/powsybl-core) | [Reject null DataSource in Importers.importData](https://github.com/powsybl/powsybl-core/pull/4083) |
 | [pypowsybl](https://github.com/powsybl/pypowsybl) | [Add a user-guide page for the PowSyBl configuration file #284](https://github.com/powsybl/pypowsybl/pull/1285) |
-| [nessie](https://github.com/projectnessie/nessie) | [CEL filters for commit log, entries, and references #5325](https://github.com/projectnessie/nessie/pull/12946) |
 | [quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) | [distinguish document store from embedding store #1372](https://github.com/quarkiverse/quarkus-langchain4j/pull/2811) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [[doc] Align scan marble diagrams with initial value #4042](https://github.com/reactor/reactor-core/pull/4386) |
 | [robolectric/robolectric](https://github.com/robolectric/robolectric) | [Include post stack traces when tests fail with unexecuted runnables #...](https://github.com/robolectric/robolectric/pull/11479) |
 | [rstudio/rstudio](https://github.com/rstudio/rstudio) | [debugSource error when keep.source is FALSE #12375](https://github.com/rstudio/rstudio/pull/18686) |
-| [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/719) |
 | [dart_mappable](https://github.com/schultek/dart_mappable) | [document implements and mixins for polymorphism #251](https://github.com/schultek/dart_mappable/pull/353) |
-| [updater](https://github.com/shorebirdtech/updater) | [refresh updater library architecture map](https://github.com/shorebirdtech/updater/pull/371) |
-| [endlessh](https://github.com/skeeto/endlessh) | [optional Banner config line](https://github.com/skeeto/endlessh/pull/105) |
+| [flutter-quill](https://github.com/singerdmx/flutter-quill) | [Fix crash when long-pressing text after removing a link #2271](https://github.com/singerdmx/flutter-quill/pull/2766) |
 | [logger](https://github.com/SourceHorizon/logger) | [add FileOutput date-based example #56](https://github.com/SourceHorizon/logger/pull/118) |
 | [spring-cloud-bus](https://github.com/spring-cloud/spring-cloud-bus) | [Document RabbitMQ exclusive queue locator #249](https://github.com/spring-cloud/spring-cloud-bus/pull/330) |
-| [spring-cloud-consul](https://github.com/spring-cloud/spring-cloud-consul) | [Document spring.cloud.consul.config.prefixes #746](https://github.com/spring-cloud/spring-cloud-consul/pull/1012) |
 | [spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) | [Document production ready endpoints #2048](https://github.com/spring-cloud/spring-cloud-netflix/pull/4598) |
 | [tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) | [Add a mocked JWT test for the resource server #23](https://github.com/spring-guides/tut-spring-security-and-angular-js/pull/590) |
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |
 | [StarRocks/starrocks](https://github.com/StarRocks/starrocks) | [[Doc] Skip write-triggered auto-refresh for MVs that will not self-he...](https://github.com/StarRocks/starrocks/pull/78615) |
-| [nextcloud-deck](https://github.com/stefan-niedermann/nextcloud-deck) | [Show a readable error when an attachment hits the server size limit #830](https://github.com/stefan-niedermann/nextcloud-deck/pull/1913) |
 | [testcontainers-java](https://github.com/testcontainers/testcontainers-java) | [document JNA tmpdir when /tmp is noexec](https://github.com/testcontainers/testcontainers-java/pull/12068) |
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll #864](https://github.com/trinodb/trino-gateway/pull/1248) |
-| [uyuni](https://github.com/uyuni-project/uyuni) | [Document createOrUpdatePath permissions as a string #7968](https://github.com/uyuni-project/uyuni/pull/12513) |
 | [flow](https://github.com/vaadin/flow) | [note refreshAll after TreeData mutations #19327](https://github.com/vaadin/flow/pull/25606) |
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [use assertDoesNotThrow in component tests #1570](https://github.com/webforj/webforj/pull/1588) |
 | [xrpl4j](https://github.com/XRPLF/xrpl4j) | [cover all TrustLine flags in AccountLinesResultJsonTests #621](https://github.com/XRPLF/xrpl4j/pull/833) |
-| [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [use the dotLottie 2.0 animation path in the README decoder](https://github.com/xvrh/lottie-flutter/pull/431) |
 | [yacy_search_server](https://github.com/yacy/yacy_search_server) | [Show git commit on Console Status and in the release README #466](https://github.com/yacy/yacy_search_server/pull/822) |
 | [aiworkdeck](https://github.com/zeweihan/aiworkdeck) | [restructure docs/ for contributors #15](https://github.com/zeweihan/aiworkdeck/pull/730) |
 | [meshcore-open](https://github.com/zjs81/meshcore-open) | [add web client and self-host notes to README #325](https://github.com/zjs81/meshcore-open/pull/540) |

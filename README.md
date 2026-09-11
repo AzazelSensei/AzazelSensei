@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4651] [Doc] Add WeChat connector documentation](https://github.com/apache/eventmesh-site/pull/259) |
 | [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) | [Document which commit a GitHub check is published against #333](https://github.com/jenkinsci/github-checks-plugin/pull/539) |
 | [pinot](https://github.com/apache/pinot) | [add RELEASE_POLICY.md #11642](https://github.com/apache/pinot/pull/19451) |
 | [flow](https://github.com/vaadin/flow) | [note refreshAll after TreeData mutations #19327](https://github.com/vaadin/flow/pull/25606) |
@@ -239,7 +240,6 @@ Open pull requests:
 | [bsl-language-server](https://github.com/1c-syntax/bsl-language-server) | [Document PairingBrokenTransaction early rollback on the diagnostic pa...](https://github.com/1c-syntax/bsl-language-server/pull/4502) |
 | [arrow-java](https://github.com/apache/arrow-java) | [[Java] Add TimeStamp*TZ support to ComplexCopier](https://github.com/apache/arrow-java/pull/1289) |
 | [camel-quarkus](https://github.com/apache/camel-quarkus) | [Document Camel Quarkus build items #2900](https://github.com/apache/camel-quarkus/pull/9101) |
-| [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4651] [Doc] Add WeChat connector documentation](https://github.com/apache/eventmesh-site/pull/259) |
 | [Apache Gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
 | [maven-acr-plugin](https://github.com/apache/maven-acr-plugin) | [Document Main-Class in the Application Client FAQ #61](https://github.com/apache/maven-acr-plugin/pull/151) |
@@ -330,7 +330,7 @@ Open pull requests:
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |
 | [StarRocks/starrocks](https://github.com/StarRocks/starrocks) | [[Doc] Skip write-triggered auto-refresh for MVs that will not self-he...](https://github.com/StarRocks/starrocks/pull/78615) |
 | [testcontainers-java](https://github.com/testcontainers/testcontainers-java) | [document JNA tmpdir when /tmp is noexec](https://github.com/testcontainers/testcontainers-java/pull/12068) |
-| [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll #864](https://github.com/trinodb/trino-gateway/pull/1248) |
+| [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll](https://github.com/trinodb/trino-gateway/pull/1248) |
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [use assertDoesNotThrow in component tests #1570](https://github.com/webforj/webforj/pull/1588) |

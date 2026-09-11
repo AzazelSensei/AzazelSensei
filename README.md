@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [nexus](https://github.com/kalayciburak/nexus) | [hekim ve kurum değerlendirme modülü](https://github.com/kalayciburak/nexus/pull/85) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4651] [Doc] Add WeChat connector documentation](https://github.com/apache/eventmesh-site/pull/259) |
 | [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) | [Document which commit a GitHub check is published against #333](https://github.com/jenkinsci/github-checks-plugin/pull/539) |
 | [pinot](https://github.com/apache/pinot) | [add RELEASE_POLICY.md #11642](https://github.com/apache/pinot/pull/19451) |
@@ -294,6 +295,7 @@ Open pull requests:
 | [dinosaur-exploder](https://github.com/jvondermarck/dinosaur-exploder) | [return defaults after repairing malformed settings](https://github.com/jvondermarck/dinosaur-exploder/pull/487) |
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [use clusterDefinitions instead of targetCluster #4277](https://github.com/kroxylicious/kroxylicious/pull/4800) |
+| [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [accept bootstrapServerSelection on clusterDefinitions #4840](https://github.com/kroxylicious/kroxylicious/pull/4891) |
 | [fvm](https://github.com/leoafarias/fvm) | [use POSIX wrappers when rerouting flutter and dart #782](https://github.com/leoafarias/fvm/pull/1075) |
 | [armeria](https://github.com/line/armeria) | [Document the OAuth 2.0 client #5636](https://github.com/line/armeria/pull/6935) |
 | [mage](https://github.com/magefree/mage) | [Fix NPE when creature type choice is missing #14392](https://github.com/magefree/mage/pull/16072) |

@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [exist](https://github.com/eXist-db/exist) | [[doc] Document recursive xmldb:create-collection() #3869](https://github.com/eXist-db/exist/pull/6666) |
 | [tools](https://github.com/dart-lang/tools) | [[pubspec_parse] Add README usage examples #1807](https://github.com/dart-lang/tools/pull/2582) |
 | [nexus](https://github.com/kalayciburak/nexus) | [hekim ve kurum değerlendirme modülü](https://github.com/kalayciburak/nexus/pull/85) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4651] [Doc] Add WeChat connector documentation](https://github.com/apache/eventmesh-site/pull/259) |
@@ -274,7 +275,6 @@ Open pull requests:
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
 | [apm-agent-java](https://github.com/elastic/apm-agent-java) | [Log an error when activating a nested transaction #850](https://github.com/elastic/apm-agent-java/pull/4572) |
 | [esapi-java-legacy](https://github.com/ESAPI/esapi-java-legacy) | [Clean up obsolete ESAPI 1.4 comments in config files #474](https://github.com/ESAPI/esapi-java-legacy/pull/918) |
-| [exist](https://github.com/eXist-db/exist) | [[doc] Document recursive xmldb:create-collection() #3869](https://github.com/eXist-db/exist/pull/6666) |
 | [bloc](https://github.com/felangel/bloc) | [document testing initial events #4229](https://github.com/felangel/bloc/pull/4873) |
 | [devtools](https://github.com/flutter/devtools) | [Clarify Diff Snapshots Freed column is per class #8837](https://github.com/flutter/devtools/pull/10002) |
 | [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Clarify getInputFromSessionKey missing-key exception #11377](https://github.com/frankframework/frankframework/pull/11543) |
@@ -290,7 +290,6 @@ Open pull requests:
 | [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
 | [rohd-hcl](https://github.com/intel/rohd-hcl) | [add DataPortInterface usage example #192](https://github.com/intel/rohd-hcl/pull/301) |
 | [jcabi-github](https://github.com/jcabi/jcabi-github) | [Add created_at and updated_at to MkCommit #1147](https://github.com/jcabi/jcabi-github/pull/1968) |
-| [lockable-resources-plugin](https://github.com/jenkinsci/lockable-resources-plugin) | [Document early unlock via LockableResourcesManager #164](https://github.com/jenkinsci/lockable-resources-plugin/pull/1087) |
 | [Essential-Commands](https://github.com/John-Paul-R/Essential-Commands) | [clarify nickname style perms apply to the target #44](https://github.com/John-Paul-R/Essential-Commands/pull/402) |
 | [dinosaur-exploder](https://github.com/jvondermarck/dinosaur-exploder) | [return defaults after repairing malformed settings](https://github.com/jvondermarck/dinosaur-exploder/pull/487) |
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |

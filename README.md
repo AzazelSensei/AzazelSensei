@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) | [compare this project with official Testcontainers #1224](https://github.com/PlaytikaOSS/testcontainers-spring-boot/pull/3275) |
 | [openHAB](https://github.com/openhab/openhab-addons) | [[velbus] Show Thing properties in the full example #15896](https://github.com/openhab/openhab-addons/pull/21611) |
 | [exist](https://github.com/eXist-db/exist) | [[doc] Document recursive xmldb:create-collection() #3869](https://github.com/eXist-db/exist/pull/6666) |
 | [tools](https://github.com/dart-lang/tools) | [[pubspec_parse] Add README usage examples #1807](https://github.com/dart-lang/tools/pull/2582) |
@@ -285,6 +286,7 @@ Open pull requests:
 | [hapi-fhir](https://github.com/hapifhir/hapi-fhir) | [add 2026 changelog section #5034](https://github.com/hapifhir/hapi-fhir/pull/8341) |
 | [tuxguitar](https://github.com/helge17/tuxguitar) | [Export beat text in MusicXML](https://github.com/helge17/tuxguitar/pull/1187) |
 | [hibernate-reactive](https://github.com/hibernate/hibernate-reactive) | [Add test for @NotFound annotation #1277](https://github.com/hibernate/hibernate-reactive/pull/4154) |
+| [hiero-sdk-java](https://github.com/hiero-ledger/hiero-sdk-java) | [fix forMirrorNetwork javadoc param order](https://github.com/hiero-ledger/hiero-sdk-java/pull/2948) |
 | [hivemq-mqtt-client](https://github.com/hivemq/hivemq-mqtt-client) | [explain how to stop automatic reconnect #735](https://github.com/hivemq/hivemq-mqtt-client/pull/849) |
 | [fl_chart](https://github.com/imaNNeo/fl_chart) | [Remove leftover axisTitleData from chart docs #1201](https://github.com/imaNNeo/fl_chart/pull/2118) |
 | [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
@@ -313,7 +315,6 @@ Open pull requests:
 | [pf4j/pf4j](https://github.com/pf4j/pf4j) | [Document when PluginManager.unloadPlugin returns false #291](https://github.com/pf4j/pf4j/pull/686) |
 | [sidekick](https://github.com/phntmxyz/sidekick) | [Show a warning when sidekick init would downgrade the CLI #163](https://github.com/phntmxyz/sidekick/pull/286) |
 | [java-cfenv](https://github.com/pivotal-cf/java-cfenv) | [Document IBM Cloud RabbitMQ bindings #69](https://github.com/pivotal-cf/java-cfenv/pull/472) |
-| [testcontainers-spring-boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot) | [compare this project with official Testcontainers #1224](https://github.com/PlaytikaOSS/testcontainers-spring-boot/pull/3275) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [powsybl-core](https://github.com/powsybl/powsybl-core) | [Reject null DataSource in Importers.importData](https://github.com/powsybl/powsybl-core/pull/4083) |
 | [pypowsybl](https://github.com/powsybl/pypowsybl) | [Add a user-guide page for the PowSyBl configuration file #284](https://github.com/powsybl/pypowsybl/pull/1285) |
@@ -333,6 +334,7 @@ Open pull requests:
 | [testcontainers-java](https://github.com/testcontainers/testcontainers-java) | [document JNA tmpdir when /tmp is noexec](https://github.com/testcontainers/testcontainers-java/pull/12068) |
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll](https://github.com/trinodb/trino-gateway/pull/1248) |
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
+| [framework](https://github.com/vaadin/framework) | [clarify ShortcutAction is registered on Panel or Window #10672](https://github.com/vaadin/framework/pull/12686) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [use assertDoesNotThrow in component tests #1570](https://github.com/webforj/webforj/pull/1588) |
 | [xrpl4j](https://github.com/XRPLF/xrpl4j) | [cover all TrustLine flags in AccountLinesResultJsonTests #621](https://github.com/XRPLF/xrpl4j/pull/833) |

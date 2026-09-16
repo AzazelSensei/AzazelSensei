@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [nexus](https://github.com/kalayciburak/nexus) | [Pusula backend modülleri tek paket altında toplandı](https://github.com/kalayciburak/nexus/pull/92) |
 | [googleapis.dart](https://github.com/google/googleapis.dart) | [update googleapis_auth README for current Cloud Console #278](https://github.com/google/googleapis.dart/pull/759) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4614] [Doc] Add Pulsar connector documentation](https://github.com/apache/eventmesh-site/pull/262) |
 | [dinosaur-exploder](https://github.com/jvondermarck/dinosaur-exploder) | [return defaults after repairing malformed settings](https://github.com/jvondermarck/dinosaur-exploder/pull/487) |
@@ -333,7 +334,6 @@ Open pull requests:
 | [dart_mappable](https://github.com/schultek/dart_mappable) | [document implements and mixins for polymorphism #251](https://github.com/schultek/dart_mappable/pull/353) |
 | [flutter-quill](https://github.com/singerdmx/flutter-quill) | [Fix crash when long-pressing text after removing a link #2271](https://github.com/singerdmx/flutter-quill/pull/2766) |
 | [logger](https://github.com/SourceHorizon/logger) | [add FileOutput date-based example #56](https://github.com/SourceHorizon/logger/pull/118) |
-| [spring-cloud-bus](https://github.com/spring-cloud/spring-cloud-bus) | [Document RabbitMQ exclusive queue locator #249](https://github.com/spring-cloud/spring-cloud-bus/pull/330) |
 | [spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) | [Document production ready endpoints #2048](https://github.com/spring-cloud/spring-cloud-netflix/pull/4598) |
 | [tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) | [Add a mocked JWT test for the resource server #23](https://github.com/spring-guides/tut-spring-security-and-angular-js/pull/590) |
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |

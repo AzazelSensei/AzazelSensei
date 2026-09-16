@@ -17,6 +17,7 @@ Building scalable backend systems & cross-platform applications
 <!-- oss-icons:start -->
 <div align="center">
 <a href="https://github.com/apache/maven-surefire" title="maven-surefire"><img src="https://github.com/apache.png?size=96" width="42" height="42" hspace="6" alt="maven-surefire" /></a>
+<a href="https://github.com/google/googleapis.dart" title="googleapis.dart"><img src="https://github.com/google.png?size=96" width="42" height="42" hspace="6" alt="googleapis.dart" /></a>
 <a href="https://github.com/uber/NullAway" title="NullAway"><img src="https://github.com/uber.png?size=96" width="42" height="42" hspace="6" alt="NullAway" /></a>
 <a href="https://github.com/FasterXML/jackson-databind" title="Jackson"><img src="https://github.com/FasterXML.png?size=96" width="42" height="42" hspace="6" alt="Jackson" /></a>
 <a href="https://github.com/jhy/jsoup" title="jsoup"><img src="https://github.com/jhy.png?size=96" width="42" height="42" hspace="6" alt="jsoup" /></a>
@@ -29,7 +30,6 @@ Building scalable backend systems & cross-platform applications
 <a href="https://github.com/INRIA/spoon" title="spoon"><img src="https://github.com/INRIA.png?size=96" width="42" height="42" hspace="6" alt="spoon" /></a>
 <a href="https://github.com/microsoft/gctoolkit" title="gctoolkit"><img src="https://github.com/microsoft.png?size=96" width="42" height="42" hspace="6" alt="gctoolkit" /></a>
 <a href="https://github.com/citrusframework/citrus" title="citrus"><img src="https://github.com/citrusframework.png?size=96" width="42" height="42" hspace="6" alt="citrus" /></a>
-<a href="https://github.com/cucumber/cucumber-expressions" title="cucumber-expressions"><img src="https://github.com/cucumber.png?size=96" width="42" height="42" hspace="6" alt="cucumber-expressions" /></a>
 </div>
 <!-- oss-icons:end -->
 
@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [googleapis.dart](https://github.com/google/googleapis.dart) | [update googleapis_auth README for current Cloud Console #278](https://github.com/google/googleapis.dart/pull/759) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4614] [Doc] Add Pulsar connector documentation](https://github.com/apache/eventmesh-site/pull/262) |
 | [dinosaur-exploder](https://github.com/jvondermarck/dinosaur-exploder) | [return defaults after repairing malformed settings](https://github.com/jvondermarck/dinosaur-exploder/pull/487) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4615] [Doc] Add Prometheus connector document...](https://github.com/apache/eventmesh-site/pull/261) |
@@ -288,7 +289,6 @@ Open pull requests:
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
 | [openrouteservice](https://github.com/GIScience/openrouteservice) | [document fastisochrones preparation options](https://github.com/GIScience/openrouteservice/pull/2410) |
 | [gleec-wallet](https://github.com/GLEECBTC/gleec-wallet) | [Document custom KDF commit builds #3290](https://github.com/GLEECBTC/gleec-wallet/pull/3522) |
-| [googleapis.dart](https://github.com/google/googleapis.dart) | [update googleapis_auth README for current Cloud Console #278](https://github.com/google/googleapis.dart/pull/759) |
 | [grimmory-docs](https://github.com/grimmory-tools/grimmory-docs) | [Clarify Bookdrop NFS/SMB watch limits (grimmory#485)](https://github.com/grimmory-tools/grimmory-docs/pull/54) |
 | [aid-studio](https://github.com/gzxx-2025/aid-studio) | [Add English Docker and systemd deploy guide #7](https://github.com/gzxx-2025/aid-studio/pull/13) |
 | [hapi-fhir](https://github.com/hapifhir/hapi-fhir) | [add 2026 changelog section #5034](https://github.com/hapifhir/hapi-fhir/pull/8341) |

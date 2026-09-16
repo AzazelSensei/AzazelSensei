@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [webforj/webforj](https://github.com/webforj/webforj) | [use assertDoesNotThrow in component tests #1570](https://github.com/webforj/webforj/pull/1588) |
 | [hiero-sdk-java](https://github.com/hiero-ledger/hiero-sdk-java) | [fix forMirrorNetwork javadoc param order](https://github.com/hiero-ledger/hiero-sdk-java/pull/2948) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [accept bootstrapServerSelection on clusterDefinitions #4840](https://github.com/kroxylicious/kroxylicious/pull/4891) |
 | [nexus](https://github.com/kalayciburak/nexus) | [Pusula backend modülleri tek paket altında toplandı](https://github.com/kalayciburak/nexus/pull/92) |
@@ -342,7 +343,6 @@ Open pull requests:
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll](https://github.com/trinodb/trino-gateway/pull/1248) |
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
-| [webforj/webforj](https://github.com/webforj/webforj) | [use assertDoesNotThrow in component tests #1570](https://github.com/webforj/webforj/pull/1588) |
 | [xrpl4j](https://github.com/XRPLF/xrpl4j) | [cover all TrustLine flags in AccountLinesResultJsonTests #621](https://github.com/XRPLF/xrpl4j/pull/833) |
 | [yacy_search_server](https://github.com/yacy/yacy_search_server) | [Show git commit on Console Status and in the release README #466](https://github.com/yacy/yacy_search_server/pull/822) |
 | [aiworkdeck](https://github.com/zeweihan/aiworkdeck) | [restructure docs/ for contributors #15](https://github.com/zeweihan/aiworkdeck/pull/730) |

@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4614] [Doc] Add Pulsar connector documentation](https://github.com/apache/eventmesh-site/pull/262) |
 | [dinosaur-exploder](https://github.com/jvondermarck/dinosaur-exploder) | [return defaults after repairing malformed settings](https://github.com/jvondermarck/dinosaur-exploder/pull/487) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4615] [Doc] Add Prometheus connector document...](https://github.com/apache/eventmesh-site/pull/261) |
 | [nexus](https://github.com/kalayciburak/nexus) | [X girişi: sunucuda güvenli tarayıcı desteği](https://github.com/kalayciburak/nexus/pull/91) |
@@ -249,7 +250,6 @@ Open pull requests:
 | [bsl-language-server](https://github.com/1c-syntax/bsl-language-server) | [Document PairingBrokenTransaction early rollback on the diagnostic pa...](https://github.com/1c-syntax/bsl-language-server/pull/4502) |
 | [arrow-java](https://github.com/apache/arrow-java) | [[Java] Add TimeStamp*TZ support to ComplexCopier](https://github.com/apache/arrow-java/pull/1289) |
 | [camel-quarkus](https://github.com/apache/camel-quarkus) | [Document Camel Quarkus build items #2900](https://github.com/apache/camel-quarkus/pull/9101) |
-| [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4614] [Doc] Add Pulsar connector documentation](https://github.com/apache/eventmesh-site/pull/262) |
 | [Apache Gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
 | [maven-acr-plugin](https://github.com/apache/maven-acr-plugin) | [Document Main-Class in the Application Client FAQ #61](https://github.com/apache/maven-acr-plugin/pull/151) |
@@ -288,7 +288,9 @@ Open pull requests:
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
 | [openrouteservice](https://github.com/GIScience/openrouteservice) | [document fastisochrones preparation options](https://github.com/GIScience/openrouteservice/pull/2410) |
 | [gleec-wallet](https://github.com/GLEECBTC/gleec-wallet) | [Document custom KDF commit builds #3290](https://github.com/GLEECBTC/gleec-wallet/pull/3522) |
+| [googleapis.dart](https://github.com/google/googleapis.dart) | [update googleapis_auth README for current Cloud Console #278](https://github.com/google/googleapis.dart/pull/759) |
 | [grimmory-docs](https://github.com/grimmory-tools/grimmory-docs) | [Clarify Bookdrop NFS/SMB watch limits (grimmory#485)](https://github.com/grimmory-tools/grimmory-docs/pull/54) |
+| [aid-studio](https://github.com/gzxx-2025/aid-studio) | [Add English Docker and systemd deploy guide #7](https://github.com/gzxx-2025/aid-studio/pull/13) |
 | [hapi-fhir](https://github.com/hapifhir/hapi-fhir) | [add 2026 changelog section #5034](https://github.com/hapifhir/hapi-fhir/pull/8341) |
 | [tuxguitar](https://github.com/helge17/tuxguitar) | [Export beat text in MusicXML](https://github.com/helge17/tuxguitar/pull/1187) |
 | [hibernate-reactive](https://github.com/hibernate/hibernate-reactive) | [Add test for @NotFound annotation #1277](https://github.com/hibernate/hibernate-reactive/pull/4154) |

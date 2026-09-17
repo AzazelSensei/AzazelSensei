@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [docs](https://github.com/shorebirdtech/docs) | [document Windows MSIX from a Shorebird release (shorebirdtech/shorebi...](https://github.com/shorebirdtech/docs/pull/674) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4614] [Doc] Add Pulsar connector documentation](https://github.com/apache/eventmesh-site/pull/262) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4615] [Doc] Add Prometheus connector document...](https://github.com/apache/eventmesh-site/pull/261) |
 | [gravitino](https://github.com/apache/gravitino) | [[#13041] fix(server): Add @ResponseMetered to JobOperations#cancelJob](https://github.com/apache/gravitino/pull/13046) |

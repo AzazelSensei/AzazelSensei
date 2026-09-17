@@ -102,6 +102,8 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [fl_chart](https://github.com/imaNNeo/fl_chart) | [Remove leftover axisTitleData from chart docs #1201](https://github.com/imaNNeo/fl_chart/pull/2118) |
+| [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
 | [tools](https://github.com/dart-lang/tools) | [[pubspec_parse] Add README usage examples #1807](https://github.com/dart-lang/tools/pull/2582) |
 | [openHAB](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
 | [openHAB](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
@@ -270,7 +272,6 @@ Open pull requests:
 | [seatunnel](https://github.com/apache/seatunnel) | [[Fix][Zeta] Bound observability edge-override warning cache #12225](https://github.com/apache/seatunnel/pull/12226) |
 | [apicurio-registry](https://github.com/Apicurio/apicurio-registry) | [Remove unchecked generic varargs warning in unionOf #8905](https://github.com/Apicurio/apicurio-registry/pull/9947) |
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
-| [flutter_cache_manager](https://github.com/Baseflow/flutter_cache_manager) | [Await store.putFile so cache info is persisted #492](https://github.com/Baseflow/flutter_cache_manager/pull/518) |
 | [buildfarm/buildfarm](https://github.com/buildfarm/buildfarm) | [Document server cache max-entries sizing](https://github.com/buildfarm/buildfarm/pull/2618) |
 | [eclipse-cs](https://github.com/checkstyle/eclipse-cs) | [Issue #101: map LeftCurly LAMBDA to brace_position_for_lambda_body](https://github.com/checkstyle/eclipse-cs/pull/1059) |
 | [mobile-app](https://github.com/CircuitVerse/mobile-app) | [show error widget when content fails to load #84](https://github.com/CircuitVerse/mobile-app/pull/651) |
@@ -304,7 +305,6 @@ Open pull requests:
 | [tuxguitar](https://github.com/helge17/tuxguitar) | [Export beat text in MusicXML](https://github.com/helge17/tuxguitar/pull/1187) |
 | [hibernate-reactive](https://github.com/hibernate/hibernate-reactive) | [Add test for @NotFound annotation #1277](https://github.com/hibernate/hibernate-reactive/pull/4154) |
 | [hivemq-mqtt-client](https://github.com/hivemq/hivemq-mqtt-client) | [explain how to stop automatic reconnect #735](https://github.com/hivemq/hivemq-mqtt-client/pull/849) |
-| [fl_chart](https://github.com/imaNNeo/fl_chart) | [Remove leftover axisTitleData from chart docs #1201](https://github.com/imaNNeo/fl_chart/pull/2118) |
 | [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
 | [rohd-hcl](https://github.com/intel/rohd-hcl) | [add DataPortInterface usage example #192](https://github.com/intel/rohd-hcl/pull/301) |
 | [concurrency](https://github.com/jakartaee/concurrency) | [call Thread.isVirtual() directly in virtual TCK servlet #943](https://github.com/jakartaee/concurrency/pull/944) |
@@ -323,8 +323,10 @@ Open pull requests:
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
 | [openaev](https://github.com/OpenAEV-Platform/openaev) | [improve OpenCTI connector setup steps](https://github.com/OpenAEV-Platform/openaev/pull/8014) |
 | [opencast/opencast](https://github.com/opencast/opencast) | [Handle null properties in service registry updated() #1174](https://github.com/opencast/opencast/pull/7973) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[hueemulation] Clarify untagged Items are still exposed by category #...](https://github.com/openhab/openhab-addons/pull/21705) |
 | [engine](https://github.com/OpenIntegrationEngine/engine) | [Point Administrator Help and homepage links at the docs site #181](https://github.com/OpenIntegrationEngine/engine/pull/433) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
+| [data-prepper](https://github.com/opensearch-project/data-prepper) | [Document FGAC OpenSearch sink permissions #4194](https://github.com/opensearch-project/data-prepper/pull/7149) |
 | [k-NN](https://github.com/opensearch-project/k-NN) | [Fix flaky testBuildFromModelTemplate CheckIndex mock #2257](https://github.com/opensearch-project/k-NN/pull/3553) |
 | [sql](https://github.com/opensearch-project/sql) | [add Calcite settings examples #4806](https://github.com/opensearch-project/sql/pull/5749) |
 | [pf4j/pf4j](https://github.com/pf4j/pf4j) | [Document when PluginManager.unloadPlugin returns false #291](https://github.com/pf4j/pf4j/pull/686) |

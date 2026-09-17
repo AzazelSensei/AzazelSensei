@@ -102,7 +102,6 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
-| [docs](https://github.com/shorebirdtech/docs) | [document Windows MSIX from a Shorebird release (shorebirdtech/shorebi...](https://github.com/shorebirdtech/docs/pull/674) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4614] [Doc] Add Pulsar connector documentation](https://github.com/apache/eventmesh-site/pull/262) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4615] [Doc] Add Prometheus connector document...](https://github.com/apache/eventmesh-site/pull/261) |
 | [gravitino](https://github.com/apache/gravitino) | [[#13041] fix(server): Add @ResponseMetered to JobOperations#cancelJob](https://github.com/apache/gravitino/pull/13046) |
@@ -112,6 +111,7 @@ Merged contributions I actually landed:
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[dmx] Document Color and Tunable White things #21085](https://github.com/openhab/openhab-addons/pull/21603) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[tesla] Link README to official Fleet API docs #15759](https://github.com/openhab/openhab-addons/pull/21594) |
 | [openhab-addons](https://github.com/openhab/openhab-addons) | [[smartthings] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21590) |
+| [docs](https://github.com/shorebirdtech/docs) | [document Windows MSIX from a Shorebird release (shorebirdtech/shorebi...](https://github.com/shorebirdtech/docs/pull/674) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [use clusterDefinitions instead of targetCluster #4277](https://github.com/kroxylicious/kroxylicious/pull/4800) |
 | [zserio](https://github.com/ndsev/zserio) | [add community links to the README](https://github.com/ndsev/zserio/pull/732) |
 | [webforj/webforj](https://github.com/webforj/webforj) | [use assertDoesNotThrow in component tests #1570](https://github.com/webforj/webforj/pull/1588) |

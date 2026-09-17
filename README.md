@@ -102,6 +102,20 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [tools](https://github.com/dart-lang/tools) | [[pubspec_parse] Add README usage examples #1807](https://github.com/dart-lang/tools/pull/2582) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[shelly] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21582) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[lutron] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21579) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[linky] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21578) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[unifi] Add sidebar entries to documentation #21290](https://github.com/openhab/openhab-addons/pull/21576) |
+| [app-finance](https://github.com/lyskouski/app-finance) | [add integration tests to the quality gates chapter [#260]](https://github.com/lyskouski/app-finance/pull/648) |
+| [exist](https://github.com/eXist-db/exist) | [[doc] Document recursive xmldb:create-collection() #3869](https://github.com/eXist-db/exist/pull/6666) |
+| [frostwire/frostwire](https://github.com/frostwire/frostwire) | [[android] Show disk-full error when a cloud download cannot be moved...](https://github.com/frostwire/frostwire/pull/1299) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[network] Align allowSystemPings docs with MainUI #20128](https://github.com/openhab/openhab-addons/pull/21533) |
+| [Apache Gravitino](https://github.com/apache/gravitino) | [[#8309] docs: replace deprecated apt-key in how-to-build.md](https://github.com/apache/gravitino/pull/12706) |
+| [PMD](https://github.com/pmd/pmd) | [[doc] Fix #2527: restore CPD tiling article link](https://github.com/pmd/pmd/pull/6981) |
+| [picocli](https://github.com/remkop/picocli) | [[doc] Drop the dead hawkeye example](https://github.com/remkop/picocli/pull/2529) |
+| [maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) | [[MDEPLOY-315] Clarify deploy without a local distributionManagement](https://github.com/apache/maven-deploy-plugin/pull/690) |
+| [PMD](https://github.com/pmd/pmd) | [[java] Fix #6965: AbstractClassWithoutAnyMethod false positive on der...](https://github.com/pmd/pmd/pull/6972) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4614] [Doc] Add Pulsar connector documentation](https://github.com/apache/eventmesh-site/pull/262) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4615] [Doc] Add Prometheus connector document...](https://github.com/apache/eventmesh-site/pull/261) |
 | [gravitino](https://github.com/apache/gravitino) | [[#13041] fix(server): Add @ResponseMetered to JobOperations#cancelJob](https://github.com/apache/gravitino/pull/13046) |
@@ -244,6 +258,7 @@ Open pull requests:
 | [aem-core-wcm-components](https://github.com/adobe/aem-core-wcm-components) | [mention GitHub Discussions next to the mailing list](https://github.com/adobe/aem-core-wcm-components/pull/3092) |
 | [arrow-java](https://github.com/apache/arrow-java) | [[Java] Add TimeStamp*TZ support to ComplexCopier](https://github.com/apache/arrow-java/pull/1289) |
 | [camel-quarkus](https://github.com/apache/camel-quarkus) | [Document Camel Quarkus build items #2900](https://github.com/apache/camel-quarkus/pull/9101) |
+| [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4613] [Doc] Add Spring connector documentation](https://github.com/apache/eventmesh-site/pull/265) |
 | [Apache Gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
 | [logging-log4j2](https://github.com/apache/logging-log4j2) | [Honor spring.cloud.config.watch.enabled on Log4j2EventListener](https://github.com/apache/logging-log4j2/pull/4252) |
 | [maven-acr-plugin](https://github.com/apache/maven-acr-plugin) | [Document Main-Class in the Application Client FAQ #61](https://github.com/apache/maven-acr-plugin/pull/151) |
@@ -305,6 +320,7 @@ Open pull requests:
 | [Gym](https://github.com/NVIDIA-NeMo/Gym) | [document gym env prefetch CLI #2937](https://github.com/NVIDIA-NeMo/Gym/pull/2954) |
 | [eo](https://github.com/objectionary/eo) | [#7988: name the missing map key in the error](https://github.com/objectionary/eo/pull/8012) |
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
+| [openaev](https://github.com/OpenAEV-Platform/openaev) | [improve OpenCTI connector setup steps](https://github.com/OpenAEV-Platform/openaev/pull/8014) |
 | [opencast/opencast](https://github.com/opencast/opencast) | [Handle null properties in service registry updated() #1174](https://github.com/opencast/opencast/pull/7973) |
 | [engine](https://github.com/OpenIntegrationEngine/engine) | [Point Administrator Help and homepage links at the docs site #181](https://github.com/OpenIntegrationEngine/engine/pull/433) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |

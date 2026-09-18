@@ -345,6 +345,7 @@ Open pull requests:
 | [flutter-quill](https://github.com/singerdmx/flutter-quill) | [Fix crash when long-pressing text after removing a link #2271](https://github.com/singerdmx/flutter-quill/pull/2766) |
 | [autogram](https://github.com/slovensko-digital/autogram) | [Fix --url usage example in printUsage #563](https://github.com/slovensko-digital/autogram/pull/714) |
 | [logger](https://github.com/SourceHorizon/logger) | [add FileOutput date-based example #56](https://github.com/SourceHorizon/logger/pull/118) |
+| [spring-cloud-config](https://github.com/spring-cloud/spring-cloud-config) | [Clarify Vault client vs server authentication #1580](https://github.com/spring-cloud/spring-cloud-config/pull/3300) |
 | [spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) | [Document production ready endpoints #2048](https://github.com/spring-cloud/spring-cloud-netflix/pull/4598) |
 | [tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) | [Add a mocked JWT test for the resource server #23](https://github.com/spring-guides/tut-spring-security-and-angular-js/pull/590) |
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |

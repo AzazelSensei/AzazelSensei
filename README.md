@@ -300,7 +300,6 @@ Open pull requests:
 | [core-geonetwork](https://github.com/geonetwork/core-geonetwork) | [Docs / Schema plugins: point editor config to 3.x and 4.x pages #7774](https://github.com/geonetwork/core-geonetwork/pull/9518) |
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
 | [openrouteservice](https://github.com/GIScience/openrouteservice) | [document fastisochrones preparation options](https://github.com/GIScience/openrouteservice/pull/2410) |
-| [gleec-wallet](https://github.com/GLEECBTC/gleec-wallet) | [Document custom KDF commit builds #3290](https://github.com/GLEECBTC/gleec-wallet/pull/3522) |
 | [grimmory-docs](https://github.com/grimmory-tools/grimmory-docs) | [Clarify Bookdrop NFS/SMB watch limits (grimmory#485)](https://github.com/grimmory-tools/grimmory-docs/pull/54) |
 | [hapi-fhir](https://github.com/hapifhir/hapi-fhir) | [add 2026 changelog section #5034](https://github.com/hapifhir/hapi-fhir/pull/8341) |
 | [tuxguitar](https://github.com/helge17/tuxguitar) | [Export beat text in MusicXML](https://github.com/helge17/tuxguitar/pull/1187) |
@@ -354,6 +353,7 @@ Open pull requests:
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll](https://github.com/trinodb/trino-gateway/pull/1248) |
 | [flow](https://github.com/vaadin/flow) | [Document that FeatureFlags.setEnabled writes the properties file #25567](https://github.com/vaadin/flow/pull/25771) |
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
+| [valkey-glide](https://github.com/valkey-io/valkey-glide) | [fail session on unexpected cluster skips #7125](https://github.com/valkey-io/valkey-glide/pull/7127) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [xrpl4j](https://github.com/XRPLF/xrpl4j) | [cover all TrustLine flags in AccountLinesResultJsonTests #621](https://github.com/XRPLF/xrpl4j/pull/833) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [note zip vs JSON load cost #208](https://github.com/xvrh/lottie-flutter/pull/436) |

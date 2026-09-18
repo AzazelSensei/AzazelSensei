@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [apicurio-registry](https://github.com/Apicurio/apicurio-registry) | [Remove unchecked generic varargs warning in unionOf #8905](https://github.com/Apicurio/apicurio-registry/pull/9947) |
 | [buildfarm/buildfarm](https://github.com/buildfarm/buildfarm) | [Document server cache max-entries sizing](https://github.com/buildfarm/buildfarm/pull/2618) |
 | [docs](https://github.com/shorebirdtech/docs) | [document Shorebird with long-running Android background processes (sh...](https://github.com/shorebirdtech/docs/pull/675) |
 | [openHAB](https://github.com/openhab/openhab-addons) | [[hueemulation] Clarify untagged Items are still exposed by category](https://github.com/openhab/openhab-addons/pull/21705) |
@@ -273,7 +274,6 @@ Open pull requests:
 | [maven-shade-plugin](https://github.com/apache/maven-shade-plugin) | [Write an empty relativePath on dependency-reduced-pom.xml](https://github.com/apache/maven-shade-plugin/pull/843) |
 | [polaris](https://github.com/apache/polaris) | [expand GCS production configuration for sysadmins](https://github.com/apache/polaris/pull/5432) |
 | [seatunnel](https://github.com/apache/seatunnel) | [[Fix][Zeta] Bound observability edge-override warning cache #12225](https://github.com/apache/seatunnel/pull/12226) |
-| [apicurio-registry](https://github.com/Apicurio/apicurio-registry) | [Remove unchecked generic varargs warning in unionOf #8905](https://github.com/Apicurio/apicurio-registry/pull/9947) |
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [eclipse-cs](https://github.com/checkstyle/eclipse-cs) | [Issue #101: map LeftCurly LAMBDA to brace_position_for_lambda_body](https://github.com/checkstyle/eclipse-cs/pull/1059) |
 | [mobile-app](https://github.com/CircuitVerse/mobile-app) | [show error widget when content fails to load #84](https://github.com/CircuitVerse/mobile-app/pull/651) |

@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [buildfarm/buildfarm](https://github.com/buildfarm/buildfarm) | [Document server cache max-entries sizing](https://github.com/buildfarm/buildfarm/pull/2618) |
 | [docs](https://github.com/shorebirdtech/docs) | [document Shorebird with long-running Android background processes (sh...](https://github.com/shorebirdtech/docs/pull/675) |
 | [openHAB](https://github.com/openhab/openhab-addons) | [[hueemulation] Clarify untagged Items are still exposed by category](https://github.com/openhab/openhab-addons/pull/21705) |
 | [eventmesh-site](https://github.com/apache/eventmesh-site) | [[ISSUE apache/eventmesh#4613] [Doc] Add Spring connector documentation](https://github.com/apache/eventmesh-site/pull/265) |
@@ -274,7 +275,6 @@ Open pull requests:
 | [seatunnel](https://github.com/apache/seatunnel) | [[Fix][Zeta] Bound observability edge-override warning cache #12225](https://github.com/apache/seatunnel/pull/12226) |
 | [apicurio-registry](https://github.com/Apicurio/apicurio-registry) | [Remove unchecked generic varargs warning in unionOf #8905](https://github.com/Apicurio/apicurio-registry/pull/9947) |
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
-| [buildfarm/buildfarm](https://github.com/buildfarm/buildfarm) | [Document server cache max-entries sizing](https://github.com/buildfarm/buildfarm/pull/2618) |
 | [eclipse-cs](https://github.com/checkstyle/eclipse-cs) | [Issue #101: map LeftCurly LAMBDA to brace_position_for_lambda_body](https://github.com/checkstyle/eclipse-cs/pull/1059) |
 | [mobile-app](https://github.com/CircuitVerse/mobile-app) | [show error widget when content fails to load #84](https://github.com/CircuitVerse/mobile-app/pull/651) |
 | [recaf-site](https://github.com/Col-E/recaf-site) | [add scripting examples for common reverse-engineering tasks (Col-E/Re...](https://github.com/Col-E/recaf-site/pull/2) |
@@ -324,6 +324,7 @@ Open pull requests:
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
 | [openaev](https://github.com/OpenAEV-Platform/openaev) | [improve OpenCTI connector setup steps](https://github.com/OpenAEV-Platform/openaev/pull/8014) |
 | [opencast/opencast](https://github.com/opencast/opencast) | [Handle null properties in service registry updated() #1174](https://github.com/opencast/opencast/pull/7973) |
+| [openHAB](https://github.com/openhab/openhab-addons) | [[metrics] Fix dashboard.json link in README #10916](https://github.com/openhab/openhab-addons/pull/21709) |
 | [engine](https://github.com/OpenIntegrationEngine/engine) | [Point Administrator Help and homepage links at the docs site #181](https://github.com/OpenIntegrationEngine/engine/pull/433) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
 | [data-prepper](https://github.com/opensearch-project/data-prepper) | [Document FGAC OpenSearch sink permissions #4194](https://github.com/opensearch-project/data-prepper/pull/7149) |
@@ -342,6 +343,7 @@ Open pull requests:
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/731) |
 | [dart_mappable](https://github.com/schultek/dart_mappable) | [document implements and mixins for polymorphism #251](https://github.com/schultek/dart_mappable/pull/353) |
 | [flutter-quill](https://github.com/singerdmx/flutter-quill) | [Fix crash when long-pressing text after removing a link #2271](https://github.com/singerdmx/flutter-quill/pull/2766) |
+| [autogram](https://github.com/slovensko-digital/autogram) | [Fix --url usage example in printUsage #563](https://github.com/slovensko-digital/autogram/pull/714) |
 | [logger](https://github.com/SourceHorizon/logger) | [add FileOutput date-based example #56](https://github.com/SourceHorizon/logger/pull/118) |
 | [spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) | [Document production ready endpoints #2048](https://github.com/spring-cloud/spring-cloud-netflix/pull/4598) |
 | [tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) | [Add a mocked JWT test for the resource server #23](https://github.com/spring-guides/tut-spring-security-and-angular-js/pull/590) |

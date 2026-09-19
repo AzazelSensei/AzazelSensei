@@ -301,7 +301,6 @@ Open pull requests:
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
 | [openrouteservice](https://github.com/GIScience/openrouteservice) | [document fastisochrones preparation options](https://github.com/GIScience/openrouteservice/pull/2410) |
 | [grimmory-docs](https://github.com/grimmory-tools/grimmory-docs) | [Clarify Bookdrop NFS/SMB watch limits (grimmory#485)](https://github.com/grimmory-tools/grimmory-docs/pull/54) |
-| [hapi-fhir](https://github.com/hapifhir/hapi-fhir) | [add 2026 changelog section #5034](https://github.com/hapifhir/hapi-fhir/pull/8341) |
 | [tuxguitar](https://github.com/helge17/tuxguitar) | [Export beat text in MusicXML](https://github.com/helge17/tuxguitar/pull/1187) |
 | [hibernate-reactive](https://github.com/hibernate/hibernate-reactive) | [Add test for @NotFound annotation #1277](https://github.com/hibernate/hibernate-reactive/pull/4154) |
 | [hivemq-mqtt-client](https://github.com/hivemq/hivemq-mqtt-client) | [explain how to stop automatic reconnect #735](https://github.com/hivemq/hivemq-mqtt-client/pull/849) |

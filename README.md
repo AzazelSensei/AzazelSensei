@@ -305,6 +305,7 @@ Open pull requests:
 | [tuxguitar](https://github.com/helge17/tuxguitar) | [Export beat text in MusicXML](https://github.com/helge17/tuxguitar/pull/1187) |
 | [hibernate-reactive](https://github.com/hibernate/hibernate-reactive) | [Add test for @NotFound annotation #1277](https://github.com/hibernate/hibernate-reactive/pull/4154) |
 | [hivemq-mqtt-client](https://github.com/hivemq/hivemq-mqtt-client) | [explain how to stop automatic reconnect #735](https://github.com/hivemq/hivemq-mqtt-client/pull/849) |
+| [spoon](https://github.com/INRIA/spoon) | [clarify meaning of element implicitness](https://github.com/INRIA/spoon/pull/6911) |
 | [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
 | [rohd-hcl](https://github.com/intel/rohd-hcl) | [add DataPortInterface usage example #192](https://github.com/intel/rohd-hcl/pull/301) |
 | [concurrency](https://github.com/jakartaee/concurrency) | [call Thread.isVirtual() directly in virtual TCK servlet #943](https://github.com/jakartaee/concurrency/pull/944) |

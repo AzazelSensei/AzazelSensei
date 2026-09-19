@@ -335,6 +335,7 @@ Open pull requests:
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [powsybl-core](https://github.com/powsybl/powsybl-core) | [Reject null DataSource in Importers.importData](https://github.com/powsybl/powsybl-core/pull/4083) |
 | [pypowsybl](https://github.com/powsybl/pypowsybl) | [Add a user-guide page for the PowSyBl configuration file #284](https://github.com/powsybl/pypowsybl/pull/1285) |
+| [nessie](https://github.com/projectnessie/nessie) | [CEL filters for commit log, entries, and references #5325](https://github.com/projectnessie/nessie/pull/12946) |
 | [quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) | [distinguish document store from embedding store #1372](https://github.com/quarkiverse/quarkus-langchain4j/pull/2811) |
 | [reactor-core](https://github.com/reactor/reactor-core) | [[doc] Align scan marble diagrams with initial value #4042](https://github.com/reactor/reactor-core/pull/4386) |
 | [robolectric/robolectric](https://github.com/robolectric/robolectric) | [Include post stack traces when tests fail with unexecuted runnables #...](https://github.com/robolectric/robolectric/pull/11479) |

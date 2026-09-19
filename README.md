@@ -292,6 +292,7 @@ Open pull requests:
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
 | [apm-agent-java](https://github.com/elastic/apm-agent-java) | [Log an error when activating a nested transaction #850](https://github.com/elastic/apm-agent-java/pull/4572) |
+| [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) | [Recommend movecert for the Magisk system CA #249](https://github.com/emanuele-f/PCAPdroid/pull/902) |
 | [esapi-java-legacy](https://github.com/ESAPI/esapi-java-legacy) | [Clean up obsolete ESAPI 1.4 comments in config files #474](https://github.com/ESAPI/esapi-java-legacy/pull/918) |
 | [bloc](https://github.com/felangel/bloc) | [document testing initial events #4229](https://github.com/felangel/bloc/pull/4873) |
 | [flowable-engine](https://github.com/flowable/flowable-engine) | [replace removed potentialStarter query](https://github.com/flowable/flowable-engine/pull/4276) |
@@ -360,6 +361,7 @@ Open pull requests:
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [note zip vs JSON load cost #208](https://github.com/xvrh/lottie-flutter/pull/436) |
 | [yacy_search_server](https://github.com/yacy/yacy_search_server) | [Show git commit on Console Status and in the release README #466](https://github.com/yacy/yacy_search_server/pull/822) |
 | [aiworkdeck](https://github.com/zeweihan/aiworkdeck) | [restructure docs/ for contributors #15](https://github.com/zeweihan/aiworkdeck/pull/730) |
+| [graphql-flutter](https://github.com/zino-hofmann/graphql-flutter) | [cover custom websocket handshake headers #1026](https://github.com/zino-hofmann/graphql-flutter/pull/1534) |
 | [meshcore-open](https://github.com/zjs81/meshcore-open) | [add web client and self-host notes to README #325](https://github.com/zjs81/meshcore-open/pull/540) |
 <!-- oss-open:end -->
 

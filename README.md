@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [Linthra](https://github.com/TheZupZup/Linthra) | [add Linux screen-reader smoke checklist](https://github.com/TheZupZup/Linthra/pull/665) |
 | [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) | [Recommend movecert for the Magisk system CA #249](https://github.com/emanuele-f/PCAPdroid/pull/902) |
 | [apicurio-registry](https://github.com/Apicurio/apicurio-registry) | [Remove unchecked generic varargs warning in unionOf #8905](https://github.com/Apicurio/apicurio-registry/pull/9947) |
 | [buildfarm/buildfarm](https://github.com/buildfarm/buildfarm) | [Document server cache max-entries sizing](https://github.com/buildfarm/buildfarm/pull/2618) |

@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils) | [Fix multidimensional array query parameter binding #436](https://github.com/vladmihalcea/hypersistence-utils/pull/867) |
 | [Linthra](https://github.com/TheZupZup/Linthra) | [add Linux screen-reader smoke checklist](https://github.com/TheZupZup/Linthra/pull/665) |
 | [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) | [Recommend movecert for the Magisk system CA #249](https://github.com/emanuele-f/PCAPdroid/pull/902) |
 | [apicurio-registry](https://github.com/Apicurio/apicurio-registry) | [Remove unchecked generic varargs warning in unionOf #8905](https://github.com/Apicurio/apicurio-registry/pull/9947) |
@@ -357,7 +358,6 @@ Open pull requests:
 | [flow](https://github.com/vaadin/flow) | [Document that FeatureFlags.setEnabled writes the properties file #25567](https://github.com/vaadin/flow/pull/25771) |
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
 | [valkey-glide](https://github.com/valkey-io/valkey-glide) | [fail session on unexpected cluster skips #7125](https://github.com/valkey-io/valkey-glide/pull/7127) |
-| [hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils) | [Fix multidimensional array query parameter binding #436](https://github.com/vladmihalcea/hypersistence-utils/pull/867) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [xrpl4j](https://github.com/XRPLF/xrpl4j) | [cover all TrustLine flags in AccountLinesResultJsonTests #621](https://github.com/XRPLF/xrpl4j/pull/833) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [note zip vs JSON load cost #208](https://github.com/xvrh/lottie-flutter/pull/436) |

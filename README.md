@@ -102,6 +102,9 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [nexus](https://github.com/kalayciburak/nexus) | [Jev açılış yapılandırması eklendi](https://github.com/kalayciburak/nexus/pull/94) |
+| [spring-native](https://github.com/mybatis/spring-native) | [Add Spanish translation of the reference documentation #27](https://github.com/mybatis/spring-native/pull/282) |
+| [nexus](https://github.com/kalayciburak/nexus) | [Jev ile ölçümlü kuyruk denemesi](https://github.com/kalayciburak/nexus/pull/93) |
 | [hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils) | [Fix multidimensional array query parameter binding #436](https://github.com/vladmihalcea/hypersistence-utils/pull/867) |
 | [Linthra](https://github.com/TheZupZup/Linthra) | [add Linux screen-reader smoke checklist](https://github.com/TheZupZup/Linthra/pull/665) |
 | [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) | [Recommend movecert for the Magisk system CA #249](https://github.com/emanuele-f/PCAPdroid/pull/902) |

@@ -298,6 +298,7 @@ Open pull requests:
 | [bloc](https://github.com/felangel/bloc) | [document testing initial events #4229](https://github.com/felangel/bloc/pull/4873) |
 | [flowable-engine](https://github.com/flowable/flowable-engine) | [replace removed potentialStarter query](https://github.com/flowable/flowable-engine/pull/4276) |
 | [devtools](https://github.com/flutter/devtools) | [Clarify Diff Snapshots Freed column is per class #8837](https://github.com/flutter/devtools/pull/10002) |
+| [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Clarify getInputFromSessionKey missing-key exception #11377](https://github.com/frankframework/frankframework/pull/11720) |
 | [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [list real-world examples in the README #128](https://github.com/fujidaiti/smooth_sheets/pull/609) |
 | [core-geonetwork](https://github.com/geonetwork/core-geonetwork) | [Docs / Schema plugins: point editor config to 3.x and 4.x pages #7774](https://github.com/geonetwork/core-geonetwork/pull/9518) |
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
@@ -324,7 +325,6 @@ Open pull requests:
 | [eo](https://github.com/objectionary/eo) | [#7988: name the missing map key in the error](https://github.com/objectionary/eo/pull/8012) |
 | [apache-kafka-connect-docker](https://github.com/OneCricketeer/apache-kafka-connect-docker) | [scrape Connect JMX with Prometheus #65](https://github.com/OneCricketeer/apache-kafka-connect-docker/pull/68) |
 | [openaev](https://github.com/OpenAEV-Platform/openaev) | [improve OpenCTI connector setup steps](https://github.com/OpenAEV-Platform/openaev/pull/8014) |
-| [opencast/opencast](https://github.com/opencast/opencast) | [Handle null properties in service registry updated() #1174](https://github.com/opencast/opencast/pull/7973) |
 | [openHAB](https://github.com/openhab/openhab-addons) | [[metrics] Fix dashboard.json link in README #10916](https://github.com/openhab/openhab-addons/pull/21709) |
 | [engine](https://github.com/OpenIntegrationEngine/engine) | [Point Administrator Help and homepage links at the docs site #181](https://github.com/OpenIntegrationEngine/engine/pull/433) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |

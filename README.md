@@ -308,6 +308,7 @@ Open pull requests:
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |
 | [openrouteservice](https://github.com/GIScience/openrouteservice) | [document fastisochrones preparation options](https://github.com/GIScience/openrouteservice/pull/2410) |
 | [grimmory-docs](https://github.com/grimmory-tools/grimmory-docs) | [Clarify Bookdrop NFS/SMB watch limits (grimmory#485)](https://github.com/grimmory-tools/grimmory-docs/pull/54) |
+| [hapi-fhir](https://github.com/hapifhir/hapi-fhir) | [add 2026 changelog section #5034](https://github.com/hapifhir/hapi-fhir/pull/8406) |
 | [tuxguitar](https://github.com/helge17/tuxguitar) | [Export beat text in MusicXML](https://github.com/helge17/tuxguitar/pull/1187) |
 | [hibernate-reactive](https://github.com/hibernate/hibernate-reactive) | [Add test for @NotFound annotation #1277](https://github.com/hibernate/hibernate-reactive/pull/4154) |
 | [hivemq-mqtt-client](https://github.com/hivemq/hivemq-mqtt-client) | [explain how to stop automatic reconnect #735](https://github.com/hivemq/hivemq-mqtt-client/pull/849) |
@@ -333,7 +334,6 @@ Open pull requests:
 | [engine](https://github.com/OpenIntegrationEngine/engine) | [Point Administrator Help and homepage links at the docs site #181](https://github.com/OpenIntegrationEngine/engine/pull/433) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
 | [data-prepper](https://github.com/opensearch-project/data-prepper) | [Document FGAC OpenSearch sink permissions #4194](https://github.com/opensearch-project/data-prepper/pull/7149) |
-| [k-NN](https://github.com/opensearch-project/k-NN) | [Fix flaky testBuildFromModelTemplate CheckIndex mock #2257](https://github.com/opensearch-project/k-NN/pull/3553) |
 | [sql](https://github.com/opensearch-project/sql) | [add Calcite settings examples #4806](https://github.com/opensearch-project/sql/pull/5749) |
 | [pf4j/pf4j](https://github.com/pf4j/pf4j) | [Document when PluginManager.unloadPlugin returns false #291](https://github.com/pf4j/pf4j/pull/686) |
 | [sidekick](https://github.com/phntmxyz/sidekick) | [Show a warning when sidekick init would downgrade the CLI #163](https://github.com/phntmxyz/sidekick/pull/286) |

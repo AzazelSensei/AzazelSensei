@@ -311,6 +311,7 @@ Open pull requests:
 | [concurrency](https://github.com/jakartaee/concurrency) | [call Thread.isVirtual() directly in virtual TCK servlet #943](https://github.com/jakartaee/concurrency/pull/944) |
 | [Essential-Commands](https://github.com/John-Paul-R/Essential-Commands) | [clarify nickname style perms apply to the target #44](https://github.com/John-Paul-R/Essential-Commands/pull/402) |
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
+| [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [document operator JSON logging #3631](https://github.com/kroxylicious/kroxylicious/pull/4959) |
 | [fvm](https://github.com/leoafarias/fvm) | [use POSIX wrappers when rerouting flutter and dart #782](https://github.com/leoafarias/fvm/pull/1075) |
 | [armeria](https://github.com/line/armeria) | [Document the OAuth 2.0 client #5636](https://github.com/line/armeria/pull/6935) |
 | [mage](https://github.com/magefree/mage) | [Fix NPE when creature type choice is missing #14392](https://github.com/magefree/mage/pull/16072) |

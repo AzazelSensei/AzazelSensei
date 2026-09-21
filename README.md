@@ -341,7 +341,6 @@ Open pull requests:
 | [engine](https://github.com/OpenIntegrationEngine/engine) | [Point Administrator Help and homepage links at the docs site #181](https://github.com/OpenIntegrationEngine/engine/pull/433) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
 | [data-prepper](https://github.com/opensearch-project/data-prepper) | [Document FGAC OpenSearch sink permissions #4194](https://github.com/opensearch-project/data-prepper/pull/7149) |
-| [sql](https://github.com/opensearch-project/sql) | [add Calcite settings examples #4806](https://github.com/opensearch-project/sql/pull/5749) |
 | [pf4j/pf4j](https://github.com/pf4j/pf4j) | [Document when PluginManager.unloadPlugin returns false #291](https://github.com/pf4j/pf4j/pull/686) |
 | [sidekick](https://github.com/phntmxyz/sidekick) | [Show a warning when sidekick init would downgrade the CLI #163](https://github.com/phntmxyz/sidekick/pull/286) |
 | [java-cfenv](https://github.com/pivotal-cf/java-cfenv) | [Document IBM Cloud RabbitMQ bindings #69](https://github.com/pivotal-cf/java-cfenv/pull/472) |
@@ -366,7 +365,7 @@ Open pull requests:
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll](https://github.com/trinodb/trino-gateway/pull/1248) |
 | [flow](https://github.com/vaadin/flow) | [Document that FeatureFlags.setEnabled writes the properties file #25567](https://github.com/vaadin/flow/pull/25771) |
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
-| [valkey-glide](https://github.com/valkey-io/valkey-glide) | [fail session on unexpected cluster skips #7125](https://github.com/valkey-io/valkey-glide/pull/7127) |
+| [valkey-glide](https://github.com/valkey-io/valkey-glide) | [fail session on unexpected cluster skips](https://github.com/valkey-io/valkey-glide/pull/7127) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
 | [xrpl4j](https://github.com/XRPLF/xrpl4j) | [cover all TrustLine flags in AccountLinesResultJsonTests #621](https://github.com/XRPLF/xrpl4j/pull/833) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [note zip vs JSON load cost #208](https://github.com/xvrh/lottie-flutter/pull/436) |

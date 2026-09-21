@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [nexus](https://github.com/kalayciburak/nexus) | [Jev partileri arasındaki gereksiz bekleme kaldırıldı](https://github.com/kalayciburak/nexus/pull/98) |
 | [nexus](https://github.com/kalayciburak/nexus) | [Jev kuyruk kontrolleri ve belirsiz konu yönlendirmesi](https://github.com/kalayciburak/nexus/pull/97) |
 | [nexus](https://github.com/kalayciburak/nexus) | [ortak konu sınıfları ve güvenli eski başlık eşlemeleri](https://github.com/kalayciburak/nexus/pull/96) |
 | [nexus](https://github.com/kalayciburak/nexus) | [jev-key ile otomatik pilot desteği eklendi](https://github.com/kalayciburak/nexus/pull/95) |

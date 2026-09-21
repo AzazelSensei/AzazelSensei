@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [nexus](https://github.com/kalayciburak/nexus) | [Jev kuyruk kontrolleri ve belirsiz konu yönlendirmesi](https://github.com/kalayciburak/nexus/pull/97) |
 | [nexus](https://github.com/kalayciburak/nexus) | [ortak konu sınıfları ve güvenli eski başlık eşlemeleri](https://github.com/kalayciburak/nexus/pull/96) |
 | [nexus](https://github.com/kalayciburak/nexus) | [jev-key ile otomatik pilot desteği eklendi](https://github.com/kalayciburak/nexus/pull/95) |
 | [autogram](https://github.com/slovensko-digital/autogram) | [Fix --url usage example in printUsage #563](https://github.com/slovensko-digital/autogram/pull/714) |
@@ -307,7 +308,6 @@ Open pull requests:
 | [bloc](https://github.com/felangel/bloc) | [document testing initial events #4229](https://github.com/felangel/bloc/pull/4873) |
 | [flowable-engine](https://github.com/flowable/flowable-engine) | [replace removed potentialStarter query](https://github.com/flowable/flowable-engine/pull/4276) |
 | [devtools](https://github.com/flutter/devtools) | [Clarify Diff Snapshots Freed column is per class #8837](https://github.com/flutter/devtools/pull/10002) |
-| [frankframework/frankframework](https://github.com/frankframework/frankframework) | [Clarify getInputFromSessionKey missing-key exception #11377](https://github.com/frankframework/frankframework/pull/11720) |
 | [smooth_sheets](https://github.com/fujidaiti/smooth_sheets) | [list real-world examples in the README #128](https://github.com/fujidaiti/smooth_sheets/pull/609) |
 | [core-geonetwork](https://github.com/geonetwork/core-geonetwork) | [Docs / Schema plugins: point editor config to 3.x and 4.x pages #7774](https://github.com/geonetwork/core-geonetwork/pull/9518) |
 | [gauge-java](https://github.com/getgauge/gauge-java) | [Add gauge_javac_args so javac can emit debug symbols #188](https://github.com/getgauge/gauge-java/pull/965) |

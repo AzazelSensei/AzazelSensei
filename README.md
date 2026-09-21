@@ -300,6 +300,7 @@ Open pull requests:
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
 | [apm-agent-java](https://github.com/elastic/apm-agent-java) | [Log an error when activating a nested transaction #850](https://github.com/elastic/apm-agent-java/pull/4572) |
 | [esapi-java-legacy](https://github.com/ESAPI/esapi-java-legacy) | [Clean up obsolete ESAPI 1.4 comments in config files #474](https://github.com/ESAPI/esapi-java-legacy/pull/918) |
+| [jackson-modules-java8](https://github.com/FasterXML/jackson-modules-java8) | [Document implicit UTC vs ZonedDateTime serialization #303](https://github.com/FasterXML/jackson-modules-java8/pull/390) |
 | [bloc](https://github.com/felangel/bloc) | [document testing initial events #4229](https://github.com/felangel/bloc/pull/4873) |
 | [flowable-engine](https://github.com/flowable/flowable-engine) | [replace removed potentialStarter query](https://github.com/flowable/flowable-engine/pull/4276) |
 | [devtools](https://github.com/flutter/devtools) | [Clarify Diff Snapshots Freed column is per class #8837](https://github.com/flutter/devtools/pull/10002) |
@@ -317,6 +318,7 @@ Open pull requests:
 | [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
 | [rohd-hcl](https://github.com/intel/rohd-hcl) | [add DataPortInterface usage example #192](https://github.com/intel/rohd-hcl/pull/301) |
 | [concurrency](https://github.com/jakartaee/concurrency) | [call Thread.isVirtual() directly in virtual TCK servlet #943](https://github.com/jakartaee/concurrency/pull/944) |
+| [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) | [Document unique GitHub check names for monorepo jobs #275](https://github.com/jenkinsci/github-checks-plugin/pull/544) |
 | [Essential-Commands](https://github.com/John-Paul-R/Essential-Commands) | [clarify nickname style perms apply to the target #44](https://github.com/John-Paul-R/Essential-Commands/pull/402) |
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [document operator JSON logging #3631](https://github.com/kroxylicious/kroxylicious/pull/4959) |

@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [jackson-modules-java8](https://github.com/FasterXML/jackson-modules-java8) | [Document implicit UTC vs ZonedDateTime serialization #303](https://github.com/FasterXML/jackson-modules-java8/pull/390) |
 | [j-lawyer-documentation](https://github.com/jlawyerorg/j-lawyer-documentation) | [Document Backupmanager console start with versioned jar (jlawyerorg/j...](https://github.com/jlawyerorg/j-lawyer-documentation/pull/6) |
 | [nexus](https://github.com/kalayciburak/nexus) | [Jev açılış yapılandırması eklendi](https://github.com/kalayciburak/nexus/pull/94) |
 | [spring-native](https://github.com/mybatis/spring-native) | [Add Spanish translation of the reference documentation #27](https://github.com/mybatis/spring-native/pull/282) |
@@ -300,7 +301,6 @@ Open pull requests:
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
 | [apm-agent-java](https://github.com/elastic/apm-agent-java) | [Log an error when activating a nested transaction #850](https://github.com/elastic/apm-agent-java/pull/4572) |
 | [esapi-java-legacy](https://github.com/ESAPI/esapi-java-legacy) | [Clean up obsolete ESAPI 1.4 comments in config files #474](https://github.com/ESAPI/esapi-java-legacy/pull/918) |
-| [jackson-modules-java8](https://github.com/FasterXML/jackson-modules-java8) | [Document implicit UTC vs ZonedDateTime serialization #303](https://github.com/FasterXML/jackson-modules-java8/pull/390) |
 | [bloc](https://github.com/felangel/bloc) | [document testing initial events #4229](https://github.com/felangel/bloc/pull/4873) |
 | [flowable-engine](https://github.com/flowable/flowable-engine) | [replace removed potentialStarter query](https://github.com/flowable/flowable-engine/pull/4276) |
 | [devtools](https://github.com/flutter/devtools) | [Clarify Diff Snapshots Freed column is per class #8837](https://github.com/flutter/devtools/pull/10002) |

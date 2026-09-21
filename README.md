@@ -102,6 +102,8 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [nexus](https://github.com/kalayciburak/nexus) | [ortak konu sınıfları ve güvenli eski başlık eşlemeleri](https://github.com/kalayciburak/nexus/pull/96) |
+| [nexus](https://github.com/kalayciburak/nexus) | [jev-key ile otomatik pilot desteği eklendi](https://github.com/kalayciburak/nexus/pull/95) |
 | [autogram](https://github.com/slovensko-digital/autogram) | [Fix --url usage example in printUsage #563](https://github.com/slovensko-digital/autogram/pull/714) |
 | [jackson-modules-java8](https://github.com/FasterXML/jackson-modules-java8) | [Document implicit UTC vs ZonedDateTime serialization #303](https://github.com/FasterXML/jackson-modules-java8/pull/390) |
 | [j-lawyer-documentation](https://github.com/jlawyerorg/j-lawyer-documentation) | [Document Backupmanager console start with versioned jar (jlawyerorg/j...](https://github.com/jlawyerorg/j-lawyer-documentation/pull/6) |
@@ -320,7 +322,6 @@ Open pull requests:
 | [rohd-hcl](https://github.com/intel/rohd-hcl) | [add DataPortInterface usage example #192](https://github.com/intel/rohd-hcl/pull/301) |
 | [concurrency](https://github.com/jakartaee/concurrency) | [call Thread.isVirtual() directly in virtual TCK servlet #943](https://github.com/jakartaee/concurrency/pull/944) |
 | [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) | [Document unique GitHub check names for monorepo jobs #275](https://github.com/jenkinsci/github-checks-plugin/pull/544) |
-| [Essential-Commands](https://github.com/John-Paul-R/Essential-Commands) | [clarify nickname style perms apply to the target #44](https://github.com/John-Paul-R/Essential-Commands/pull/402) |
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [document operator JSON logging #3631](https://github.com/kroxylicious/kroxylicious/pull/4959) |
 | [fvm](https://github.com/leoafarias/fvm) | [use POSIX wrappers when rerouting flutter and dart #782](https://github.com/leoafarias/fvm/pull/1075) |

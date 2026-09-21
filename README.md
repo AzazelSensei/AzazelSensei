@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) | [Document unique GitHub check names for monorepo jobs #275](https://github.com/jenkinsci/github-checks-plugin/pull/544) |
 | [nexus](https://github.com/kalayciburak/nexus) | [Jev partileri arasındaki gereksiz bekleme kaldırıldı](https://github.com/kalayciburak/nexus/pull/98) |
 | [nexus](https://github.com/kalayciburak/nexus) | [Jev kuyruk kontrolleri ve belirsiz konu yönlendirmesi](https://github.com/kalayciburak/nexus/pull/97) |
 | [nexus](https://github.com/kalayciburak/nexus) | [ortak konu sınıfları ve güvenli eski başlık eşlemeleri](https://github.com/kalayciburak/nexus/pull/96) |
@@ -322,7 +323,6 @@ Open pull requests:
 | [rohd](https://github.com/intel/rohd) | [add ExternalSystemVerilogModule example to user guide #568](https://github.com/intel/rohd/pull/703) |
 | [rohd-hcl](https://github.com/intel/rohd-hcl) | [add DataPortInterface usage example #192](https://github.com/intel/rohd-hcl/pull/301) |
 | [concurrency](https://github.com/jakartaee/concurrency) | [call Thread.isVirtual() directly in virtual TCK servlet #943](https://github.com/jakartaee/concurrency/pull/944) |
-| [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) | [Document unique GitHub check names for monorepo jobs #275](https://github.com/jenkinsci/github-checks-plugin/pull/544) |
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [document operator JSON logging #3631](https://github.com/kroxylicious/kroxylicious/pull/4959) |
 | [fvm](https://github.com/leoafarias/fvm) | [use POSIX wrappers when rerouting flutter and dart #782](https://github.com/leoafarias/fvm/pull/1075) |

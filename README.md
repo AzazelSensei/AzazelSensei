@@ -102,6 +102,8 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [sedona](https://github.com/apache/sedona) | [[GH-2426] Add a branded documentation 404 page](https://github.com/apache/sedona/pull/3385) |
+| [armeria](https://github.com/line/armeria) | [Document the OAuth 2.0 client #5636](https://github.com/line/armeria/pull/6935) |
 | [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) | [fill documentation gaps](https://github.com/xerial/sqlite-jdbc/pull/1469) |
 | [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) | [Document unique GitHub check names for monorepo jobs #275](https://github.com/jenkinsci/github-checks-plugin/pull/544) |
 | [nexus](https://github.com/kalayciburak/nexus) | [Jev partileri arasındaki gereksiz bekleme kaldırıldı](https://github.com/kalayciburak/nexus/pull/98) |
@@ -289,7 +291,6 @@ Open pull requests:
 | [maven-shade-plugin](https://github.com/apache/maven-shade-plugin) | [Write an empty relativePath on dependency-reduced-pom.xml](https://github.com/apache/maven-shade-plugin/pull/843) |
 | [polaris](https://github.com/apache/polaris) | [expand GCS production configuration for sysadmins](https://github.com/apache/polaris/pull/5432) |
 | [seatunnel](https://github.com/apache/seatunnel) | [[Fix][Zeta] Bound observability edge-override warning cache #12225](https://github.com/apache/seatunnel/pull/12226) |
-| [sedona](https://github.com/apache/sedona) | [[GH-2426] Add a branded documentation 404 page](https://github.com/apache/sedona/pull/3385) |
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [eclipse-cs](https://github.com/checkstyle/eclipse-cs) | [Issue #101: map LeftCurly LAMBDA to brace_position_for_lambda_body](https://github.com/checkstyle/eclipse-cs/pull/1059) |
 | [mobile-app](https://github.com/CircuitVerse/mobile-app) | [show error widget when content fails to load #84](https://github.com/CircuitVerse/mobile-app/pull/651) |
@@ -329,7 +330,6 @@ Open pull requests:
 | [build_verify](https://github.com/kevmoo/build_verify) | [Add optional clean before expectBuildClean #22](https://github.com/kevmoo/build_verify/pull/101) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | [document operator JSON logging #3631](https://github.com/kroxylicious/kroxylicious/pull/4959) |
 | [fvm](https://github.com/leoafarias/fvm) | [use POSIX wrappers when rerouting flutter and dart #782](https://github.com/leoafarias/fvm/pull/1075) |
-| [armeria](https://github.com/line/armeria) | [Document the OAuth 2.0 client #5636](https://github.com/line/armeria/pull/6935) |
 | [mage](https://github.com/magefree/mage) | [Fix NPE when creature type choice is missing #14392](https://github.com/magefree/mage/pull/16072) |
 | [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl) | [explain how to load a local mbtiles file #318](https://github.com/maplibre/flutter-maplibre-gl/pull/1031) |
 | [injectable](https://github.com/Milad-Akarie/injectable) | [Add constructorCallback to generated micro package init](https://github.com/Milad-Akarie/injectable/pull/551) |

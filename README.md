@@ -346,7 +346,6 @@ Open pull requests:
 | [data-prepper](https://github.com/opensearch-project/data-prepper) | [Document FGAC OpenSearch sink permissions #4194](https://github.com/opensearch-project/data-prepper/pull/7149) |
 | [pf4j/pf4j](https://github.com/pf4j/pf4j) | [Document when PluginManager.unloadPlugin returns false #291](https://github.com/pf4j/pf4j/pull/686) |
 | [sidekick](https://github.com/phntmxyz/sidekick) | [Show a warning when sidekick init would downgrade the CLI #163](https://github.com/phntmxyz/sidekick/pull/286) |
-| [java-cfenv](https://github.com/pivotal-cf/java-cfenv) | [Document IBM Cloud RabbitMQ bindings #69](https://github.com/pivotal-cf/java-cfenv/pull/472) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |
 | [powsybl-core](https://github.com/powsybl/powsybl-core) | [Reject null DataSource in Importers.importData](https://github.com/powsybl/powsybl-core/pull/4083) |
 | [pypowsybl](https://github.com/powsybl/pypowsybl) | [Add a user-guide page for the PowSyBl configuration file #284](https://github.com/powsybl/pypowsybl/pull/1285) |
@@ -365,6 +364,7 @@ Open pull requests:
 | [Spring AI](https://github.com/spring-projects/spring-ai) | [Normalize advisor observation contextual names](https://github.com/spring-projects/spring-ai/pull/6788) |
 | [StarRocks/starrocks](https://github.com/StarRocks/starrocks) | [[Doc] Skip write-triggered auto-refresh for MVs that will not self-he...](https://github.com/StarRocks/starrocks/pull/78615) |
 | [testcontainers-java](https://github.com/testcontainers/testcontainers-java) | [document JNA tmpdir when /tmp is noexec](https://github.com/testcontainers/testcontainers-java/pull/12068) |
+| [klag](https://github.com/themoah/klag) | [merge CLAUDE.md into AGENTS.md #107](https://github.com/themoah/klag/pull/111) |
 | [trino-gateway](https://github.com/trinodb/trino-gateway) | [Replace deprecated MBeanExporter.unexportAll](https://github.com/trinodb/trino-gateway/pull/1248) |
 | [flow](https://github.com/vaadin/flow) | [Document that FeatureFlags.setEnabled writes the properties file #25567](https://github.com/vaadin/flow/pull/25771) |
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |

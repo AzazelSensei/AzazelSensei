@@ -283,7 +283,6 @@ Open pull requests:
 |---|---|
 | [bsl-language-server](https://github.com/1c-syntax/bsl-language-server) | [Document PairingBrokenTransaction early rollback on the diagnostic pa...](https://github.com/1c-syntax/bsl-language-server/pull/4502) |
 | [aem-core-wcm-components](https://github.com/adobe/aem-core-wcm-components) | [mention GitHub Discussions next to the mailing list](https://github.com/adobe/aem-core-wcm-components/pull/3092) |
-| [arrow-java](https://github.com/apache/arrow-java) | [[Java] Add TimeStamp*TZ support to ComplexCopier](https://github.com/apache/arrow-java/pull/1289) |
 | [camel-quarkus](https://github.com/apache/camel-quarkus) | [Document Camel Quarkus build items #2900](https://github.com/apache/camel-quarkus/pull/9101) |
 | [Apache Gravitino](https://github.com/apache/gravitino) | [[#12492] docs: document jdbc.options for PostgreSQL plan_cache_mode](https://github.com/apache/gravitino/pull/12721) |
 | [maven-acr-plugin](https://github.com/apache/maven-acr-plugin) | [Document Main-Class in the Application Client FAQ #61](https://github.com/apache/maven-acr-plugin/pull/151) |

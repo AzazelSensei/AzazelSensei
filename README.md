@@ -368,6 +368,7 @@ Open pull requests:
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
 | [valkey-glide](https://github.com/valkey-io/valkey-glide) | [fail session on unexpected cluster skips](https://github.com/valkey-io/valkey-glide/pull/7127) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
+| [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) | [fill documentation gaps](https://github.com/xerial/sqlite-jdbc/pull/1469) |
 | [xrpl4j](https://github.com/XRPLF/xrpl4j) | [cover all TrustLine flags in AccountLinesResultJsonTests #621](https://github.com/XRPLF/xrpl4j/pull/833) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [note zip vs JSON load cost #208](https://github.com/xvrh/lottie-flutter/pull/436) |
 | [yacy_search_server](https://github.com/yacy/yacy_search_server) | [Show git commit on Console Status and in the release README #466](https://github.com/yacy/yacy_search_server/pull/822) |

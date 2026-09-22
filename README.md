@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) | [fill documentation gaps](https://github.com/xerial/sqlite-jdbc/pull/1469) |
 | [github-checks-plugin](https://github.com/jenkinsci/github-checks-plugin) | [Document unique GitHub check names for monorepo jobs #275](https://github.com/jenkinsci/github-checks-plugin/pull/544) |
 | [nexus](https://github.com/kalayciburak/nexus) | [Jev partileri arasındaki gereksiz bekleme kaldırıldı](https://github.com/kalayciburak/nexus/pull/98) |
 | [nexus](https://github.com/kalayciburak/nexus) | [Jev kuyruk kontrolleri ve belirsiz konu yönlendirmesi](https://github.com/kalayciburak/nexus/pull/97) |
@@ -288,6 +289,7 @@ Open pull requests:
 | [maven-shade-plugin](https://github.com/apache/maven-shade-plugin) | [Write an empty relativePath on dependency-reduced-pom.xml](https://github.com/apache/maven-shade-plugin/pull/843) |
 | [polaris](https://github.com/apache/polaris) | [expand GCS production configuration for sysadmins](https://github.com/apache/polaris/pull/5432) |
 | [seatunnel](https://github.com/apache/seatunnel) | [[Fix][Zeta] Bound observability edge-override warning cache #12225](https://github.com/apache/seatunnel/pull/12226) |
+| [sedona](https://github.com/apache/sedona) | [[GH-2426] Add a branded documentation 404 page](https://github.com/apache/sedona/pull/3385) |
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [eclipse-cs](https://github.com/checkstyle/eclipse-cs) | [Issue #101: map LeftCurly LAMBDA to brace_position_for_lambda_body](https://github.com/checkstyle/eclipse-cs/pull/1059) |
 | [mobile-app](https://github.com/CircuitVerse/mobile-app) | [show error widget when content fails to load #84](https://github.com/CircuitVerse/mobile-app/pull/651) |
@@ -368,7 +370,6 @@ Open pull requests:
 | [flow-components](https://github.com/vaadin/flow-components) | [document TreeGrid.getDataProvider without list/lazy views (vaadin/flo...](https://github.com/vaadin/flow-components/pull/10029) |
 | [valkey-glide](https://github.com/valkey-io/valkey-glide) | [fail session on unexpected cluster skips](https://github.com/valkey-io/valkey-glide/pull/7127) |
 | [vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | [layering panel example for node stacking #10](https://github.com/vyuh-tech/vyuh_node_flow/pull/42) |
-| [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) | [fill documentation gaps](https://github.com/xerial/sqlite-jdbc/pull/1469) |
 | [xrpl4j](https://github.com/XRPLF/xrpl4j) | [cover all TrustLine flags in AccountLinesResultJsonTests #621](https://github.com/XRPLF/xrpl4j/pull/833) |
 | [lottie-flutter](https://github.com/xvrh/lottie-flutter) | [note zip vs JSON load cost #208](https://github.com/xvrh/lottie-flutter/pull/436) |
 | [yacy_search_server](https://github.com/yacy/yacy_search_server) | [Show git commit on Console Status and in the release README #466](https://github.com/yacy/yacy_search_server/pull/822) |

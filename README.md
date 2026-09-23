@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [SootUp](https://github.com/soot-oss/SootUp) | [compile example input with javac -g #915](https://github.com/soot-oss/SootUp/pull/1764) |
 | [hawkbit](https://github.com/eclipse-hawkbit/hawkbit) | [document DDI controller attribute length limits #1083](https://github.com/eclipse-hawkbit/hawkbit/pull/3341) |
 | [mage](https://github.com/magefree/mage) | [Fix NPE when creature type choice is missing #14392](https://github.com/magefree/mage/pull/16072) |
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
@@ -297,7 +298,6 @@ Open pull requests:
 | [sedona](https://github.com/apache/sedona) | [[GH-1328] Add Open Graph and Twitter Card meta tags](https://github.com/apache/sedona/pull/3392) |
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/685) |
-| [eclipse-cs](https://github.com/checkstyle/eclipse-cs) | [Issue #101: map LeftCurly LAMBDA to brace_position_for_lambda_body](https://github.com/checkstyle/eclipse-cs/pull/1059) |
 | [mobile-app](https://github.com/CircuitVerse/mobile-app) | [show error widget when content fails to load #84](https://github.com/CircuitVerse/mobile-app/pull/651) |
 | [recaf-site](https://github.com/Col-E/recaf-site) | [add scripting examples for common reverse-engineering tasks (Col-E/Re...](https://github.com/Col-E/recaf-site/pull/2) |
 | [schema-registry](https://github.com/confluentinc/schema-registry) | [pretty-print schema JSON with jq](https://github.com/confluentinc/schema-registry/pull/4553) |
@@ -307,6 +307,7 @@ Open pull requests:
 | [tzatziki](https://github.com/Decathlon/tzatziki) | [Handle Kafka tombstone records in topic assertions #564](https://github.com/Decathlon/tzatziki/pull/901) |
 | [deephaven-core](https://github.com/deephaven/deephaven-core) | [add Raises descriptions for autocomplete #6164](https://github.com/deephaven/deephaven-core/pull/8441) |
 | [docs](https://github.com/DependencyTrack/docs) | [Document default outbound hosts for firewalls (DependencyTrack/depend...](https://github.com/DependencyTrack/docs/pull/263) |
+| [OpenELIS-Global-2](https://github.com/DIGI-UW/OpenELIS-Global-2) | [Document backend test patterns](https://github.com/DIGI-UW/OpenELIS-Global-2/pull/4390) |
 | [DSpace/DSpace](https://github.com/DSpace/DSpace) | [Fix haveNA to honor additional handle prefixes #11449](https://github.com/DSpace/DSpace/pull/13065) |
 | [ditto](https://github.com/eclipse-ditto/ditto) | [Document PUT create for connections #1746](https://github.com/eclipse-ditto/ditto/pull/2542) |
 | [glassfish](https://github.com/eclipse-ee4j/glassfish) | [update obsolete HK2 APIs in add-on guide #25008](https://github.com/eclipse-ee4j/glassfish/pull/26198) |
@@ -362,7 +363,6 @@ Open pull requests:
 | [pgpverify-maven-plugin](https://github.com/s4u/pgpverify-maven-plugin) | [NPE when ProjectDependencyGraph is null #488](https://github.com/s4u/pgpverify-maven-plugin/pull/731) |
 | [dart_mappable](https://github.com/schultek/dart_mappable) | [document implements and mixins for polymorphism #251](https://github.com/schultek/dart_mappable/pull/353) |
 | [flutter-quill](https://github.com/singerdmx/flutter-quill) | [Fix crash when long-pressing text after removing a link #2271](https://github.com/singerdmx/flutter-quill/pull/2766) |
-| [SootUp](https://github.com/soot-oss/SootUp) | [compile example input with javac -g #915](https://github.com/soot-oss/SootUp/pull/1764) |
 | [logger](https://github.com/SourceHorizon/logger) | [add FileOutput date-based example #56](https://github.com/SourceHorizon/logger/pull/118) |
 | [spring-cloud-config](https://github.com/spring-cloud/spring-cloud-config) | [Clarify Vault client vs server authentication #1580](https://github.com/spring-cloud/spring-cloud-config/pull/3300) |
 | [spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) | [Document production ready endpoints #2048](https://github.com/spring-cloud/spring-cloud-netflix/pull/4598) |

@@ -293,6 +293,7 @@ Open pull requests:
 | [maven-shade-plugin](https://github.com/apache/maven-shade-plugin) | [Write an empty relativePath on dependency-reduced-pom.xml](https://github.com/apache/maven-shade-plugin/pull/843) |
 | [polaris](https://github.com/apache/polaris) | [expand GCS production configuration for sysadmins](https://github.com/apache/polaris/pull/5432) |
 | [seatunnel](https://github.com/apache/seatunnel) | [[Fix][Zeta] Bound observability edge-override warning cache #12225](https://github.com/apache/seatunnel/pull/12226) |
+| [sedona](https://github.com/apache/sedona) | [[GH-1328] Add Open Graph and Twitter Card meta tags](https://github.com/apache/sedona/pull/3392) |
 | [docs](https://github.com/aws-amplify/docs) | [[amplify-libraries][Flutter] Document copyWithModelFieldValues for nu...](https://github.com/aws-amplify/docs/pull/8619) |
 | [oblivion](https://github.com/bepass-org/oblivion) | [how to share the proxy on the LAN #217](https://github.com/bepass-org/oblivion/pull/685) |
 | [eclipse-cs](https://github.com/checkstyle/eclipse-cs) | [Issue #101: map LeftCurly LAMBDA to brace_position_for_lambda_body](https://github.com/checkstyle/eclipse-cs/pull/1059) |
@@ -312,6 +313,7 @@ Open pull requests:
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |
 | [apm-agent-java](https://github.com/elastic/apm-agent-java) | [Log an error when activating a nested transaction #850](https://github.com/elastic/apm-agent-java/pull/4572) |
 | [esapi-java-legacy](https://github.com/ESAPI/esapi-java-legacy) | [Clean up obsolete ESAPI 1.4 comments in config files #474](https://github.com/ESAPI/esapi-java-legacy/pull/918) |
+| [exist](https://github.com/eXist-db/exist) | [[bugfix] Use the same FOAY0001 message for array lookup and array:get...](https://github.com/eXist-db/exist/pull/6750) |
 | [bloc](https://github.com/felangel/bloc) | [document testing initial events #4229](https://github.com/felangel/bloc/pull/4873) |
 | [flowable-engine](https://github.com/flowable/flowable-engine) | [replace removed potentialStarter query](https://github.com/flowable/flowable-engine/pull/4276) |
 | [devtools](https://github.com/flutter/devtools) | [Clarify Diff Snapshots Freed column is per class #8837](https://github.com/flutter/devtools/pull/10002) |

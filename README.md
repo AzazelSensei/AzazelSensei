@@ -345,6 +345,7 @@ Open pull requests:
 | [engine](https://github.com/OpenIntegrationEngine/engine) | [Point Administrator Help and homepage links at the docs site #181](https://github.com/OpenIntegrationEngine/engine/pull/433) |
 | [openremote/openremote](https://github.com/openremote/openremote) | [Show client secret length on the interconnect form #1365](https://github.com/openremote/openremote/pull/3256) |
 | [data-prepper](https://github.com/opensearch-project/data-prepper) | [Document FGAC OpenSearch sink permissions #4194](https://github.com/opensearch-project/data-prepper/pull/7149) |
+| [sql](https://github.com/opensearch-project/sql) | [add Calcite settings examples #4806](https://github.com/opensearch-project/sql/pull/5795) |
 | [pf4j/pf4j](https://github.com/pf4j/pf4j) | [Document when PluginManager.unloadPlugin returns false #291](https://github.com/pf4j/pf4j/pull/686) |
 | [sidekick](https://github.com/phntmxyz/sidekick) | [Show a warning when sidekick init would downgrade the CLI #163](https://github.com/phntmxyz/sidekick/pull/286) |
 | [PMD](https://github.com/pmd/pmd) | [[java] ExhaustiveSwitchHasDefault: list missing cases in the violation](https://github.com/pmd/pmd/pull/6996) |

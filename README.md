@@ -102,6 +102,7 @@ Merged contributions I actually landed:
 <!-- oss-merged:start -->
 | Project | PR |
 |---|---|
+| [hawkbit](https://github.com/eclipse-hawkbit/hawkbit) | [document DDI controller attribute length limits #1083](https://github.com/eclipse-hawkbit/hawkbit/pull/3341) |
 | [mage](https://github.com/magefree/mage) | [Fix NPE when creature type choice is missing #14392](https://github.com/magefree/mage/pull/16072) |
 | [rdf4j](https://github.com/eclipse-rdf4j/rdf4j) | [document gzip uploads on the Workbench add page](https://github.com/eclipse-rdf4j/rdf4j/pull/6002) |
 | [sedona](https://github.com/apache/sedona) | [[GH-2426] Add a branded documentation 404 page](https://github.com/apache/sedona/pull/3385) |
@@ -309,7 +310,6 @@ Open pull requests:
 | [DSpace/DSpace](https://github.com/DSpace/DSpace) | [Fix haveNA to honor additional handle prefixes #11449](https://github.com/DSpace/DSpace/pull/13065) |
 | [ditto](https://github.com/eclipse-ditto/ditto) | [Document PUT create for connections #1746](https://github.com/eclipse-ditto/ditto/pull/2542) |
 | [glassfish](https://github.com/eclipse-ee4j/glassfish) | [update obsolete HK2 APIs in add-on guide #25008](https://github.com/eclipse-ee4j/glassfish/pull/26198) |
-| [hawkbit](https://github.com/eclipse-hawkbit/hawkbit) | [document DDI controller attribute length limits #1083](https://github.com/eclipse-hawkbit/hawkbit/pull/3341) |
 | [jkube](https://github.com/eclipse-jkube/jkube) | [clarify oc:build defaults to cluster S2I #1528](https://github.com/eclipse-jkube/jkube/pull/3992) |
 | [apm-agent-java](https://github.com/elastic/apm-agent-java) | [Log an error when activating a nested transaction #850](https://github.com/elastic/apm-agent-java/pull/4572) |
 | [esapi-java-legacy](https://github.com/ESAPI/esapi-java-legacy) | [Clean up obsolete ESAPI 1.4 comments in config files #474](https://github.com/ESAPI/esapi-java-legacy/pull/918) |
